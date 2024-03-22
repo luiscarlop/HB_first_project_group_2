@@ -1,253 +1,757 @@
-Name,Type,Price per night,Host,Rating,Reviews
-Bajo a estrenar en pleno centro,"Alojamiento entero: piso en València, España",211,Anfitrión: Federico,,
-Loft en Centro Histórico,"Alojamiento entero: loft en València, España",112,Anfitrión: Mr Flats,"4,30",50
-Gran loft,"Alojamiento entero: piso en València, España",90,Anfitrión: Josue,,
-El Mercat 02,"Alojamiento entero: piso en València, España",170,Anfitrión: Caro Y Lu,,
-"Super Apartamento de 3 habitaciones, 2 dormitorios, wifi de aire acondicionado","Alojamiento entero: piso en València, España",120,Anfitrión: Alfonso,,
-Apartamento Valencia Patraix,"Alojamiento entero: piso en València, España",95,Anfitrión: Yousaf,"4,0",6
-Maravilloso apartamento en el centro de la ciudad,"Alojamiento entero: piso en València, España",170,Anfitrión: Yolanda,,
-tranquilidad total.,"Alojamiento entero: piso en València, España",160,Anfitrión: Andrea,"4,38",8
-apartamento con terraza,"Alojamiento entero: piso en València, España",108,Anfitrión: Vicent,"5,0",3
-Superubicación 3 min Ruzafa,"Alojamiento entero: piso en València, España",80,Anfitrión: Raluca,"4,13",23
-PISO PLAZA DE LA REINA Free Cov. OZONO,"Alojamiento entero: piso en València, España",144,Anfitrión: Permafrost,"4,57",392
-"Piso en Ruzafa, Valencia,2 habitaciones, 2 baños","Alojamiento entero: piso en València, España",122,Anfitrión: María José,"4,81",121
-Departamento independiente en el centro histórico,"Alojamiento entero: piso en València, España",120,Anfitrión: Julian,"4,57",110
-El rincón de los sueños Valencia,"Alojamiento entero: piso en València, España",108,Anfitrión: Nicolas Paul,"5,0",4
-Palleter 3A centro ciudad Gran Vía,"Alojamiento entero: apto. residencial en València, España",121,Anfitrión: Cong,"4,78",81
-"Down Town 13, apartamento de 2 dormitorios + wifi","Alojamiento entero: piso en València, España",161,Anfitrión: Coroa Coroa,"4,20",45
-Old Town Flat + Wifi + Estacionamiento + Supermercado,"Alojamiento entero: piso en València, España",216,Anfitrión: Isabel,"4,91",211
-"""ABASTOS"" Lujoso apartm. Perfecto para familias.","Alojamiento entero: piso en València, España",143,Anfitrión: Dulce,"4,52",60
-HOGAR EN EL CASCO HISTORICO,"Alojamiento entero: piso en València, España",144,Anfitrión: Maria,"4,87",52
-"El Palomar, ático con vistas a la ciudad","Alojamiento entero: piso en València, España",103,Anfitrión: Paloma,"4,0",9
-Cabanyal Valencia,"Alojamiento entero: piso en València, España",66,Anfitrión: Jose,"4,50",6
-"Luminoso, cómodo, céntrico 2","Alojamiento entero: loft en València, España",117,Anfitrión: Mr Flats,"4,54",120
-LUGAR CENTRAL,"Alojamiento entero: piso en Valencia, España",144,Anfitrión: Permafrost,"4,44",326
-Espacioso y cómodo Av.del Puerto,"Alojamiento entero: piso en València, España",90,Anfitrión: Gabriela,"4,64",11
-Sueños de Valencia,"Alojamiento entero: piso en València, España",103,Anfitrión: Maria Eulina,"5,0",3
-Bonito apartamento cerca del AVE,"Alojamiento entero: piso en València, España",87,Anfitrión: Juan,"4,38",8
-Bajo tipo estudio 1,"Alojamiento entero: piso en València, España",68,Anfitrión: Vadim,"3,80",5
-"Céntrico, elegante y tranquilo. Ideal familias.","Alojamiento entero: apto. residencial en Valencia, España",138,Anfitrión: Laura,"4,56",215
-3D/3B - Recien reformado en el centro historico,"Alojamiento entero: piso en València, España",189,Anfitrión: Alex,"4,74",165
-Piso modernista reformado en el centro de Valencia,"Alojamiento entero: piso en València, España",75,Anfitrión: Carmen,"4,70",227
-Romantic Petit Mercat,"Alojamiento entero: piso en Valencia, España",180,Anfitrión: Ignacio,"5,0",13
-Estupendo apartamento en la playa de Las Arenas,"Alojamiento entero: piso en València, España",110,Anfitrión: Igor,"4,81",32
-Apartment en ciudad de las ciencias,"Alojamiento entero: piso en València, España",112,Anfitrión: Marcos,"4,53",236
-Coqueto apartamento cerca de la playa,"Alojamiento entero: piso en València, España",87,Anfitrión: Asunción,"4,62",60
-Precioso apartamento con vistas a la calle la Paz.,"Alojamiento entero: piso en València, España",119,Anfitrión: Javi Y Ana,"4,68",38
-Moderno y céntrico apartamento con terraza,"Alojamiento entero: piso en Valencia, España",135,Anfitrión: Irene,"4,54",184
-Precioso apartamento nuevo #B con terraza & wifi,"Alojamiento entero: piso en València, España",128,Anfitrión: Mirko,"4,85",74
-Colorin colorado,"Alojamiento entero: piso en València, España",93,Anfitrión: Antonio,"4,76",17
-NewWave Russafa Haven,"Alojamiento entero: piso en Valencia, España",142,Anfitrión: Maria Mercedes,"4,48",160
-Lux Lil Mossen,"Alojamiento entero: piso en València, España",96,Anfitrión: Jose Luis,"4,73",11
-Apartamento de lujo en el centro de Valencia,"Alojamiento entero: piso en València, España",220,Anfitrión: Alejandro,"4,88",57
-""" Casa Marinera"" VT-46496-V","Alojamiento entero: vivienda en València, España",130,Anfitrión: Cristina,"4,57",194
-Piso en pleno centro de Valencia,"Alojamiento entero: piso en València, España",295,Anfitrión: Pilar,"4,87",
-LUX Living - SuiteOlympia,"Alojamiento entero: piso en València, España",104,Anfitrión: Cecilia,"4,85",20
-"Ciencias, Artes y Deportes en espectacular piso","Alojamiento entero: piso en Valencia, España",103,Anfitrión: Nazareno,"4,67",21
-Apartment City of Arts,"Alojamiento entero: apto. residencial en Valencia, España",110,Anfitrión: Ovi,"4,71",346
-Acogedor apartamento de dos dormitorios con dos terrazas,"Alojamiento entero: piso en València, España",103,Anfitrión: Sheila,"4,76",205
-"APARTAMENTO CERCA DE LA PLAYA, DE 3 HABITACIONES","Alojamiento entero: piso en València, España",125,Anfitrión: Juan,"4,68",250
-Romantic Petit Mercat,"Alojamiento entero: piso en Valencia, España",180,Anfitrión: Ignacio,"5,0",13
-Gran apartamento único Mecado Central VT44901V,"Alojamiento entero: piso en València, España",120,Anfitrión: Carlos,"4,61",88
-Sorolla Station Suites and Terraces WIFI&AC,"Alojamiento entero: piso en València, España",84,Anfitrión: Sorolla,"4,57",14
-Casa de playa estilo 1900 para 10 personas (adaptada para discapacitados),"Alojamiento entero: vivienda en Valencia, España",220,Anfitrión: Susana Barbara,"4,65",246
-Bonito apartamento en Valencia,"Alojamiento entero: piso en València, España",69,Anfitrión: Daniel,,
-PISO EN FINCA ROJA CENTRO VALENCIA,"Alojamiento entero: piso en Valencia, España",170,Anfitrión: Javier,"4,87",163
-Apartamento cerca del centro (B),"Alojamiento entero: piso en València, España",83,Anfitrión: Dionisio,,
-Piso a 150 metros de la playa.,"Alojamiento entero: piso en València, España",200,Anfitrión: Juan,"4,55",33
-"El Palomar, ático con vistas a la ciudad","Alojamiento entero: piso en València, España",103,Anfitrión: Paloma,"4,0",9
-3D/3B - Recien reformado en el centro historico,"Alojamiento entero: piso en València, España",189,Anfitrión: Alex,"4,74",165
-LUX Living - SuiteOlympia,"Alojamiento entero: piso en València, España",104,Anfitrión: Cecilia,"4,85",20
-Old Town Flat + Wifi + Estacionamiento + Supermercado,"Alojamiento entero: piso en València, España",216,Anfitrión: Isabel,"4,91",211
-Apartamento tranquilo frente al paseo y la playa,"Alojamiento entero: piso en València, España",100,Anfitrión: María José,"4,56",165
-Gran loft en el corazón de Ruzafa,"Alojamiento entero: piso en València, España",126,Anfitrión: Maria,"4,53",45
-Tu casa en Valencia,"Alojamiento entero: piso en València, España",110,Anfitrión: Jesus,"4,52",88
-Loft cerca de la playa con balcón,"Alojamiento entero: loft en València, España",105,Anfitrión: Flats,"4,66",
-Apartamento en Valencia,"Alojamiento entero: piso en València, España",104,Anfitrión: Sofi,"4,28",87
-Apartamento al lado de la playa,"Alojamiento entero: piso en València, España",110,Anfitrión: Santiago,"4,89",18
-Apartamento en Valencia con entrada independiente,"Alojamiento entero: apto. residencial en València, España",70,Anfitrión: Toni,"4,55",64
-Apartment en ciudad de las ciencias,"Alojamiento entero: piso en València, España",112,Anfitrión: Marcos,"4,53",236
-Apartamento amplio y luminoso en el centro de la ciudad con WIFI,"Alojamiento entero: piso en València, España",89,Anfitrión: Jose Manuel,"4,75",91
-Moderno y céntrico apartamento con terraza,"Alojamiento entero: piso en Valencia, España",135,Anfitrión: Irene,"4,54",184
-Disfruta de Ruzafa en grupo!,"Alojamiento entero: piso en València, España",241,Anfitrión: Ana,"4,85",52
-excelente ubicación,"Alojamiento entero: loft en Valencia, España",110,Anfitrión: Permafrost,"4,50",408
-casa típica marinera en el corazón del cabanyal,"Alojamiento entero: piso en València, España",80,Anfitrión: Carlos,"4,54",116
-Esmeralda,"Alojamiento entero: piso en València, España",94,Anfitrión: Jakub & Maria,,
-Nuevo Apartamento en la PLAYA!,"Alojamiento entero: vivienda en València, España",93,Anfitrión: Carlos Y Paula,"4,33",
-Descubre Valencia VT-51826-V,"Alojamiento entero: piso en València, España",98,Anfitrión: Flats Rental,"4,92",12
-Apartamento tranquilo frente al paseo y la playa,"Alojamiento entero: piso en València, España",100,Anfitrión: María José,"4,56",165
-Ciudad las Artes Gem: Stylish Near Ruzafa & Beach,"Alojamiento entero: piso en València, España",113,Anfitrión: Rent With Us,"4,50",8
-Estupendo apartamento en la playa de Las Arenas,"Alojamiento entero: piso en València, España",110,Anfitrión: Igor,"4,81",32
-Carrer del Pare Luis Navarro 83 Valencia,"Alojamiento entero: piso en València, España",100,Anfitrión: Sergii,"3,82",17
-Apartamento en Valencia,"Alojamiento entero: piso en València, España",104,Anfitrión: Sofi,"4,28",87
-Alojamiento de lujo para que tu estancia sea perfecta,"Alojamiento entero: piso en València, España",185,Anfitrión: Javier,"4,82",101
-LUX Living - SuiteOlympia,"Alojamiento entero: piso en València, España",104,Anfitrión: Cecilia,"4,85",20
-Confortable apartamento para 6,"Alojamiento entero: piso en València, España",150,Anfitrión: Matias,"4,77",161
-Amplia unidad de alquiler cerca de la playa de Malvarrosa,"Alojamiento entero: piso en València, España",110,Anfitrión: Sos,"4,33",70
-Gran loft en el corazón de Ruzafa,"Alojamiento entero: piso en València, España",126,Anfitrión: Maria,"4,53",45
-Casa de playa estilo 1900 para 10 personas (adaptada para discapacitados),"Alojamiento entero: vivienda en Valencia, España",220,Anfitrión: Susana Barbara,"4,65",246
-Apartamento Torres de Quart 2,"Alojamiento entero: piso en València, España",116,Anfitrión: Elisa,"4,35",26
-"APARTAMENTO CERCA DE LA PLAYA, DE 3 HABITACIONES","Alojamiento entero: piso en València, España",125,Anfitrión: Juan,"4,68",250
-Olive’s apartamento 3 habitaciones,"Alojamiento entero: piso en València, España",75,Anfitrión: Anabel,,
-La belleza panorámica de Valencia,"Alojamiento entero: loft en Burjasot, España",76,Anfitrión: Poór,,
-Apartamento en Valencia,"Alojamiento entero: piso en València, España",104,Anfitrión: Sofi,"4,28",87
-"CORAZÓN DE RUZAFA, PISO NUEVO BOHEMIO Y CÓMODO","Alojamiento entero: loft en València, España",116,Anfitrión: ValenciaGUEST,"4,44",271
-Habitación con baño propio,"Habitación privada en: piso en València, España",50,Anfitrión: Sarah Kristina,"4,71",21
-Apartamento al lado de la playa,"Alojamiento entero: piso en València, España",110,Anfitrión: Santiago,"4,89",18
-Apartamento artístico junto a Ruzafa,"Alojamiento entero: apto. residencial en València, España",130,Anfitrión: Fabio,"4,73",48
-Casa típica en el Cabanyal con terraza,"Alojamiento entero: adosado en València, España",98,Anfitrión: Laura,"4,93",41
-ENCANTADOR ESTUDIO,"Alojamiento entero: loft en Valencia, España",89,Anfitrión: Permafrost,"4,35",110
-"Céntrico apartamento en Ruzafa, excelentes vistas","Alojamiento entero: piso en València, España",170,Anfitrión: Ana,"4,63",87
-Olive’s apartamento 3 habitaciones,"Alojamiento entero: piso en València, España",75,Anfitrión: Anabel,,
-NUEVO apartamento cerca de la PLAYA/wifi/Smart tv/aire acondicionado,"Alojamiento entero: piso en València, España",105,Anfitrión: Isidro,"4,90",20
-¡Increíble vista de Oceanografic y la piscina!,"Alojamiento entero: piso en València, España",180,Anfitrión: Sophie,"4,84",89
-Alojamiento de lujo para que tu estancia sea perfecta,"Alojamiento entero: piso en València, España",185,Anfitrión: Javier,"4,82",101
-APARTAMENTO CON WIFI EN EL CENTRO DE VALENCIA RUZAFA,"Alojamiento entero: piso en València, España",129,Anfitrión: José Vicente,"4,87",85
-Espacioso Ático en el centro de Valencia VT45727V,"Alojamiento entero: loft en València, España",124,Anfitrión: Mompefam,"4,87",147
-"Gran Apartment 5 pax-2Rooms-2Bth,Ac,Terrace,wifi","Alojamiento entero: piso en València, España",126,Anfitrión: Luciano,"4,0",3
-Amplia unidad de alquiler cerca de la playa de Malvarrosa,"Alojamiento entero: piso en València, España",110,Anfitrión: Sos,"4,33",70
-Apartamento de lujo en el centro de Valencia wifi,"Alojamiento entero: piso en València, España",121,Anfitrión: Alejandra,"4,79",160
-Lujoso apartamento en Ruzafa (23a Izq),"Alojamiento entero: piso en València, España",101,Anfitrión: David,,
-APARTAMENTO en el centro de la ciudad muy soleado,"Alojamiento entero: piso en València, España",100,Anfitrión: Maria Isabel,"4,46",173
-Nuevo Apartamento en la PLAYA!,"Alojamiento entero: vivienda en València, España",93,Anfitrión: Carlos Y Paula,"4,33",
-Apartamento en valencia centro A,"Alojamiento entero: piso en València, España",74,Anfitrión: Andy,,
-Estudio reformado en el centro,"Alojamiento entero: piso en València, España",101,Anfitrión: Ruben,"4,89",
-APARTAMENTO CON WIFI EN EL CENTRO DE VALENCIA RUZAFA,"Alojamiento entero: piso en València, España",129,Anfitrión: José Vicente,"4,87",85
-Apartamento Port Area II,"Alojamiento entero: piso en Valencia, España",125,Anfitrión: Laura,"4,68",88
-APARTAMENTO EN EL MUSEO,"Alojamiento entero: piso en València, España",140,Anfitrión: Claudio,"4,61",237
-Apartamento en Valencia,"Alojamiento entero: piso en València, España",104,Anfitrión: Sofi,"4,28",87
-Apartamento de 3 habitaciones,"Alojamiento entero: piso en València, España",85,Anfitrión: Jaime,"4,66",59
-Apartament Beach Malvarrosa II,"Alojamiento entero: apto. residencial en València, España",93,Anfitrión: Laura,"4,63",16
-Apartmento Entero/Centro/Internet/ Portero/Doorman,"Alojamiento entero: piso en València, España",86,Anfitrión: P,"4,33",76
-Estudio 1º centro histórico Valencia Ciutat Vella,"Alojamiento entero: loft en Valencia, España",94,Anfitrión: Carmina Y Ivan,"4,52",387
-Luminoso apartamento 5pax cerca de la playa,"Alojamiento entero: piso en Valencia, España",89,Anfitrión: Carlos Y Paula,"4,46",69
-Apartamento al lado de la playa,"Alojamiento entero: piso en València, España",110,Anfitrión: Santiago,"4,89",18
-Dúplex en pleno centro con mucha luz!,"Alojamiento entero: piso en València, España",101,Anfitrión: Julio,"4,69",360
-Piso acogedor a estrenar en el corazón de ruzafa.,"Alojamiento entero: piso en Eixample, España",110,Anfitrión: Giusi,"4,75",
-Nueva suite mediterránea de lujo,"Alojamiento entero: piso en València, España",81,Anfitrión: Nacho,"4,86",7
-Lux Lil Mossen,"Alojamiento entero: piso en València, España",96,Anfitrión: Jose Luis,"4,73",11
-Apartamento cerca de la playa,"Alojamiento entero: piso en València, España",114,Anfitrión: Enrique,"4,55",
-¡Apartamento soleado con terraza y vistas de la ciudad vieja!,"Alojamiento entero: piso en València, España",150,Anfitrión: Jose,"4,70",107
-Dúplex en pleno centro con mucha luz!,"Alojamiento entero: piso en València, España",101,Anfitrión: Julio,"4,69",360
-Nueva suite mediterránea de lujo,"Alojamiento entero: piso en València, España",81,Anfitrión: Nacho,"4,86",7
-Loft en el centro histórico de Valencia,"Alojamiento entero: loft en València, España",78,Anfitrión: Pablo,"4,70",
-Lujoso apartamento en Ruzafa (23a Izq),"Alojamiento entero: piso en València, España",101,Anfitrión: David,,
-Apartamento La Cruz,"Alojamiento entero: piso en Valencia, España",75,Anfitrión: Sheila,"4,67",3
-Elegante piso céntrico Valencia,"Alojamiento entero: piso en València, España",94,Anfitrión: Hassna,"4,40",5
-Perfecto Alojamiento en Ruzafa,"Alojamiento entero: piso en València, España",88,Anfitrión: Diego,"4,83",6
-Piso acogedor a estrenar en el corazón de ruzafa.,"Alojamiento entero: piso en Eixample, España",110,Anfitrión: Giusi,"4,75",
-Peter's casa Valencia old town,"Alojamiento entero: piso en València, España",150,Anfitrión: Peter,"4,90",194
-Típica casa de pescadores españoles,"Alojamiento entero: piso en València, España",94,Anfitrión: Sara,"4,54",13
-Apartamentos Sant Roc,"Alojamiento entero: suite con entrada independiente en València, España",80,Anfitrión: Nataliia,,
-Apartamento en valencia centro B,"Alojamiento entero: piso en València, España",114,Anfitrión: Andy,"4,67",9
-APARTAMENTO TORRES DE SERRANOS (VT-43488-V),"Alojamiento entero: piso en València, España",89,Anfitrión: Manuel,"4,92",52
-Apartmento Entero/Centro/Internet/ Portero/Doorman,"Alojamiento entero: piso en València, España",86,Anfitrión: P,"4,33",76
-Apartamento en valencia centro 1,"Alojamiento entero: piso en València, España",85,Anfitrión: Heidy,,
-"¡Explora Valencia! wifi, la ciudad de la ciencia y Ruzafa","Alojamiento entero: piso en València, España",95,Anfitrión: Ayres,"5,0",4
-Un lugar tranquilo y familiar,"Alojamiento entero: piso en València, España",78,Anfitrión: Jeison,"5,0",
-Apartamento en valencia centro B,"Alojamiento entero: piso en València, España",114,Anfitrión: Andy,"4,67",9
-Estupendo piso Parque Turia 3' Patio,"Alojamiento entero: piso en València, España",120,Anfitrión: Trinidad,"5,0",3
-Piso acogedor a estrenar en el corazón de ruzafa.,"Alojamiento entero: piso en Eixample, España",110,Anfitrión: Giusi,"4,75",
-Estudio 2 con encanto en pleno casco antiguo..,"Alojamiento entero: loft en Valencia, España",80,Anfitrión: María,"4,49",119
-APARTAMENTO en el centro de la ciudad muy soleado,"Alojamiento entero: piso en València, España",100,Anfitrión: Maria Isabel,"4,46",173
-Primado Reig Apartment,"Alojamiento entero: piso en València, España",115,Anfitrión: Foramen Oval,,
-Lujoso apartamento en Ruzafa (23a Izq),"Alojamiento entero: piso en València, España",101,Anfitrión: David,,
-¡Apartamento soleado con terraza y vistas de la ciudad vieja!,"Alojamiento entero: piso en València, España",150,Anfitrión: Jose,"4,70",107
-Apartamento en valencia centro 1,"Alojamiento entero: piso en València, España",85,Anfitrión: Heidy,,
-mercado colon 2 habitaciones. conde 1,"Alojamiento entero: piso en València, España",122,Anfitrión: Pablo,"4,23",31
-Apartamento en valencia centro 3,"Alojamiento entero: piso en València, España",78,Anfitrión: Heidy,,
-Maldonado Circles,"Alojamiento entero: piso en València, España",128,Anfitrión: Adenzo Center Flats,"4,36",
-Alta 2 - Estacionamiento disponible,"Alojamiento entero: piso en València, España",140,Anfitrión: Anthony,"4,79",48
-casa típica marinera en el corazón del cabanyal,"Alojamiento entero: piso en València, España",80,Anfitrión: Carlos,"4,54",116
-Apartamento Moderno,"Alojamiento entero: piso en València, España",142,Anfitrión: Geral,"4,63",32
-Nuevo piso de lujo en el centro,"Alojamiento entero: piso en València, España",200,Anfitrión: Alicia,"4,93",98
-Loft,"Alojamiento entero: piso en València, España",125,Anfitrión: Permafrost,"4,71",24
-Nuevo piso de lujo en el centro,"Alojamiento entero: piso en València, España",200,Anfitrión: Alicia,"4,93",98
-Loft exterior en Av. del Puerto,"Alojamiento entero: piso en València, España",78,Anfitrión: Juan,,
-Un encantador loft en el corazón de la ciudad,"Alojamiento entero: loft en València, España",100,Anfitrión: Anna,"4,21",28
-La Paella stúdió Mercado Centrál,"Alojamiento entero: piso en València, España",88,Anfitrión: Dulce Violante.,"4,79",14
-casa típica marinera en el corazón del cabanyal,"Alojamiento entero: piso en València, España",80,Anfitrión: Carlos,"4,54",116
-Central Station y Central Park. Wifi,"Alojamiento entero: piso en València, España",105,Anfitrión: Fernando,"4,53",15
-Apartamento La Cruz,"Alojamiento entero: piso en Valencia, España",75,Anfitrión: Sheila,"4,67",3
-Loft Botanic Center,"Alojamiento entero: piso en València, España",108,Anfitrión: Juan Luis,"4,92",25
-Bonito apartamento luminoso,"Alojamiento entero: piso en València, España",88,Anfitrión: Juan,"3,82",11
-"En Carmen, cerca de la Catedral y del Parque Túria!","Alojamiento entero: piso en Valencia, España",156,Anfitrión: Miguel Ángel,"4,66",364
-Precioso apartamento con vistas a la calle la Paz.,"Alojamiento entero: piso en València, España",119,Anfitrión: Javi Y Ana,"4,68",38
-¡A 300 metros de la arena y del mar!,"Alojamiento entero: piso en València, España",116,Anfitrión: Susana,"4,90",10
-apartamento playa de las arenas + WiFi+AC,"Alojamiento entero: vivienda vacacional en València, España",100,Anfitrión: Pablo,"4,74",69
-Casa Camila,"Alojamiento entero: vivienda en València, España",98,Anfitrión: Janine,,
-¡Apartamento soleado con terraza y vistas de la ciudad vieja!,"Alojamiento entero: piso en València, España",150,Anfitrión: Jose,"4,70",107
-Piso con wifi cerca del centro,"Alojamiento entero: piso en València, España",105,Anfitrión: Maria Jesus,"4,52",42
-Mis dulces vacaciones,"Alojamiento entero: apto. residencial en Valencia, España",76,Anfitrión: Daniel,,
-Nuevo y acogedor loft en L'amistat.,"Alojamiento entero: piso en València, España",107,Anfitrión: Daniel,"4,92",12
-Habitación con Baño Privado/Excelente Ubicación,"Habitación en València, España",54,Anfitrión: Desiree,"5,0",8
-casa típica marinera en el corazón del cabanyal,"Alojamiento entero: piso en València, España",80,Anfitrión: Carlos,"4,54",116
-¡A 300 metros de la arena y del mar!,"Alojamiento entero: piso en València, España",116,Anfitrión: Susana,"4,90",10
-Mercado Central,"Alojamiento entero: piso en València, España",84,Anfitrión: David,"4,67",9
-Apartamento chic en Ciutat Vella,"Alojamiento entero: vivienda en València, España",93,Anfitrión: Jean-Luc,,
-Suite/apartamento con baño y cocina privada.,"Alojamiento entero: apto. residencial en València, España",59,Anfitrión: Andrea,"4,91",
-Bonita habitación privada,"Habitación en València, España",30,Quédate con Juan Carlos,,
-Piso con wifi cerca del centro,"Alojamiento entero: piso en València, España",105,Anfitrión: Maria Jesus,"4,52",42
-Precioso apartamento con vistas a la calle la Paz.,"Alojamiento entero: piso en València, España",119,Anfitrión: Javi Y Ana,"4,68",38
-Cozy apartamento entero en Ruzafa,"Alojamiento entero: piso en València, España",105,Anfitrión: Majo Y Aurelio,"4,73",49
-Loft con terraza en Ruzafa,"Alojamiento entero: loft en València, España",110,Anfitrión: Paco,"4,72",250
-"Apartamento con vistas, 2Hab. wifi, frente al rio","Alojamiento entero: piso en Valencia, España",75,Anfitrión: Vicente,"4,35",48
-Peter's casa Valencia old town,"Alojamiento entero: piso en València, España",150,Anfitrión: Peter,"4,90",194
-Estudio 3º centro histórico Valencia Ciutat Vella,"Alojamiento entero: piso en València, España",74,Anfitrión: Carmina Y Ivan,,
-¡EL MEJOR apartamento en una zona de lujo!,"Alojamiento entero: piso en València, España",103,Anfitrión: Vito Max,"4,90",21
-Mis dulces vacaciones,"Alojamiento entero: apto. residencial en Valencia, España",76,Anfitrión: Daniel,,
-Bonito apartamento luminoso,"Alojamiento entero: piso en València, España",88,Anfitrión: Juan,"3,82",11
-Apartamento Netx Central Marquek,"Alojamiento entero: piso en València, España",90,Anfitrión: Gestproyects,,
-"Apartamento amplio a pie de calle, zona turística.","Alojamiento entero: vivienda en València, España",82,Anfitrión: Gerardo,"4,71",7
-Habitación King con baño privado y entrada,"Habitación en València, España",55,Quédate con David & Frank,"4,82",137
-precioso piso con patio a 100m del mar en Malvarro,"Alojamiento entero: piso en València, España",70,Anfitrión: Aurelio,"4,29",42
-Apartamento soleado en el mercado de Ruzafa,"Alojamiento entero: piso en Valencia, España",115,Anfitrión: Jose,"4,53",403
-Precioso apartamento con Parking en el Centro,"Alojamiento entero: piso en València, España",116,Anfitrión: Carlos,"4,56",131
-Apartamento en la mejor ubicación de la ciudad con aparcamiento,"Alojamiento entero: piso en València, España",149,Anfitrión: Natalia Verónica,"4,55",11
-Casa familiar de la estación de tren y City Plaza,"Alojamiento entero: piso en València, España",94,Anfitrión: Juan,"5,0",
-APARTAMENTO CERCA DEL CENTRO,"Alojamiento entero: piso en València, España",95,Anfitrión: Ana,"4,84",90
-Mis dulces vacaciones,"Alojamiento entero: apto. residencial en Valencia, España",76,Anfitrión: Daniel,,
-Apartamento en valencia centro 4,"Alojamiento entero: piso en València, España",78,Anfitrión: Heidy,,
-Increíble piso y gran terraza,"Alojamiento entero: piso en València, España",100,Anfitrión: Karmaria,"5,0",6
-Apartamento céntrico en Valencia,"Alojamiento entero: piso en València, España",110,Anfitrión: Juan Carlos,"4,79",73
-PISO CENTRAL,"Alojamiento entero: piso en València, España",110,Anfitrión: Permafrost,"4,38",86
-Nuevo apartamento mediterráneo,"Alojamiento entero: piso en València, España",86,Anfitrión: Nacho,"4,33",12
-Increíble estudio loft en Valencia,"Alojamiento entero: loft en València, España",97,Anfitrión: Pasquale,"4,78",90
-Apartamento en el centro de la ciudad I,"Alojamiento entero: piso en València, España",129,Anfitrión: Laura,"4,75",107
-Apartamento fallas,"Alojamiento entero: piso en València, España",90,Anfitrión: Marcela,,
-Mercado Central Apartment,"Alojamiento entero: piso en València, España",168,Anfitrión: Luisa,"4,69",184
-Apartamento fallas,"Alojamiento entero: piso en València, España",90,Anfitrión: Marcela,,
-Apartamento “Mi rincón del Carmen”,"Alojamiento entero: piso en València, España",86,Anfitrión: Jose,"4,57",527
-"Amplio, cómodo y ubicadísimo!","Alojamiento entero: piso en València, España",88,Anfitrión: María Del Rocío,,
-Stoneflat,"Alojamiento entero: piso en València, España",89,Anfitrión: Permafrost,"4,69",13
-Cozy Loft in Valencia,"Alojamiento entero: piso en València, España",75,Anfitrión: Manoel,,
-APARTAMENTO 2BDR de colorido y de moda en el casco antiguo,"Alojamiento entero: piso en València, España",114,Anfitrión: Maria Antonia,"4,61",103
-Apartamento Dúplex Ruzafa Valencia,"Alojamiento entero: piso en València, España",104,Anfitrión: Stockley,"5,0",3
-Estudio acogedor y confortable,"Alojamiento entero: piso en València, España",85,Anfitrión: Alejandra,"4,17",6
-Apartamento muy luminoso junto a la playa,"Alojamiento entero: piso en València, España",102,Anfitrión: Paula,"4,38",55
-Estudio luminoso en el corazón del Cabanyal,"Alojamiento entero: loft en València, España",62,Anfitrión: Juanmi,"4,33",
-BÚHO HOUSE HABITACIÓN DOBLE,"Habitación privada en: hostal en València, España",40,Anfitrión: Buho,"4,75",358
-Amplio piso de dos dormitorios: tranquilo y cómodo,"Alojamiento entero: piso en València, España",151,Anfitrión: Ana,"4,78",41
-Valencia Town Hall Loft encantador,"Alojamiento entero: piso en València, España",104,Anfitrión: Carmen,"4,47",
-Sorolla Station Suites and Terraces WIFI&AC,"Alojamiento entero: piso en València, España",88,Anfitrión: Sorolla,"4,50",18
-Joya patrimonial en el centro de Valencia,"Habitación en València, España",63,Quédate con Paolo,,
-Muy acogedor con vistas al Ayuntamiento Valencia!!,"Alojamiento entero: piso en València, España",137,Anfitrión: Ana,"4,94",171
-Atico con vistas terraza y parking incluido,"Alojamiento entero: piso en València, España",148,Anfitrión: Liza,"4,94",16
-El Goya,"Alojamiento entero: suite con entrada independiente en València, España",70,Anfitrión: Sergii,"4,30",74
-Habitación Triple AVE-Joaquín Sorolla,"Habitación en València, España",34,Anfitrión: Rafa Y Jorge,"4,68",59
-Sorolla Station Suites and Terraces WIFI&AC,"Alojamiento entero: piso en València, España",88,Anfitrión: Sorolla,"4,50",18
-Joya patrimonial en el centro de Valencia,"Habitación en València, España",63,Quédate con Paolo,,
-Apartamento Malvarrosa,"Alojamiento entero: loft en València, España",80,Anfitrión: Mireia,"4,62",271
-Amplio piso de dos dormitorios: tranquilo y cómodo,"Alojamiento entero: piso en València, España",151,Anfitrión: Ana,"4,78",41
-Muy acogedor con vistas al Ayuntamiento Valencia!!,"Alojamiento entero: piso en València, España",137,Anfitrión: Ana,"4,94",171
-ACOGEDOR LOFT CON ESTILO EN UBICACIÓN PREMIUM - WIFI Y AIRE ACONDICIONADO,"Alojamiento entero: piso en València, España",92,Anfitrión: Javier,"4,70",
-Apartamento con vistas a Torres de Serrano puerta2,"Alojamiento entero: suite con entrada independiente en València, España",101,Anfitrión: Naturjuan,"4,80",100
-"Precioso apartamento de 4 dormitorios, a 5 minutos de la playa.","Alojamiento entero: apto. residencial en Port de Sagunt, España",85,Anfitrión: Krasimira,"4,62",52
-Pisos Lux4u 1Micalet: GRAN LOFT en el casco antiguo,"Alojamiento entero: apartamento con servicios en València, España",85,Anfitrión: Lucas,"4,66",333
-Cómodo y tranquilo apartamento en Plaza Patriax,"Alojamiento entero: piso en València, España",65,Anfitrión: Gabriela,"4,46",50
-"Planta baja cerca de la playa, Cabanyal","Alojamiento entero: piso en València, España",97,Anfitrión: Gabriela,"4,89",9
-"Luz, confort y autenticidad en el centro histórico","Alojamiento entero: piso en València, España",117,Anfitrión: Bego,"4,93",239
-Nuestro deseo,"Alojamiento entero: loft en València, España",90,Anfitrión: Cristina,"4,90",114
-Ideal apartamento céntrico,"Alojamiento entero: piso en València, España",86,Anfitrión: Vicente,"4,33",9
-Atico con vistas terraza y parking incluido,"Alojamiento entero: piso en València, España",148,Anfitrión: Liza,"4,94",16
-Acogedor apto. en el centro,"Alojamiento entero: piso en València, España",150,Anfitrión: Carolina,"4,79",303
+Name,Type,Price per night,Host,Rating,Reviews,City
+Acogedor apartamento privado en el centro de Berna,"Alojamiento entero: piso en Bern, Suiza",43,Anfitrión: Marcos,"4,68",19,bern
+Exclusivo departamento urbano,"Alojamiento entero: piso en Bern, Suiza",473,Anfitrión: Stephan,,,bern
+Sala de estar en Berna,"Habitación en Bern, Suiza",36,Quédate con Arwen,"5,0",5,bern
+Apartamento en el casco antiguo,"Alojamiento entero: piso en Bern, Suiza",125,Anfitrión: Kai,"4,84",339,bern
+Habitación en Freimettigen,"Habitación en Freimettigen, Suiza",36,Anfitrión: Urs,,,bern
+"Ice Attic-Apt, casco antiguo, a 3 minutos de la estación de tren","Habitación en apartahotel en Bern, Suiza",113,Anfitrión: Kai,"4,84",218,bern
+N.º 2 apartamento acogedor y céntrico,"Alojamiento entero: piso en Bern, Suiza",71,Anfitrión: Bess,"4,87",,bern
+"Habitación en el espejo BE, a 10 de Berna","Alojamiento entero: piso en Köniz, Suiza",62,Anfitrión: Chantal,"5,0",13,bern
+"Habitación soleada, súper central, estación de Berna a 5 minutos a pie","Habitación en Bern, Suiza",68,Quédate con Kai,"4,93",877,bern
+Como si estuvieras en casa,"Habitación en Ostermundigen, Suiza",42,Quédate con Aline Karina,,,bern
+Habitación ático con vistas increíbles,"Habitación en Bern, Suiza",53,Anfitrión: Roger,"4,94",16,bern
+Hermosa habitación en el casco antiguo de Berna,"Habitación en Bern, Suiza",55,Quédate con Eliane,"4,82",68,bern
+Precioso apartamento de 1 habitación con terraza y cerca de la Universidad,"Alojamiento entero: piso en Bern, Suiza",76,Anfitrión: Daniel,"4,86",86,bern
+Acogedor apartamento con patio privado en el corazón de Berna,"Alojamiento entero: piso en Bern, Suiza",83,Anfitrión: Lena,"4,91",145,bern
+"Habitación, Thörishaus Dorf, ""Kellerstudio""","Alojamiento entero: piso en Köniz, Suiza",43,Anfitrión: Mark,"5,0",17,bern
+cHEaRT de BErn – URBErN Pulse,"Alojamiento entero: piso en Bern, Suiza",97,Anfitrión: Rinaldo,,,bern
+Cómoda Habitación cerca del centro de Berna,"Habitación privada en: apartamento con servicios en Bern, Suiza",78,Anfitrión: Yosk,"5,0",,bern
+"""B&B alba"" en loft atmosférico y silencioso","Alojamiento entero: loft en Ostermundigen, Suiza",98,Anfitrión: Gema,"4,99",199,bern
+Logotipo céntrico y moderno de 1 habitación,"Alojamiento entero: piso en Bern, Suiza",124,Anfitrión: Flo,"4,93",121,bern
+Apartamento entero en Europaplatz,"Alojamiento entero: piso en Bern, Suiza",98,Anfitrión: Irene,"4,95",84,bern
+Apartamento de negocios moderno - Insel,"Alojamiento entero: piso en Bern, Suiza",100,Anfitrión: Jürg Martin,"4,92",87,bern
+Habitación en el centro de Berna,"Habitación en Bern, Suiza",88,Quédate con Victor,"4,93",15,bern
+¡Pequeño pero bonito! ¡Bonito y completo!,"Habitación privada en: casa de invitados en Bern, Suiza",60,Anfitrión: Martha,"4,82",218,bern
+Vista al Emmental: habitación con baño,"Alojamiento entero: apto. residencial en Burgdorf, Suiza",49,Anfitrión: Eva-Maria,"4,89",36,bern
+Activo,"Alojamiento entero: piso en Bern, Suiza",133,Anfitrión: Anette,"5,0",,bern
+"Apartamento azul, casco antiguo, a 3 minutos de la estación de tren de Berna.","Habitación en apartahotel en Bern, Suiza",127,Anfitrión: Kai,"4,81",203,bern
+"Habitación tranquila, super céntrica, a 5 minutos de la estación de tren","Habitación en Bern, Suiza",70,Quédate con Kai,"4,86",212,bern
+"Apartamento vintage, casco antiguo, a 3 minutos a pie de la estación de Berna","Alojamiento entero: piso en Bern, Suiza",111,Anfitrión: Kai,"4,76",592,bern
+LentulusSkyAppartement,"Alojamiento entero: piso en Bern, Suiza",133,Anfitrión: Matteo,"5,0",5,bern
+Modern City/ Business Studio,"Alojamiento entero: piso en Bern, Suiza",100,Anfitrión: Jürg Martin,"4,81",120,bern
+Encantadora habitación individual tranquila,"Habitación en Bern, Suiza",55,Quédate con Esther,,,bern
+Cama en un barrio agradable y tranquilo.,"Habitación en Ittigen, Suiza",62,Anfitrión: Marcela,"4,97",60,bern
+Encantador apartamento en la ciudad de Berna,"Alojamiento entero: piso en Bern, Suiza",83,Anfitrión: Daniel,"4,64",14,bern
+Habitaciones con baño y acceso privado,"Habitación en Bern, Suiza",80,Anfitrión: Rolf,"4,81",477,bern
+Apartamento espacioso y silencioso en el centro de la ciudad de Berna,"Alojamiento entero: piso en Bern, Suiza",109,Anfitrión: Jessica,,,bern
+Nuevo apartamento renovado cerca del centro de Berna,"Alojamiento entero: piso en Bern, Suiza",83,Anfitrión: Huber,"4,70",466,bern
+Apartamento estudio de diseño en Berna - Breitenrain,"Alojamiento entero: piso en Bern, Suiza",130,Anfitrión: Anita,"4,93",337,bern
+"Amplia habitación soleada, casco antiguo, a 3 minutos de la estación de Berna","Habitación en Bern, Suiza",73,Anfitrión: Kai,"4,72",866,bern
+Apartamento espacioso y silencioso en el centro de la ciudad de Berna,"Alojamiento entero: piso en Bern, Suiza",109,Anfitrión: Jessica,,,bern
+Nuevo apartamento renovado cerca del centro de Berna,"Alojamiento entero: piso en Bern, Suiza",83,Anfitrión: Huber,"4,70",466,bern
+Acogedor dormitorio privado a 4 minutos del centro de la ciudad,"Habitación en Bern, Suiza",52,Quédate con Setayesh,"4,72",25,bern
+Artista en The Green Park,"Alojamiento entero: apto. residencial en Bern, Suiza",102,Anfitrión: Cristhian,"4,68",95,bern
+"Attic-Apt & Roof Terrace, OldTown, a 3 minutos de la estación","Alojamiento entero: piso en Bern, Suiza",140,Anfitrión: Kai,"4,75",750,bern
+Diseño de ensueño,"Alojamiento entero: loft en Bern, Suiza",117,Anfitrión: Thomas,"4,81",16,bern
+Habitación preciosa cerca de la ciudad de Berna,"Habitación en Bern, Suiza",52,Quédate con Romeo,"4,57",7,bern
+Apartamento en Little Park,"Alojamiento entero: apto. residencial en Bern, Suiza",103,Anfitrión: Cristhian,"4,73",169,bern
+Fantástico ático en Berna,"Alojamiento entero: piso en Bern, Suiza",129,Anfitrión: Huber,"4,82",95,bern
+Apartamento de 1 habitación cerca del centro,"Alojamiento entero: piso en Bern, Suiza",107,Anfitrión: Diego,,,bern
+Cama en dormitorio en el Hostal 77 Berna,"Habitación en hostal en Bern, Suiza",46,Anfitrión: Hostel 77,"4,83",221,bern
+Estudio soleado y relajante,"Alojamiento entero: piso en Bern, Suiza",98,Anfitrión: Jazmine,"4,90",10,bern
+Apartamento céntrico en Stadt Bern,"Alojamiento entero: piso en Bern, Suiza",141,Anfitrión: Edon,"4,86",14,bern
+habitación cerca del centro,"Habitación en Zollikofen, Suiza",61,Quédate con Liliana,"4,94",,bern
+"la mejor ubicación, moderno apartamento urbano","Alojamiento entero: piso en Bern, Suiza",124,Anfitrión: Corinne & Chris,,,bern
+Habitación tranquila con balcón cerca de la estación principal.,"Habitación en Bern, Suiza",62,Quédate con Christoph,"4,79",304,bern
+"la mejor ubicación, moderno apartamento urbano","Alojamiento entero: piso en Bern, Suiza",124,Anfitrión: Corinne & Chris,,,bern
+Estudio de 1 habitación con cocina,"Habitación privada en: piso en Worb, Suiza",78,Anfitrión: Regula,"4,96",72,bern
+Artista en The Green Park,"Alojamiento entero: apto. residencial en Bern, Suiza",102,Anfitrión: Cristhian,"4,68",95,bern
+"Luminoso, moderno, con asientos en el jardín,","Alojamiento entero: piso en Bern, Suiza",290,Anfitrión: Michael,"4,98",52,bern
+"2.5 habitaciones, ubicación superior, tranquilo, ideal para los usuarios de Apple","Alojamiento entero: piso en Bern, Suiza",77,Anfitrión: Marcel,"5,0",21,bern
+Apartamento nuevo totalmente equipado cerca del centro de Berna,"Alojamiento entero: piso en Bern, Suiza",99,Anfitrión: Edon,"4,81",208,bern
+Encantador estudio central en Berna,"Alojamiento entero: piso en Bern, Suiza",93,Anfitrión: Glenn,"5,0",13,bern
+Cama en un barrio agradable y tranquilo.,"Habitación en Ittigen, Suiza",62,Anfitrión: Marcela,"4,97",60,bern
+"Estilo vintage verde, cerca de la ciudad","Alojamiento entero: vivienda en Kehrsatz, Suiza",54,Anfitrión: Renate,"4,96",70,bern
+Apartamento en Little Park,"Alojamiento entero: apto. residencial en Bern, Suiza",103,Anfitrión: Cristhian,"4,73",169,bern
+Como si estuvieras en casa,"Habitación en Ostermundigen, Suiza",42,Quédate con Aline Karina,,,bern
+Bonito apartamento en ático loft con terraza y bañera de hidromasaje,"Alojamiento entero: piso en Bern, Suiza",194,Anfitrión: Dominic,"4,75",145,bern
+¡Pequeño pero bonito! ¡Bonito y completo!,"Habitación privada en: casa de invitados en Bern, Suiza",60,Anfitrión: Martha,"4,82",218,bern
+Habitación en el centro de Berna,"Habitación en Bern, Suiza",88,Quédate con Victor,"4,93",15,bern
+Apartamento en barrio tranquilo y verde,"Alojamiento entero: piso en Bern, Suiza",94,Anfitrión: Greg,"4,91",65,bern
+"Apartamento de 2,5 habitaciones con patio en Liebewil","Alojamiento entero: vivienda en Köniz, Suiza",95,Anfitrión: Jacqueline,"4,90",41,bern
+Apartamento nuevo a estrenar sobre los techos de Berna,"Alojamiento entero: piso en Bern, Suiza",139,Anfitrión: Miaca,"4,94",63,bern
+"Estancia NONO, ubicación privilegiada","Habitación en Bern, Suiza",103,Quédate con Michael,"4,94",17,bern
+Elegante apartamento en el casco antiguo an der Kramgasse,"Alojamiento entero: piso en Bern, Suiza",124,Anfitrión: Thomas,"5,0",4,bern
+Apartamento dúplex en el borde del bosque,"Alojamiento entero: piso en Radelfingen, Suiza",101,Anfitrión: Susanne,"4,97",231,bern
+"Tranquilo Ático-Apto., Super céntrico","Alojamiento entero: piso en Bern, Suiza",188,Anfitrión: Kai,"4,91",74,bern
+Apartamento urbano en el corazón de Berna incl. piscina,"Alojamiento entero: vivienda vacacional en Bern, Suiza",379,Anfitrión: Stephan,"4,98",52,bern
+Acogedor apartamento estudio con patio (terraza),"Alojamiento entero: piso en Bern, Suiza",98,Anfitrión: Keyced,"4,95",22,bern
+Apartamento entero de 2 habitaciones (planta baja) en Berna- Bümpliz,"Alojamiento entero: piso en Bern, Suiza",145,Anfitrión: Gabriela,"4,95",21,bern
+"Apartamento rojo, casco antiguo, a 3 minutos de la estación de tren","Habitación en apartahotel en Bern, Suiza",166,Anfitrión: Kai,"4,88",174,bern
+"Orange Apt., casco antiguo, a 3 minutos de la estación de tren de Berna.","Habitación en apartahotel en Bern, Suiza",250,Anfitrión: Kai,"4,82",233,bern
+Apartamento en el centro de la ciudad,"Alojamiento entero: piso en Bern, Suiza",194,Anfitrión: Mariia,"5,0",3,bern
+Apartamento en ático de 2 habitaciones Wohlensee,"Alojamiento entero: piso en Wohlen bei Bern, Suiza",56,Anfitrión: Claude,"4,88",,bern
+Como si estuvieras en casa,"Habitación en Ostermundigen, Suiza",42,Quédate con Aline Karina,,,bern
+"Comfort Apt., casco antiguo, a 3 minutos de la estación de Berna.","Alojamiento entero: piso en Bern, Suiza",162,Anfitrión: Kai,"4,80",733,bern
+El encantador apartamento de Grandy junto al río Aare,"Alojamiento entero: piso en Ittigen, Suiza",114,Anfitrión: Chenevals,"4,80",10,bern
+"Acogedor salón 1,5: Comodidad y Silencio","Alojamiento entero: piso en Bern, Suiza",103,Anfitrión: Pasquale,"4,80",15,bern
+Apt Estudio completo Centro Berna,"Alojamiento entero: piso en Bern, Suiza",127,Anfitrión: Swiss Migration,"4,67",,bern
+Diseña en el antiguo edificio Breitenrain para que te sientas bien,"Alojamiento entero: piso en Bern, Suiza",169,Anfitrión: Gudrun,"4,94",,bern
+"Estudio de la ciudad, casco antiguo, a 3 minutos de la estación de Berna","Alojamiento entero: piso en Bern, Suiza",124,Anfitrión: Kai,"4,70",821,bern
+Tranquilo y elegante apartamento con jardín a 10 minutos del centro,"Alojamiento entero: piso en Muri bei Bern, Suiza",66,Anfitrión: Julia,"4,75",413,bern
+encantador apartamento de 1 habitación en el corazón de Berna,"Alojamiento entero: piso en Bern, Suiza",121,Anfitrión: Andreas,"4,72",53,bern
+Apartamento nuevo totalmente equipado cerca del centro de Berna,"Alojamiento entero: piso en Bern, Suiza",99,Anfitrión: Edon,"4,81",208,bern
+City Center Studio,"Alojamiento entero: piso en Bern, Suiza",88,Anfitrión: Maneli,"5,0",,bern
+Apt Estudio completo Centro Berna,"Alojamiento entero: piso en Bern, Suiza",127,Anfitrión: Swiss Migration,"4,67",,bern
+"Maisonette para 6 personas, ubicación súper céntrica","Alojamiento entero: piso en Bern, Suiza",259,Anfitrión: Elriz,"4,58",40,bern
+Top Central Apart en Berna,"Alojamiento entero: piso en Bern, Suiza",129,Anfitrión: Swiss Migration,"4,71",,bern
+Piso dulce en el corazón de Berna,"Alojamiento entero: piso en Bern, Suiza",161,Anfitrión: Shivani,"4,82",17,bern
+Precioso apartamento en la azotea,"Alojamiento entero: loft en Bern, Suiza",118,Anfitrión: Marianne,"4,60",5,bern
+"Apartamento de 2,5 habitaciones con balcón y vistas","Alojamiento entero: piso en Bern, Suiza",78,Anfitrión: Jeannette,"4,82",11,bern
+Encantador apartamento en el barrio de moda de Länggasse,"Alojamiento entero: piso en Bern, Suiza",168,Anfitrión: Olivier,"5,0",4,bern
+Apartamento de 1 dormitorio con chimenea y terraza privada,"Alojamiento entero: piso en Oberdiessbach, Suiza",81,Anfitrión: Danja-Maria,"5,0",,bern
+Idílico apartamento de 2 habitaciones en el campo,"Alojamiento entero: apto. residencial en Ulmiz, Suiza",88,Anfitrión: Miriam,"5,0",34,bern
+Loft con estilo en uno de los mejores barrios de Berna,"Alojamiento entero: loft en Bern, Suiza",206,Anfitrión: Patricia,"5,0",56,bern
+NEB-Thun apartment near Interlaken and Thun,"Alojamiento entero: piso en Oberhofen am Thunersee, Suiza",74,Anfitrión: Neb-Thun,,,bern
+Apartamento de 2 habitaciones en la ciudad más bonita de Suiza,"Alojamiento entero: piso en Bern, Suiza",176,Anfitrión: Tobias,,,bern
+Sweet Retreat con Dreamy Lakeviews,"Alojamiento entero: piso en Sigriswil, Suiza",168,Anfitrión: Sara And Rob,"5,0",31,bern
+Mountain Lodge *Nature *Queen Beds *Estacionamiento gratis,"Alojamiento entero: piso en Oberwil im Simmental, Suiza",129,Anfitrión: Oliver,"5,0",21,bern
+Estudio con vistas al lago y a la montaña,"Alojamiento entero: piso en Beatenberg, Suiza",169,Anfitrión: Karin Joyce,"5,0",,bern
+Estudio con vistas al lago y a la montaña,"Alojamiento entero: piso en Beatenberg, Suiza",169,Anfitrión: Karin Joyce,"5,0",,bern
+Schönes Studio en Steffisburg,"Alojamiento entero: piso en Steffisburg, Suiza",78,Anfitrión: Verena,"4,99",92,bern
+Hermoso departamento con vista a la montaña y jacuzzi,"Alojamiento entero: piso en Konolfingen, Suiza",108,Anfitrión: Ursula,"4,99",,bern
+Bonito estudio con aparcamiento,"Alojamiento entero: apto. residencial en Worben, Suiza",98,Anfitrión: Herbert Und Lydia,"4,98",54,bern
+Cómodo apartamento en el ático en una granja,"Alojamiento entero: apto. residencial en Jens, Suiza",103,Anfitrión: Rosita,"5,0",,bern
+Granja,"Habitación en Worb, Suiza",52,Quédate con Corinna,"4,82",11,bern
+Loft en el borde verde de Berna cerca del río Aare,"Alojamiento entero: loft en Worblaufen, Suiza",85,Anfitrión: Jürg,"4,87",30,bern
+"Precioso y acogedor apartamento de 2 habitaciones, céntricoy tranquilo","Alojamiento entero: piso en Steffisburg, Suiza",82,Anfitrión: Dora & Edgar,"4,98",255,bern
+Altbau-Bijou im Breitenrain,"Alojamiento entero: piso en Bern, Suiza",168,Anfitrión: Dominik,,,bern
+(b) (estudio),"Alojamiento entero: piso en Bienne, Suiza",69,Anfitrión: Peter,"4,99",188,bern
+2 habitaciones privadas en una gran casa de los años 20,"Habitación en Ostermundigen, Suiza",116,Anfitrión: Johanna & Mattia,"4,97",163,bern
+Apartamento tranquilo con vistas excepcionales,"Alojamiento entero: vivienda vacacional en Leysin, Suiza",181,Anfitrión: Rosie,"4,95",22,bern
+Apartamento de lujo de un dormitorio,"Alojamiento entero: apartamento con servicios en Bern, Suiza",185,Anfitrión: Los,,,bern
+Mi alojamiento es mi castillo,"Alojamiento entero: vivienda en Rüschegg Heubach, Suiza",71,Anfitrión: Annemarie,"5,0",9,bern
+Armotti Friedheim 2 dormitorios y oficina en el hogar,"Alojamiento entero: piso en Bern, Suiza",179,Anfitrión: Bruna,"4,80",35,bern
+Encantador estudio en el casco antiguo,"Alojamiento entero: piso en Friburgo, Suiza",145,Anfitrión: Christine,"5,0",34,bern
+Arquitectura. Pura. Lujo.,"Alojamiento entero: vivienda en Schötz, Suiza",250,Anfitrión: Andrea,"5,0",,bern
+Diseño de apartamentos cerca de la ciudad y la naturaleza,"Alojamiento entero: piso en Marly, Suiza",189,Anfitrión: Simone,"4,94",,bern
+Diseña en el antiguo edificio Breitenrain para que te sientas bien,"Alojamiento entero: piso en Bern, Suiza",169,Anfitrión: Gudrun,"4,94",,bern
+Casa de campo galardonada de nueva construcción en el lago Thun.,"Alojamiento entero: casa rural en Hilterfingen, Suiza",440,Anfitrión: Negar,"4,98",185,bern
+Bonito apartamento cerca del lago,"Alojamiento entero: piso en Thun, Suiza",114,Anfitrión: Beatrice,"5,0",6,bern
+"Studio-Apartment ""Lakeland""","Alojamiento entero: piso en Siselen, Suiza",93,Anfitrión: Regina & Alois,"4,99",183,bern
+Descansa tranquilo con vistas al lago /a la montaña/aparcamiento gratuito.,"Alojamiento entero: apto. residencial en Beatenberg, Suiza",186,Anfitrión: Heidi,"5,0",52,bern
+Hogar para los amantes,"Alojamiento entero: piso en Kehrsatz, Suiza",88,Anfitrión: Samuel,"5,0",66,bern
+¡Gran apartamento con todo lo que tu corazón desea!,"Alojamiento entero: apto. residencial en Fraubrunnen, Suiza",92,Anfitrión: Corina,"4,94",117,bern
+Acogedora habitación de maisonette cerca del centro de la ciudad,"Habitación en Bern, Suiza",68,Anfitrión: Ninón & Lou,,,bern
+"Pequeña casa rural romántica ""Bödeliweidli""","Alojamiento entero: vivienda en Signau, Suiza",122,Anfitrión: Isabelle,"5,0",18,bern
+Estudio moderno con vistas espectaculares,"Alojamiento entero: piso en Mund, Suiza",117,Anfitrión: Rafaela,"5,0",17,bern
+"1, 5 Habitaciones Bijou Mittagsfluh","Alojamiento entero: piso en Boltigen, Suiza",62,Anfitrión: Debora,"4,98",195,bern
+Ático de la parte superior en Berna,"Alojamiento entero: piso en Bern, Suiza",171,Anfitrión: Paolo + Franziska,"4,97",95,bern
+Apartamento con vistas bonitas,"Alojamiento entero: piso en Diemtigen, Suiza",54,Anfitrión: Hildegard Und Peter,"4,98",200,bern
+Vacaciones en la finca con una vista única.,"Granja en Oberdiessbach, Suiza",155,Anfitrión: Sonya,"4,95",61,bern
+"Hermoso, luminoso y tranquilo apartamento cerca de Berna","Alojamiento entero: apto. residencial en Münchenbuchsee, Suiza",101,Anfitrión: Ulrike,"4,93",61,bern
+Chalet para amantes de la naturaleza,"Alojamiento entero: vivienda en Rüschegg Heubach, Suiza",92,Anfitrión: Franziska,"4,99",72,bern
+Loft P8: Amplio con esa cosa especial,"Alojamiento entero: loft en Bern, Suiza",114,Anfitrión: Franziska,"4,92",86,bern
+"En el céntrico, tranquilo, cerca de tren y autobús, cerca de la naturaleza","Alojamiento entero: piso en Reichenbach im Kandertal, Suiza",78,Anfitrión: Doro Und Jakob,"4,98",59,bern
+Acogedor apartamento de 1 habitación,"Alojamiento entero: piso en Zweisimmen, Suiza",67,Anfitrión: Renate,"4,98",342,bern
+Casa céntrica en Zollikofen,"Alojamiento entero: vivienda en Zollikofen, Suiza",202,Anfitrión: Michael & Selina,"5,0",7,bern
+2 habitaciones amuebladas en planta baja,"Alojamiento entero: piso en Müntschemier, Suiza",78,Anfitrión: Rosette,"5,0",9,bern
+Estudio con terraza en Charmey,"Alojamiento entero: suite con entrada independiente en Val-de-Charmey, Suiza",101,Anfitrión: Marie-Cécile,"4,98",196,bern
+Chalet con vistas excepcionales,"Alojamiento entero: vivienda en Villers-le-Lac, Francia",128,Anfitrión: Frédéric Et Stéphanie,"4,96",53,bern
+"Lujoso apartamento con vistas al lago Panorama, aparcamiento, tranquilo","Alojamiento entero: apto. residencial en Oberhofen am Thunersee, Suiza",434,Anfitrión: Eva Maria,"5,0",21,bern
+Habitación muy cómoda,"Habitación privada en: vivienda en Gibloux, Suiza",69,Anfitrión: David,"5,0",5,bern
+Thun City Apartment,"Alojamiento entero: piso en Thun, Suiza",145,Anfitrión: Stefanie,"4,93",76,bern
+Ático bien diseñado,"Alojamiento entero: piso en Köniz, Suiza",78,Anfitrión: Gaby,"4,94",160,bern
+"1-2 habitaciones, 4 km de Berna en el área recreativa","Habitación en Herrenschwanden, Suiza",67,Quédate con Peter,"4,98",64,bern
+Estudio muy cómodo,"Alojamiento entero: piso en Affoltern im Emmental, Suiza",67,Anfitrión: Frank,"4,88",8,bern
+Apartamento,"Alojamiento entero: piso en Reutigen, Suiza",89,Anfitrión: Rachel,"5,0",5,bern
+"Chalet en Gruyère, magníficas vistas","Alojamiento entero: chalet en Val-de-Charmey, Suiza",103,Anfitrión: Rosy,"4,98",163,bern
+Lugar mágico de Beatenberg y sala morada,"Habitación en Beatenberg, Suiza",228,Quédate con Gerti,"4,88",206,bern
+Cama «bir hübelihäx» - Desayuno en Wunsch,"Habitación en Walterswil, Suiza",39,Quédate con Annette,"5,0",9,bern
+"Apartamento con luz alpina, piscina climatizada, jardín","Alojamiento entero: piso en Heitenried, Suiza",125,Anfitrión: Martina,"4,98",176,bern
+"Pequeño loft lleno de luz en el campo, edificio nuevo","Alojamiento entero: loft en Thurnen, Suiza",103,Anfitrión: Hans Martin,"5,0",,bern
+Hübeli Lodge,"Alojamiento entero: piso en Eggiwil, Suiza",83,Anfitrión: Karin,"5,0",52,bern
+Estudio muy cómodo,"Alojamiento entero: piso en Affoltern im Emmental, Suiza",67,Anfitrión: Frank,"4,88",8,bern
+"Lujoso apartamento con vistas al lago Panorama, aparcamiento, tranquilo","Alojamiento entero: apto. residencial en Oberhofen am Thunersee, Suiza",434,Anfitrión: Eva Maria,"5,0",21,bern
+"Apartamento con luz alpina, piscina climatizada, jardín","Alojamiento entero: piso en Heitenried, Suiza",125,Anfitrión: Martina,"4,98",176,bern
+"Chalet en Gruyère, magníficas vistas","Alojamiento entero: chalet en Val-de-Charmey, Suiza",103,Anfitrión: Rosy,"4,98",163,bern
+La petite Marie Louise,"Alojamiento entero: piso en Reichenbach im Kandertal, Suiza",103,Anfitrión: Montse,"5,0",9,bern
+Estudio Lichtena,"Alojamiento entero: piso en Schwarzsee, Suiza",83,Anfitrión: Julia,"4,84",43,bern
+2 habitaciones amuebladas en planta baja,"Alojamiento entero: piso en Müntschemier, Suiza",78,Anfitrión: Rosette,"5,0",9,bern
+Apartamento del casco antiguo en el corazón de Thun con jardín,"Alojamiento entero: piso en Thun, Suiza",125,Anfitrión: Salome,"5,0",14,bern
+Stöckli apto para familias con ollas calientes/alpacas,"Granja en Meikirch, Suiza",134,Anfitrión: Anne,"5,0",33,bern
+Apartamento en la habitación con encanto.,"Alojamiento entero: piso en Burgistein, Suiza",78,Anfitrión: Barbara,"4,96",25,bern
+"1-2 habitaciones, 4 km de Berna en el área recreativa","Habitación en Herrenschwanden, Suiza",67,Quédate con Peter,"4,98",64,bern
+chalet wohnspycher blockhaus (sin aire acondicionado),"Alojamiento entero: cabaña en Wald, Suiza",172,Anfitrión: Erich Christian,"4,82",17,bern
+Hübeli Lodge,"Alojamiento entero: piso en Eggiwil, Suiza",83,Anfitrión: Karin,"5,0",52,bern
+Idílica casa de madera en el borde del bosque,"Alojamiento entero: vivienda en Leubringen, Suiza",153,Anfitrión: Andrea,"5,0",11,bern
+Apartamento,"Alojamiento entero: piso en Reutigen, Suiza",89,Anfitrión: Rachel,"5,0",5,bern
+"Chalet ""ZUM SCHNÜFU"" en el Salwald","Alojamiento entero: chalet en Mund, Suiza",276,Anfitrión: David,"5,0",25,bern
+"Pequeño loft lleno de luz en el campo, edificio nuevo","Alojamiento entero: loft en Thurnen, Suiza",103,Anfitrión: Hans Martin,"5,0",,bern
+Apartamento chalet soleado en parque natural,"Alojamiento entero: piso en Diemtigen, Suiza",111,Anfitrión: Angela,"5,0",,bern
+N.º 1 apartamento acogedor y céntrico,"Alojamiento entero: piso en Bern, Suiza",74,Anfitrión: Bess,"4,80",,bern
+Edificio antiguo departamento an der Aare,"Alojamiento entero: piso en Bern, Suiza",78,Anfitrión: Amandus,,,bern
+"Acogedora, encantadora y céntrica 3,5 habitaciones en Biel","Alojamiento entero: piso en Biel, Suiza",71,Anfitrión: David,"4,88",,bern
+"Casa-Margarita: apartamento de 2,5 habitaciones, buena vista.","Alojamiento entero: apto. residencial en Sigriswil, Suiza",202,Anfitrión: Torsten,"4,98",,bern
+2 habitaciones amuebladas en planta baja,"Alojamiento entero: piso en Müntschemier, Suiza",78,Anfitrión: Rosette,"5,0",9,bern
+Tiny de l'Aigle (La Tiny de l' Aigle),"Minicasa en Villeret, Suiza",157,Anfitrión: Nicole Françoise,"5,0",60,bern
+Habitación tranquila en el centro de Berna,"Habitación en Bern, Suiza",61,Anfitrión: Claudio,"4,97",30,bern
+Apartamento estudio con estacionamiento y jardín privado,"Alojamiento entero: apartamento con servicios en Köniz, Suiza",109,Anfitrión: Eileen & John,"4,85",34,bern
+"Pequeño loft lleno de luz en el campo, edificio nuevo","Alojamiento entero: loft en Thurnen, Suiza",103,Anfitrión: Hans Martin,"5,0",,bern
+"1-2 habitaciones, 4 km de Berna en el área recreativa","Habitación en Herrenschwanden, Suiza",67,Quédate con Peter,"4,98",64,bern
+Casa céntrica en Zollikofen,"Alojamiento entero: vivienda en Zollikofen, Suiza",202,Anfitrión: Michael & Selina,"5,0",7,bern
+En mitad de Berna,"Alojamiento entero: piso en Bern, Suiza",124,Anfitrión: Kristina,,,bern
+Chalet con vistas a la montaña,"Alojamiento entero: piso en Diemtigen, Suiza",78,Anfitrión: Nicolai,"4,98",350,bern
+Apartamento,"Alojamiento entero: piso en Reutigen, Suiza",89,Anfitrión: Rachel,"5,0",5,bern
+Lakeview Gem,"Alojamiento entero: loft en Krattigen, Suiza",433,Anfitrión: Rafael,"4,91",390,bern
+Maravilloso lugar para relajarse cerca de la ciudad,"Alojamiento entero: piso en Ostermundigen, Suiza",83,Anfitrión: Daniel,"4,83",12,bern
+Armotti: ultra comodidad con la mejor velocidad de internet,"Alojamiento entero: apartamento con servicios en Bern, Suiza",233,Anfitrión: Bruna,"4,96",53,bern
+"""caroleandclaus""Precioso apartamento en Berna-Wabern","Alojamiento entero: piso en Köniz, Suiza",155,Anfitrión: Caroline,"5,0",19,bern
+Apartamento. Acogedor con vistas al parque Chasseral,"Alojamiento entero: piso en Saint-Imier, Suiza",83,Anfitrión: Lourdes,"4,99",108,bern
+Tiny de l'Aigle (La Tiny de l' Aigle),"Minicasa en Villeret, Suiza",157,Anfitrión: Nicole Françoise,"5,0",60,bern
+"Hay lugares, en nuestra tierra, que tienen alma","Granero en Lessoc, Suiza",155,Anfitrión: Sophie,"4,98",179,bern
+Oasis de bienestar entre la capital y la naturaleza,"Habitación en Worb, Suiza",74,Anfitrión: Samuel,"4,85",39,bern
+Lakeview Gem,"Alojamiento entero: loft en Krattigen, Suiza",433,Anfitrión: Rafael,"4,91",390,bern
+Habitación tranquila en el centro de Berna,"Habitación en Bern, Suiza",61,Anfitrión: Claudio,"4,97",30,bern
+Chalet con vistas a la montaña,"Alojamiento entero: piso en Diemtigen, Suiza",78,Anfitrión: Nicolai,"4,98",350,bern
+Un paraíso familiar.,"Alojamiento entero: piso en Toffen, Suiza",80,Anfitrión: Christian,"4,95",199,bern
+"Pequeño loft lleno de luz en el campo, edificio nuevo","Alojamiento entero: loft en Thurnen, Suiza",103,Anfitrión: Hans Martin,"5,0",,bern
+Villars-sur-Glâne - estudio independiente,"Alojamiento entero: piso en Villars-sur-Glâne, Suiza",62,Anfitrión: Christine,"4,99",92,bern
+Apartamento de 2 habitaciones con vistas a las montañas y al castillo,"Alojamiento entero: piso en Steffisburg, Suiza",103,Anfitrión: Ursula,"4,97",88,bern
+La casa en azoteas y la casa del lago se vuelve a publicar en la cuenta de los propietarios.,"Alojamiento entero: vivienda en Montreux, Suiza",359,Anfitrión: Claudia,"4,98",44,bern
+Casa acogedora Natur-/Stadtnah cerca de Berna,"Alojamiento entero: vivienda en Köniz, Suiza",233,Anfitrión: Anneke,"4,75",,bern
+Apartamento Wohn(t)raum,"Alojamiento entero: piso en Herbetswil, Suiza",81,Anfitrión: Frank,,,bern
+"Oasis tranquilo, apartamento de 2 dormitorios Suiza, Biel/Bienne","Alojamiento entero: piso en Biel, Suiza",67,Anfitrión: Simone / Emil,"4,94",104,bern
+Armotti: ultra comodidad con la mejor velocidad de internet,"Alojamiento entero: apartamento con servicios en Bern, Suiza",233,Anfitrión: Bruna,"4,96",53,bern
+Pequeño apartamento en Neuchâtel,"Alojamiento entero: piso en Neuchâtel, Suiza",88,Anfitrión: Olivier,,,bern
+Cabaña moderna con vistas únicas en Gruyère,"Alojamiento entero: chalet en Crésuz, Suiza",150,Anfitrión: Delphine,"4,98",121,bern
+Habitación tranquila en el centro de Berna,"Habitación en Bern, Suiza",61,Anfitrión: Claudio,"4,97",30,bern
+Habitación en un bonito apartamento de un edificio antiguo,"Habitación en Bern, Suiza",72,Quédate con Naja,,,bern
+Apartamento con vistas al lago en la preciosa Oberhofen,"Alojamiento entero: piso en Oberhofen am Thunersee, Suiza",186,Anfitrión: Nicole,"4,89",,bern
+Chalet con vistas a la montaña,"Alojamiento entero: piso en Diemtigen, Suiza",78,Anfitrión: Nicolai,"4,98",350,bern
+Cabaña con encanto,"Alojamiento entero: vivienda en Neuenegg, Suiza",251,Anfitrión: Rina,"4,86",,bern
+"Casa-Margarita: apartamento de 2,5 habitaciones, buena vista.","Alojamiento entero: apto. residencial en Sigriswil, Suiza",202,Anfitrión: Torsten,"4,98",,bern
+Casa acogedora Natur-/Stadtnah cerca de Berna,"Alojamiento entero: vivienda en Köniz, Suiza",233,Anfitrión: Anneke,"4,75",,bern
+Estancia en pleno campo en una granja renovada,"Granja en Sâles, Suiza",72,Anfitrión: Marianne,"5,0",5,bern
+Apartamento de 2 habitaciones con vistas a las montañas y al castillo,"Alojamiento entero: piso en Steffisburg, Suiza",103,Anfitrión: Ursula,"4,97",88,bern
+Apartamento nuevo entre Berna y Thun,"Alojamiento entero: piso en Rubigen, Suiza",124,Anfitrión: Regula,,,bern
+Idílica casa de madera en el borde del bosque,"Alojamiento entero: vivienda en Leubringen, Suiza",153,Anfitrión: Andrea,"5,0",11,bern
+Villars-sur-Glâne - estudio independiente,"Alojamiento entero: piso en Villars-sur-Glâne, Suiza",62,Anfitrión: Christine,"4,99",92,bern
+Barock Departamento,"Alojamiento entero: piso en Bern, Suiza",128,Anfitrión: Jessica,"4,74",34,bern
+Armotti: ultra comodidad con la mejor velocidad de internet,"Alojamiento entero: apartamento con servicios en Bern, Suiza",233,Anfitrión: Bruna,"4,96",53,bern
+Un paraíso familiar.,"Alojamiento entero: piso en Toffen, Suiza",80,Anfitrión: Christian,"4,95",199,bern
+"Lujoso,accesible,gran apartamento de 1 dormitorio, ¡vistacompleta del Eiger!","Alojamiento entero: apto. residencial en Grindelwald, Suiza",198,Anfitrión: Reto,"4,94",62,bern
+"""caroleandclaus""Precioso apartamento en Berna-Wabern","Alojamiento entero: piso en Köniz, Suiza",155,Anfitrión: Caroline,"5,0",19,bern
+Apartamento Sunside Sunside Sun Coast en Thunersee,"Alojamiento entero: piso en Hilterfingen, Suiza",111,Anfitrión: Lukas,"4,96",82,bern
+"""caroleandclaus""Precioso apartamento en Berna-Wabern","Alojamiento entero: piso en Köniz, Suiza",155,Anfitrión: Caroline,"5,0",19,bern
+Pipin 's Studio,"Alojamiento entero: suite con entrada independiente en Ostermundigen, Suiza",88,Anfitrión: Laurent,"4,82",168,bern
+Un paraíso familiar.,"Alojamiento entero: piso en Toffen, Suiza",80,Anfitrión: Christian,"4,95",199,bern
+Chalet Gurnigelbad - con jardín y sauna,"Alojamiento entero: chalet en Rüti bei Riggisberg, Suiza",102,Anfitrión: Andreas Vom Bernapark,"4,91",81,bern
+"Apartamento de 2,5 habitaciones en el centro del casco antiguo de Thun.","Alojamiento entero: piso en Thun, Suiza",119,Anfitrión: Werner,"4,97",35,bern
+Apartamento Wohn(t)raum,"Alojamiento entero: piso en Herbetswil, Suiza",81,Anfitrión: Frank,,,bern
+Gîtes du Gore Virat,"Alojamiento entero: piso en Corcelles, Suiza",130,Anfitrión: Pierre,"4,97",144,bern
+Vivir en un entorno histórico en Berna,"Alojamiento entero: piso en Bern, Suiza",102,Anfitrión: Cornelia,"4,78",23,bern
+"Te damos la bienvenida a Chalet, cerca de la ciudad de Berna","Alojamiento entero: piso en Köniz, Suiza",114,Anfitrión: Daniela,"4,97",106,bern
+Moderno y cómodo - Estudio Evasión en Gruyère,"Alojamiento entero: piso en Hauteville, Suiza",78,Anfitrión: Alina,"4,89",9,bern
+SwissHut Amazing Views Alps & Lake Thun,"Alojamiento entero: apto. residencial en Oberhofen am Thunersee, Suiza",187,Anfitrión: SwissHut Chalets & Apartments,"4,96",23,bern
+Alojamiento familiar con encanto,"Alojamiento entero: piso en Ostermundigen, Suiza",123,Anfitrión: Joyce,,,bern
+Apartamento luminoso de 1 habitación muy acogedor —-,"Alojamiento entero: piso en Bern, Suiza",58,Anfitrión: Stefanie,"4,40",5,bern
+"Alojamiento en estudio fotográfico, aseo privado y ducha","Alojamiento entero: apto. residencial en Münsingen, Suiza",55,Anfitrión: Stefan,"4,86",58,bern
+"Acogedor apartamento de 1,5 habitaciones","Alojamiento entero: piso en Bleienbach, Suiza",61,Anfitrión: Claudia,"4,90",41,bern
+Lugar mágico de Beatenberg y habitación para huéspedes compartida,"Habitación en Beatenberg, Suiza",197,Quédate con Gerti,"4,83",570,bern
+Casa de vacaciones independiente en el Emmental,"Alojamiento entero: vivienda en Eggiwil, Suiza",128,Anfitrión: Marcel Und Tanja,"5,0",11,bern
+"Acogedor, único y elegante junto al lago y las montañas","Alojamiento entero: piso en Bürglen, Suiza",207,Anfitrión: Jos,"4,99",313,bern
+Hermoso ático cerca del lago Müggelsee,"Alojamiento entero: loft en Berlín, Alemania",53,Anfitrión: Dana Bianca,,,berlin
+Apartamento de 74 metros cuadrados en Berlín-Charlottenburg,"Alojamiento entero: piso en Berlín, Alemania",77,Anfitrión: Tristan,,,berlin
+Apartamento doble en Frankfurter Allee,"Alojamiento entero: piso en Berlín, Alemania",75,Anfitrión: Flo,,,berlin
+Suite Home Two-Bedroom Apartment,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",214,Anfitrión: SANA Berlin Residence,"4,79",419,berlin
+"Nena Apartments Metropolpark ""Studio""","Habitación en apartahotel en Berlín, Alemania",117,Anfitrión: Nena Apartments Metropolpark Berlin,"4,53",,berlin
+Terraza en el Wintergarten – 86 m²,"Alojamiento entero: piso en Berlín, Alemania",205,Anfitrión: Peter,"4,92",25,berlin
+Piso acogedor y tranquilo en Prenzlauer Berg,"Alojamiento entero: piso en Berlín, Alemania",99,Anfitrión: Lisa,"4,92",12,berlin
+Ático en el corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",190,Anfitrión: Raphael,,,berlin
+"Hermoso, luminoso, con buenas vistas al campo","Alojamiento entero: apto. residencial en Berlín, Alemania",80,Anfitrión: Berlina,,,berlin
+Stadtflucht Penthouse 5.2.2,"Alojamiento entero: piso en Berlín, Alemania",149,Anfitrión: Olaf,"5,0",15,berlin
+Design-Studio Bergmannkiez,"Alojamiento entero: piso en Berlín, Alemania",92,Anfitrión: Daniel,"5,0",30,berlin
+Traum Apartment mit 150 m²,"Alojamiento entero: piso en Berlín, Alemania",195,Anfitrión: Thomas,"5,0",12,berlin
+Loft de lujo de nuevo diseño en el moderno Prenzlauer Berg,"Alojamiento entero: loft en Berlín, Alemania",200,Anfitrión: Ralph,"4,98",49,berlin
+Apartamento CÉNTRICO Y CÓMODO en Prenzlauer Berg cerca de Mitte,"Alojamiento entero: apto. residencial en Berlín, Alemania",89,Anfitrión: Benedikt&Edi,"4,97",276,berlin
+"Loft- Mejor ubicación, 90m2, 2 baños, 2 Balcón, tranquilo.","Alojamiento entero: loft en Berlín, Alemania",189,Anfitrión: Damian,"5,0",43,berlin
+2 encantadores apartamentos de 2 habitaciones en Berlín Mitte,"Alojamiento entero: piso en Berlín, Alemania",129,Anfitrión: Kristian,"4,66",130,berlin
+Exquisito 100 metros cuadrados an der Spree,"Alojamiento entero: piso en Berlín, Alemania",131,Anfitrión: Philippe,"5,0",10,berlin
+Apartamento de lujo de 2 dormitorios en Mitte,"Alojamiento entero: piso en Berlín, Alemania",198,Anfitrión: Ori,,,berlin
+Soleado y diseño en Berlin Mitte,"Alojamiento entero: piso en Berlín, Alemania",164,Anfitrión: Matthias,"5,0",204,berlin
+402 * Urban Apartment in top area *,"Alojamiento entero: piso en Berlín, Alemania",228,Anfitrión: Douglas,,,berlin
+Impresionante loft de diseño en la mejor ubicación de Kreuzberg,"Alojamiento entero: loft en Berlín, Alemania",180,Anfitrión: Pablo,"4,96",26,berlin
+Apartamento soleado en la azotea,"Alojamiento entero: piso en Berlín, Alemania",114,Anfitrión: Rositca,"5,0",4,berlin
+Loft enorme Berlin-Mitte con baño propio y aire acondicionado,"Habitación privada en: loft en Berlín, Alemania",99,Anfitrión: Robert,"4,99",518,berlin
+"Apartamento estudio de diseño con balcón, Berlin Mitte","Alojamiento entero: apartamento con servicios en Berlín, Alemania",139,Anfitrión: Ipartment,,,berlin
+Apartamento tipo estudio en la casa con jardín,"Alojamiento entero: piso en Berlín, Alemania",91,Anfitrión: Jan,"4,82",88,berlin
+The Spree Condo,"Alojamiento entero: piso en Berlín, Alemania",300,Anfitrión: Dani,,,berlin
+Apartamento de la ciudad en Wrangelkiez,"Alojamiento entero: piso en Berlín, Alemania",90,Anfitrión: André,"5,0",24,berlin
+Hermoso departamento luminoso y luminoso con balcón/10’ Mitte,"Alojamiento entero en Berlín, Alemania",121,Anfitrión: Ermal,"4,92",26,berlin
+Berlín Puro: nuevo moderno y elegante/2 habitaciones/pared/centro,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",213,Anfitrión: Kathrin,"5,0",51,berlin
+Creativo + renovado + Cool Bergmannkiez,"Alojamiento entero: piso en Berlín, Alemania",61,Anfitrión: Suites And More,"4,79",327,berlin
+Precioso y céntrico,"Alojamiento entero: piso en Berlín, Alemania",,Anfitrión: Mia,,,berlin
+Stayery | Estudio moderno cerca de Boxhagener Platz,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",68,Anfitrión: Stayery,"4,76",228,berlin
+NIDO DE AVES SOBRE BERLÍN,"Alojamiento entero: apto. residencial en Berlín, Alemania",140,Anfitrión: Siggi,"4,90",73,berlin
+numa I Suite Espaciosa en Checkpoint Charlie,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",108,Anfitrión: Numa Arc,"4,63",,berlin
+Apartamento de maisonette de 4 habitaciones de Youngster de 50 metros cuadrados cerca del centro,"Alojamiento entero: piso en Berlín, Alemania",,Anfitrión: Fabian,,,berlin
+Apartamento tipo estudio único en el monumento,"Alojamiento entero: piso en Berlín, Alemania",80,Anfitrión: Philipp,,,berlin
+Apartamento boutique en la azotea de 1237 pies cuadrados en City West,"Alojamiento entero: loft en Berlín, Alemania",121,Anfitrión: Christoph,"4,93",299,berlin
+Apartamento de maisonette de 4 habitaciones de Youngster de 50 metros cuadrados cerca del centro,"Alojamiento entero: piso en Berlín, Alemania",123,Anfitrión: Fabian,"4,80",44,berlin
+Apartamento ático con terraza en la azotea sobre Berlín,"Alojamiento entero: apto. residencial en Berlín, Alemania",266,Anfitrión: Caroline,"4,90",20,berlin
+Acogedor y tranquilo cine boutique en Winskiez,"Alojamiento entero: piso en Berlín, Alemania",138,Anfitrión: Camilla,"4,95",148,berlin
+"Loft tranquilo y espacioso, estacionamiento privado disponible","Alojamiento entero: piso en Berlín, Alemania",194,Anfitrión: Flora,"5,0",3,berlin
+Bienvenido a tu hogar en Berlín,"Alojamiento entero: piso en Berlín, Alemania",122,Anfitrión: Oliver,"4,94",119,berlin
+Habitación tranquila en Berlín en K-Berg,"Alojamiento entero: piso en Berlín, Alemania",90,Anfitrión: Jan,"4,97",31,berlin
+Apartamento luminoso y lujoso en el parque,"Alojamiento entero: piso en Berlín, Alemania",97,Anfitrión: Sarah,,,berlin
+Penthouse im Graefekiez,"Alojamiento entero: piso en Berlín, Alemania",128,Anfitrión: Stefan,"5,0",5,berlin
+"Studio nuthetal, nahe Berlin & Potsdam, Parkplatz","Alojamiento entero: piso en Nuthetal, Alemania",132,Anfitrión: Antje,"4,99",69,berlin
+Gran loft de 1 habitación,"Alojamiento entero: loft en Berlín, Alemania",134,Anfitrión: Benjamin,"4,87",,berlin
+Enorme Loft Berlin-Mitte con baño privado y aire acondicionado,"Habitación privada en: loft en Berlín, Alemania",97,Anfitrión: Robert,"4,97",445,berlin
+Fantástica casa flotante en la ciudad de Berlín,"Casa flotante en Berlín, Alemania",237,Anfitrión: Boat On The River,"4,97",147,berlin
+Hermoso departamento con vista a la bahía,"Alojamiento entero: apto. residencial en Berlín, Alemania",130,Anfitrión: Sigrid,"5,0",32,berlin
+Elegante nuevo loft II de Berlin-Wall-Apartments,"Alojamiento entero: piso en Berlín, Alemania",158,Anfitrión: Karolina & Philipp,"4,87",134,berlin
+Precioso apartamento luminoso de 2 habitaciones en el corazón de Friedrichshain,"Alojamiento entero: piso en Berlín, Alemania",95,Anfitrión: Doris,"4,91",70,berlin
+Precioso apartamento antiguo en Kreuzberg,"Alojamiento entero: piso en Berlín, Alemania",94,Anfitrión: Kevin,"4,79",197,berlin
+"Apartamento estudio de diseño con balcón, Berlin Mitte","Alojamiento entero: apartamento con servicios en Berlín, Alemania",139,Anfitrión: Ipartment,"5,0",5,berlin
+Apartamento tranquilo y acogedor en Samarieterviertel con terraza.,"Alojamiento entero: piso en Berlín, Alemania",149,Anfitrión: Violeta,"4,95",21,berlin
+Stayery | Estudio moderno cerca de Boxhagener Platz,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",68,Anfitrión: Stayery,"4,76",228,berlin
+El oasis escandinavo,"Alojamiento entero: piso en Berlín, Alemania",200,Anfitrión: Victoria,"4,97",114,berlin
+Apartamento estudio en planta baja central,"Alojamiento entero: piso en Berlín, Alemania",89,Anfitrión: Hendrik,"4,92",97,berlin
+"Loft tranquilo y espacioso, estacionamiento privado disponible","Alojamiento entero: piso en Berlín, Alemania",194,Anfitrión: Flora,"5,0",3,berlin
+Elegante apartamento en el Görli,"Alojamiento entero: piso en Berlín, Alemania",138,Anfitrión: Joseph,"4,90",104,berlin
+Precioso apartamento en Mitte,"Alojamiento entero: piso en Berlín, Alemania",88,Anfitrión: Alice,"5,0",8,berlin
+Departamento Boutique Ruhiges,"Alojamiento entero: piso en Berlín, Alemania",70,Anfitrión: Mathias,"4,89",9,berlin
+794 APARTAMENTO DE LUJO DE UNA HABITACIÓN EN CENTRAL MITTE,"Alojamiento entero: piso en Berlín, Alemania",150,Anfitrión: Tanja,"4,90",20,berlin
+Kreuzberger Altbau mit Kachelofen,"Alojamiento entero: piso en Berlín, Alemania",76,Anfitrión: Jan,"4,83",60,berlin
+Kreuzberger Perle: luminoso y cerca del agua,"Alojamiento entero: apto. residencial en Berlín, Alemania",203,Anfitrión: Josephine,"5,0",27,berlin
+numa I Suite Espaciosa en Checkpoint Charlie,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",108,Anfitrión: Numa Arc,"4,63",,berlin
+numa | Habitación moderna con registro de entrada digital,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",87,Anfitrión: Numa Drift,"4,77",,berlin
+Elegante oasis en el corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",121,Anfitrión: Sacha,"4,88",24,berlin
+Altbau en Berlín-Wilmersdorf,"Alojamiento entero: apto. residencial en Berlín, Alemania",72,Anfitrión: Katharina,,,berlin
+Apartamento de 2 habitaciones en Friedrichshain,"Alojamiento entero: apto. residencial en Berlín, Alemania",125,Anfitrión: Ursula,"5,0",,berlin
+"Apartamento estudio de diseño con balcón, Berlin Mitte","Alojamiento entero: apartamento con servicios en Berlín, Alemania",139,Anfitrión: Ipartment,"5,0",5,berlin
+Piso moderno en Neukölln / Kreuzberg,"Alojamiento entero: piso en Berlín, Alemania",99,Anfitrión: Mariam,"4,79",,berlin
+moderno y céntrico estudio cerca de Alexanderplatz,"Alojamiento entero: piso en Berlín, Alemania",115,Anfitrión: Julian,"4,82",324,berlin
+¡Habitación en casa flotante en el centro!,"Habitación en Berlín, Alemania",65,Quédate con Linus,,,berlin
+Creativo + renovado + Cool Bergmannkiez,"Alojamiento entero: piso en Berlín, Alemania",61,Anfitrión: Suites And More,"4,79",327,berlin
+Apartamento agradable con cama con dosel y terraza,"Alojamiento entero: piso en Berlín, Alemania",95,Anfitrión: Berat,,,berlin
+Apartamento de diseño en el corazón de Mitte,"Alojamiento entero: piso en Berlín, Alemania",122,Anfitrión: Jacopo,"4,87",79,berlin
+(estudio),"Habitación privada en: apartamento con servicios en Berlín, Alemania",100,Anfitrión: Nena,"4,77",,berlin
+Apartamento espacioso/ Kudamm / City West,"Alojamiento entero: piso en Berlín, Alemania",92,Anfitrión: Thomas,"4,59",59,berlin
+Berlin Muellerstr. | Suite L,"Alojamiento entero: piso en Berlín, Alemania",102,Anfitrión: Limehome,"4,75",16,berlin
+Impresionante ático moderno en Mitte,"Alojamiento entero: piso en Berlín, Alemania",181,Anfitrión: Ori,,,berlin
+795 APARTAMENTO DE LUJO CON TERRAZA EN MITTE,"Alojamiento entero: piso en Berlín, Alemania",150,Anfitrión: Tanja,"4,60",15,berlin
+Acogedor apartamento tipo estudio en Friedrichshain,"Alojamiento entero: piso en Berlín, Alemania",70,Anfitrión: Gian Luca,"4,50",,berlin
+Acogedor apartamento en Prenzlauerberg,"Alojamiento entero: piso en Berlín, Alemania",84,Anfitrión: Daniel,,,berlin
+Apartamento arquitectónico en Kreuzberg,"Alojamiento entero: piso en Berlín, Alemania",78,Anfitrión: Jan,"4,72",457,berlin
+Apartamento de diseño moderno,"Alojamiento entero: piso en Berlín, Alemania",89,Anfitrión: Vincent,"4,33",3,berlin
+"Nena Apartments Moritzplatz ""estudio""","Habitación en apartahotel en Berlín, Alemania",110,Anfitrión: Nena Apartments Moritzplatz,"4,57",,berlin
+Apartamento URBANO 2012 * en el centro de la ciudad,"Alojamiento entero: piso en Berlín, Alemania",249,Anfitrión: Douglas,,,berlin
+Apartamento en Berlín Mitte,"Alojamiento entero: piso en Berlín, Alemania",100,Anfitrión: Isabelle,,,berlin
+limehome Berlin Stresemannstr | Suite,"Alojamiento entero: piso en Berlín, Alemania",97,Anfitrión: Limehome,"4,43",51,berlin
+limehome Berlin Stresemannstr | Suite,"Alojamiento entero: piso en Berlín, Alemania",97,Anfitrión: Limehome,"4,43",51,berlin
+Lujoso penthouse prémium de 3 habitaciones en Berlín Mitte,"Alojamiento entero: piso en Berlín, Alemania",115,Anfitrión: Fabian,"4,86",7,berlin
+habitación plana azul,"Alojamiento entero: piso en Berlín, Alemania",80,Anfitrión: Henning,,,berlin
+Bonito y gran sótanoen el canal kreuzberg,"Alojamiento entero: piso en Berlín, Alemania",76,Anfitrión: Mario,,,berlin
+Lake Side Park/Historic/BER /Ư,"Alojamiento entero: piso en Berlín, Alemania",71,Anfitrión: Jan,"4,44",27,berlin
+"Piso moderno con Homecinema, Netflix, 2 Min. Tranvía","Alojamiento entero: piso en Berlín, Alemania",147,Anfitrión: Sophie,"4,50",8,berlin
+Acogedor apartamento tipo loft en Berlín Wilmersdorf,"Alojamiento entero: piso en Berlín, Alemania",91,Anfitrión: Flo,"4,20",,berlin
+"Apartamento chic, céntrico - Ópera alemana","Alojamiento entero: piso en Berlín, Alemania",79,Anfitrión: Erkan,"4,32",65,berlin
+Apartamento lujoso y con estilo en el aeropuerto DE BER,"Alojamiento entero: piso en Schönefeld, Alemania",119,Anfitrión: Christian,"5,0",11,berlin
+Apartamento céntrico: a 5 minutos de Alexanderplatz.,"Alojamiento entero: piso en Berlín, Alemania",222,Anfitrión: Sophie,,,berlin
+Apartamento de diseño en Bergmannkiez,"Alojamiento entero: piso en Berlín, Alemania",150,Anfitrión: Daniel,,,berlin
+Estudio de diseño luminoso y cómodo en Neukölln,"Alojamiento entero: piso en Berlín, Alemania",110,Anfitrión: Johannes,"5,0",16,berlin
+Apartamento artístico en Kreuzkölln,"Alojamiento entero: piso en Berlín, Alemania",112,Anfitrión: Mariana,,,berlin
+Estudio central en Berlín Friedrichshain,"Alojamiento entero: piso en Berlín, Alemania",81,Anfitrión: Gundula,"5,0",94,berlin
+Zliving Penthouse,"Alojamiento entero: piso en Berlín, Alemania",520,Anfitrión: Duc,,,berlin
+Enorme apartamento de 3 habitaciones en distrito para 2 personas,"Alojamiento entero: piso en Berlín, Alemania",220,Anfitrión: Eli,"5,0",,berlin
+Relájate o trabaja +sauna,"Alojamiento entero: piso en Berlín, Alemania",132,Anfitrión: Zaneta,"5,0",4,berlin
+"Piso céntrico, acogedor y luminoso en Berlín Mitte","Alojamiento entero: piso en Berlín, Alemania",130,Anfitrión: Paulina,"4,95",22,berlin
+Apartamento moderno y luminoso con terraza,"Alojamiento entero: piso en Berlín, Alemania",114,Anfitrión: Ellen,"5,0",,berlin
+"estudio, amplio y tranquilo balcón","Alojamiento entero: loft en Berlín, Alemania",145,Anfitrión: Kitty,"4,95",367,berlin
+Apartamento tranquilo y acogedor con chimenea y terraza,"Alojamiento entero: apto. residencial en Stahnsdorf, Alemania",80,Anfitrión: Katrin,"5,0",26,berlin
+303 * Increíble apartamento en la mejor zona,"Alojamiento entero: piso en Berlín, Alemania",159,Anfitrión: Douglas,,,berlin
+Apartamento de lujo de 100 metros cuadrados en excelente ubicación cerca de Ku'Damm,"Alojamiento entero: piso en Berlín, Alemania",316,Anfitrión: Andre,"5,0",,berlin
+Berlin Friedrichshain Design Loft Apartment + Garden,"Alojamiento entero: piso en Berlín, Alemania",160,Anfitrión: Jessica,"5,0",41,berlin
+Apartamento anexo en el sur de Berlín,"Alojamiento entero: piso en Berlín, Alemania",110,Anfitrión: Dörte,"5,0",48,berlin
+Apartamento agradable en Prenzlauer Berg,"Alojamiento entero: piso en Berlín, Alemania",120,Anfitrión: Paulina,"4,95",101,berlin
+Amplia habitación en su propio piso + con su propio baño,"Habitación en Berlín, Alemania",97,Anfitrión: Julia,"4,97",34,berlin
+Apartamento con encanto en Schöneberg,"Alojamiento entero: piso en Berlín, Alemania",135,Anfitrión: Johannes,"4,97",36,berlin
+Apartamento con estilo en Charlottenburg,"Alojamiento entero: piso en Berlín, Alemania",124,Anfitrión: Ori,,,berlin
+Acogedor apartamento Prenzlauer Berg,"Alojamiento entero: piso en Berlín, Alemania",114,Anfitrión: Jun,"4,94",394,berlin
+¡Siéntete como en tu alojamiento en cuestión de segundos!,"Alojamiento entero: piso en Berlín, Alemania",200,Anfitrión: Nils,"5,0",17,berlin
+"Precioso apartamento en Berlín, Friedrichshain","Alojamiento entero: apto. residencial en Berlín, Alemania",230,Anfitrión: Nadja,"5,0",17,berlin
+Una joya luminosa,"Alojamiento entero: piso en Berlín, Alemania",88,Anfitrión: Holger Und Eike,"4,91",,berlin
+"Chat, apartamento y balcón en el centro del moderno Berlín","Alojamiento entero: piso en Berlín, Alemania",62,Anfitrión: Cannelle,"5,0",18,berlin
+Acogedor apartamento en Charlottenburg,"Alojamiento entero: apto. residencial en Berlín, Alemania",154,Anfitrión: Daniel,"5,0",17,berlin
+"Habitación: Tranquilo, soleado y con vistas al agua","Habitación en Berlín, Alemania",69,Quédate con Julia,,,berlin
+"Chat, apartamento y balcón en el centro del moderno Berlín","Alojamiento entero: piso en Berlín, Alemania",62,Anfitrión: Cannelle,"5,0",18,berlin
+Apartamento Motzstraße (1000) con habitación independiente,"Alojamiento entero: piso en Berlín, Alemania",143,Anfitrión: Andrew,"4,92",74,berlin
+Una joya luminosa,"Alojamiento entero: piso en Berlín, Alemania",88,Anfitrión: Holger Und Eike,"4,91",,berlin
+Acogedor apartamento en Charlottenburg,"Alojamiento entero: apto. residencial en Berlín, Alemania",154,Anfitrión: Daniel,"5,0",17,berlin
+"Precioso apartamento en Berlín, Friedrichshain","Alojamiento entero: apto. residencial en Berlín, Alemania",230,Anfitrión: Nadja,"5,0",17,berlin
+Paraíso urbano: casa soleada con balcón y gato,"Alojamiento entero: piso en Berlín, Alemania",99,Anfitrión: Lisa,"5,0",41,berlin
+"Habitación: Tranquilo, soleado y con vistas al agua","Habitación en Berlín, Alemania",69,Quédate con Julia,,,berlin
+Apartamento en Prenzlauer Berg III,"Alojamiento entero: piso en Berlín, Alemania",63,Anfitrión: Frank,"4,92",292,berlin
+Típico berlinés,"Habitación en Berlín, Alemania",44,Quédate con Uta,"4,90",10,berlin
+Encantador y acogedor apartamento de 1 dormitorio en Neukölln,"Alojamiento entero: apto. residencial en Berlín, Alemania",110,Anfitrión: Julian-Ferdinand,"5,0",10,berlin
+Precioso dúplex en el corazón de Berlín (Mitte),"Alojamiento entero: apto. residencial en Berlín, Alemania",191,Anfitrión: Simon,"4,95",99,berlin
+Hermoso anexo en el corazón de Falkensee,"Alojamiento entero: apto. residencial en Falkensee, Alemania",129,Anfitrión: Ralf,"4,98",43,berlin
+Casa D'Oro beutiful maisonette Apartment,"Alojamiento entero: piso en Berlín, Alemania",277,Anfitrión: Babett,"4,95",196,berlin
+"Chic, Calm + Central Residence","Alojamiento entero: piso en Berlín, Alemania",160,Anfitrión: Gerrit,"5,0",4,berlin
+Sala de estar soleada con balcón,"Alojamiento entero: piso en Berlín, Alemania",129,Anfitrión: Kuanita,"5,0",7,berlin
+Hermoso y gran apartamento cerca de Rosenthaler Platz,"Alojamiento entero: piso en Berlín, Alemania",192,Anfitrión: Dominic,"4,99",96,berlin
+Apartamento moderno de 2 habitaciones,"Alojamiento entero: piso en Berlín, Alemania",134,Anfitrión: Nena,,,berlin
+"Loft (45 mts2) con terraza, Rummelsburg Bay","Alojamiento entero: apto. residencial en Berlín, Alemania",84,Anfitrión: Mirco,"4,96",107,berlin
+Luminoso apartamento de 3 habitaciones en Neukölln,"Alojamiento entero: apto. residencial en Berlín, Alemania",200,Anfitrión: Frederic,"5,0",9,berlin
+Experimenta Berlín 2020,"Alojamiento entero: piso en Berlín, Alemania",80,Anfitrión: Sven,"4,95",37,berlin
+Adorable casa de huéspedes con alberca y sauna en Pankow,"Alojamiento entero: bungalow en Berlín, Alemania",206,Anfitrión: Thomas & Susanne,"4,98",61,berlin
+Apartamento privado Simon-Dach,"Alojamiento entero: apto. residencial en Berlín, Alemania",170,Anfitrión: Joana Karina,"5,0",20,berlin
+Piso único en Schillerkiez,"Alojamiento entero: apto. residencial en Berlín, Alemania",141,Anfitrión: Alex,"5,0",37,berlin
+Habitación tranquila en un apartamento queer Friendly,"Habitación en Berlín, Alemania",77,Quédate con Julien,"5,0",13,berlin
+Apartamento estudio moderno,"Alojamiento entero: piso en Berlín, Alemania",87,Anfitrión: Vincent,"5,0",7,berlin
+Vivir en el asentamiento forestal,"Alojamiento entero: apto. residencial en Blankenfelde-Mahlow, Alemania",70,Anfitrión: Petra,"5,0",22,berlin
+Apartamento acogedor y tranquilo en Berlín cerca del transporte público,"Alojamiento entero: piso en Berlín, Alemania",77,Anfitrión: Anica,"4,94",100,berlin
+Estudio en Prenzlauer Berg,"Alojamiento entero: piso en Berlín, Alemania",81,Anfitrión: Mostafa,,,berlin
+Edificio antiguo de diseño recién reformado,"Alojamiento entero: piso en Berlín, Alemania",150,Anfitrión: Indra,"5,0",8,berlin
+ACOGEDOR ALOJAMIENTO,"Alojamiento entero: piso en Berlín, Alemania",140,Anfitrión: Vera,"5,0",7,berlin
+The Luxury Orchid Home,"Alojamiento entero: piso en Berlín, Alemania",249,Anfitrión: Claas,"5,0",,berlin
+Soleado balcón loft en la última planta +vista Prenzlauer Berg,"Alojamiento entero: loft en Berlín, Alemania",139,Anfitrión: Claus,"4,90",185,berlin
+La mejor ubicación: Precioso apartamento en Friedrichshain,"Alojamiento entero: piso en Berlín, Alemania",81,Anfitrión: David,"4,94",,berlin
+Apartamento recién renovado en el Castillo de Charlottenburg,"Alojamiento entero: piso en Berlín, Alemania",100,Anfitrión: Heiko,"4,94",162,berlin
+Tranquilo apartamento estudio cerca del Mauerpark,"Alojamiento entero: apto. residencial en Berlín, Alemania",89,Anfitrión: Atto,"4,97",143,berlin
+Apartamento tranquilo en la casa sueca en medio de Berlín,"Alojamiento entero: apto. residencial en Berlín, Alemania",112,Anfitrión: Anke,"4,97",140,berlin
+Apartamento de ensueño en Central Place /Privat Parking,"Alojamiento entero: loft en Berlín, Alemania",211,Anfitrión: Mikel,"4,95",60,berlin
+Tranquilo apartamento estudio cerca del Mauerpark,"Alojamiento entero: apto. residencial en Berlín, Alemania",89,Anfitrión: Atto,"4,97",143,berlin
+Apartamento estudio elegante y moderno en Berlín-Charlottenburg,"Alojamiento entero: piso en Berlín, Alemania",115,Anfitrión: Sandra,"4,66",44,berlin
+Apartamento de 2 habitaciones - muy céntrico - Superview Mitte,"Alojamiento entero: apto. residencial en Berlín, Alemania",88,Anfitrión: Regina,"4,94",35,berlin
+Elegante escondite en el corazón de Berlín.,"Alojamiento entero: apto. residencial en Berlín, Alemania",213,Anfitrión: Michaela,"4,94",31,berlin
+"Amplio, mejor ubicación, 2 balcones, moderno!","Alojamiento entero: piso en Berlín, Alemania",249,Anfitrión: Kolja,"4,93",28,berlin
+Con estilo en Berlín,"Alojamiento entero: apto. residencial en Berlín, Alemania",174,Anfitrión: Paolo Maria,"4,96",28,berlin
+Piso urbano de Kreuzberg con balcón en el patio,"Alojamiento entero: apto. residencial en Berlín, Alemania",137,Anfitrión: Andreas,"4,89",267,berlin
+Los oasis urbanos junto al agua,"Alojamiento entero: apto. residencial en Berlín, Alemania",110,Anfitrión: Anjeza,"5,0",10,berlin
+Über den Dächern von Berlin,"Alojamiento entero: apto. residencial en Berlín, Alemania",65,Anfitrión: Norbert,"4,98",40,berlin
+Apartamento en Berlín-Adlershof,"Alojamiento entero: piso en Berlín, Alemania",89,Anfitrión: Hanna,"4,91",32,berlin
+Apartamento en un edificio antiguo en Alt-Treptow,"Alojamiento entero: piso en Berlín, Alemania",150,Anfitrión: Uwe,"5,0",15,berlin
+Acogedor apartamento en Maisonette cerca de KuDamm,"Alojamiento entero: piso en Berlín, Alemania",119,Anfitrión: Flo Und Friedl,,,berlin
+Habitación privada en lujo. Apartamento limpio de 330 m² + sauna.,"Habitación en Berlín, Alemania",84,Quédate con Freddy,"4,97",31,berlin
+En el corazón de Neuköllner Kiez ;)Real Berlin Feeling!,"Alojamiento entero: piso en Berlín, Alemania",95,Anfitrión: Villiam,"5,0",10,berlin
+Acogedor apartamento en Sprengelkiez - Berlín,"Alojamiento entero: apto. residencial en Berlín, Alemania",90,Anfitrión: Guillaume,"4,88",8,berlin
+Acogedora maisonette en el centro de Berlín,"Alojamiento entero: piso en Berlín, Alemania",90,Anfitrión: Ursula,,,berlin
+Departamento Boutique Ruhiges,"Alojamiento entero: piso en Berlín, Alemania",70,Anfitrión: Mathias,"4,89",9,berlin
+En una zona de moda con carácter,"Alojamiento entero: piso en Berlín, Alemania",118,Anfitrión: Victor,"5,0",,berlin
+Elegante apartamento de 70 m2 en el centro de Berlín (Mitte),"Alojamiento entero: apto. residencial en Berlín, Alemania",110,Anfitrión: Sabine,"4,92",,berlin
+¡Acogedor apartamento en el corazón de la zona más moderna!,"Alojamiento entero: apto. residencial en Berlín, Alemania",120,Anfitrión: Artemis- Diana,"5,0",6,berlin
+Bright + green *15 min to Potsdamer Platz*,"Alojamiento entero: apto. residencial en Berlín, Alemania",71,Anfitrión: Ansgar,"4,67",3,berlin
+Apartamento ejecutivo de 110 metros cuadrados cerca de Museumsinsel,"Alojamiento entero: piso en Berlín, Alemania",140,Anfitrión: Christian,"5,0",3,berlin
+Apartamento Urbanes en F-Hain,"Alojamiento entero: piso en Berlín, Alemania",86,Anfitrión: Ria,"4,91",11,berlin
+apartamento acogedor en friedrichshain,"Alojamiento entero: piso en Berlín, Alemania",104,Anfitrión: Fatoş,,,berlin
+204 * El mejor lugar para estar en el centro de la ciudad *,"Alojamiento entero: piso en Berlín, Alemania",264,Anfitrión: Douglas,,,berlin
+Hermosa habitación junto al canal (Gräfekiez),"Habitación en Berlín, Alemania",55,Anfitrión: Katja,"4,92",403,berlin
+Acogedor ático con vistas únicas sobre la ciudad,"Alojamiento entero: apto. residencial en Berlín, Alemania",265,Anfitrión: Vasil,"4,96",26,berlin
+Acogedora habitación con baño adjunto cerca de Mauerpark,"Habitación en Berlín, Alemania",65,Quédate con Dave,"4,94",78,berlin
+"504 * El lugar para estar en la mejor zona, reformado","Alojamiento entero: piso en Berlín, Alemania",245,Anfitrión: Douglas,"5,0",9,berlin
+Apartamento estudio en Berlín Mitte,"Alojamiento entero: piso en Berlín, Alemania",92,Anfitrión: Dominik,"5,0",31,berlin
+"Maisonette, la mejor ubicación de 2 balcones de Berlín-Mitte","Alojamiento entero: piso en Berlín, Alemania",141,Anfitrión: Marisa,"4,98",81,berlin
+Penthouse de lujo en el corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",231,Anfitrión: Stefania,"5,0",21,berlin
+Maisonette en la planta superior del corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",170,Anfitrión: Stephan,"4,96",27,berlin
+Pequeña casa a las afueras del pueblo,"Alojamiento entero: bungalow en Falkensee, Alemania",99,Anfitrión: Celina,,,berlin
+"Estudio único y tranquilo, excelente ubicación!","Alojamiento entero: piso en Berlín, Alemania",104,Anfitrión: Alexander,"4,96",74,berlin
+Acogedora casa en el maravilloso distrito de Friedrichshain,"Alojamiento entero: piso en Berlín, Alemania",284,Anfitrión: Sonya,"5,0",22,berlin
+Apartamento ejecutivo de 110 metros cuadrados cerca de Museumsinsel,"Alojamiento entero: piso en Berlín, Alemania",140,Anfitrión: Christian,"5,0",3,berlin
+Berlín puro:elegante neu2 Zi/Terrasse/Zentrum/Mauer,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",238,Anfitrión: Kathrin,"4,94",52,berlin
+Maisonette en la planta superior del corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",170,Anfitrión: Stephan,"4,96",27,berlin
+"504 * El lugar para estar en la mejor zona, reformado","Alojamiento entero: piso en Berlín, Alemania",245,Anfitrión: Douglas,"5,0",9,berlin
+Apartamento de lujo en Frankfurter Allee,"Alojamiento entero: piso en Berlín, Alemania",141,Anfitrión: Flo,,,berlin
+Elegante oasis en el corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",121,Anfitrión: Sacha,"4,88",24,berlin
+Estudio de artista en Berlín - Prenzlauer Berg,"Alojamiento entero: loft en Berlín, Alemania",120,Anfitrión: Georg,"4,91",22,berlin
+Penthouse de lujo en el corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",231,Anfitrión: Stefania,"5,0",21,berlin
+estudio luminoso en Schöneberg junto a la ciudad de Berlín,"Alojamiento entero: piso en Berlín, Alemania",137,Anfitrión: Jens,"4,90",217,berlin
+Acogedora habitación con baño adjunto cerca de Mauerpark,"Habitación en Berlín, Alemania",65,Quédate con Dave,"4,94",78,berlin
+"Waldrand Tiergarten: céntrico, moderno, cómodo","Alojamiento entero: piso en Berlín, Alemania",105,Anfitrión: Katja,"4,96",46,berlin
+Hermosa habitación junto al canal (Gräfekiez),"Habitación en Berlín, Alemania",55,Anfitrión: Katja,"4,92",403,berlin
+Karo: un oasis de paz en Kreuzberg,"Alojamiento entero: piso en Berlín, Alemania",86,Anfitrión: Jan,"4,92",157,berlin
+TempelCasa,"Alojamiento entero: apto. residencial en Berlín, Alemania",97,Anfitrión: Alexander,"4,88",240,berlin
+Estudio creativo en Friedrichshain-Boxhagener Platz,"Alojamiento entero: piso en Berlín, Alemania",120,Anfitrión: Claudia,"4,94",36,berlin
+"Mucho espacio, dentro del anillo","Habitación en Berlín, Alemania",82,Quédate con Christof,"5,0",3,berlin
+"Maisonette, la mejor ubicación de 2 balcones de Berlín-Mitte","Alojamiento entero: piso en Berlín, Alemania",141,Anfitrión: Marisa,"4,98",81,berlin
+#505 Sé mi huésped,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",106,Anfitrión: Apartmently,"4,82",76,berlin
+Estudio creativo en Friedrichshain-Boxhagener Platz,"Alojamiento entero: piso en Berlín, Alemania",120,Anfitrión: Claudia,"4,94",36,berlin
+moderno y céntrico estudio cerca de Alexanderplatz,"Alojamiento entero: piso en Berlín, Alemania",115,Anfitrión: Julian,"4,82",324,berlin
+SMARTments - Vida temporal en Prenzlauer Berg,"Alojamiento entero: apartamento con servicios en Berlín, Alemania",95,Anfitrión: SMARTments,,,berlin
+UN GRAN ÁTICO,"Alojamiento entero: loft en Berlín, Alemania",155,Anfitrión: Jeep,"4,84",132,berlin
+Acogedora habitación con baño adjunto cerca de Mauerpark,"Habitación en Berlín, Alemania",65,Quédate con Dave,"4,94",78,berlin
+Apartamento de lujo con carácter en Berlín Kreuzberg-1,"Alojamiento entero: piso en Berlín, Alemania",129,Anfitrión: Tuncay,"5,0",5,berlin
+,"Alojamiento entero: casa de invitados en Teltow, Alemania",84,Anfitrión: Harald,"4,97",37,berlin
+Departamento nuevo accesible,"Alojamiento entero: piso en Berlín, Alemania",149,Anfitrión: Tobias,"4,93",,berlin
+Hermosa habitación junto al canal (Gräfekiez),"Habitación en Berlín, Alemania",55,Anfitrión: Katja,"4,92",403,berlin
+"Precioso loft, balcón y baño propio","Habitación privada en: loft en Berlín, Alemania",71,Anfitrión: Theresa,"4,81",,berlin
+"Maisonette, la mejor ubicación de 2 balcones de Berlín-Mitte","Alojamiento entero: piso en Berlín, Alemania",141,Anfitrión: Marisa,"4,98",81,berlin
+Industrial-Design Loft de 100 metros cuadrados en Friedrichshain,"Alojamiento entero: loft en Berlín, Alemania",240,Anfitrión: Lorant,"4,92",89,berlin
+apartamento acogedor en friedrichshain,"Alojamiento entero: piso en Berlín, Alemania",104,Anfitrión: Fatoş,,,berlin
+2032 * Acogedor apartamento en el corazón de Berlín,"Alojamiento entero: piso en Berlín, Alemania",232,Anfitrión: Douglas,,,berlin
+"Estudio único y tranquilo, excelente ubicación!","Alojamiento entero: piso en Berlín, Alemania",104,Anfitrión: Alexander,"4,96",74,berlin
+Estudio de 60 metros cuadrados en el parque Gleisdreieck,"Alojamiento entero: piso en Berlín, Alemania",150,Anfitrión: Guillermo,,,berlin
+Cervecería renovada en un lago,"Alojamiento entero: piso en Berlín, Alemania",120,Anfitrión: Dani,,,berlin
+Apartamento acogedor autónomo,"Alojamiento entero: vivienda en Berlín, Alemania",86,Anfitrión: Iulia,"5,0",11,berlin
+viajar con un perro no es ningún problema con nosotros,"Alojamiento entero: piso en Schulzendorf, Alemania",72,Anfitrión: R,"5,0",4,berlin
+"Mucho espacio, dentro del anillo","Habitación en Berlín, Alemania",82,Quédate con Christof,"5,0",3,berlin
+"FU-Zentral, hermosa parte/departamento en renovado.20er Ja","Alojamiento entero: piso en Berlín, Alemania",110,Anfitrión: Nina,"4,93",134,berlin
+CASA DE CAMPO EN EL CINTURÓN DE TOCINO DE BERLÍN,"Alojamiento entero: vivienda en Schönwalde-Glien, Alemania",78,Anfitrión: Margit,"4,99",142,berlin
+Fantástico apartamento en el ático,"Alojamiento entero: apto. residencial en Berlín, Alemania",130,Anfitrión: Anna,,,berlin
+Departamento de Diseño Prenzlauer Berg,"Alojamiento entero: piso en Berlín, Alemania",100,Anfitrión: Maycon & Christian,"4,94",83,berlin
+Hermoso ático / ático con terraza,"Alojamiento entero: piso en Berlín, Alemania",149,Anfitrión: Anna & Robin,"4,98",43,berlin
+La joya de Neukölln,"Alojamiento entero: piso en Berlín, Alemania",77,Anfitrión: Malte,"4,94",16,berlin
+"Apartamento tranquilo de 1 habitación en el parque, a 20 minutos del centro","Alojamiento entero: piso en Berlín, Alemania",80,Anfitrión: Anne,,,berlin
+2021 * Apartamento urbano en el centro de la ciudad,"Alojamiento entero: piso en Berlín, Alemania",249,Anfitrión: Douglas,,,berlin
+Moderno apartamento de edificio antiguo en Charlottenburg,"Alojamiento entero: piso en Berlín, Alemania",125,Anfitrión: Lorenz J.,"4,91",,berlin
+Elegante y acogedora casa de huéspedes con terraza y piscina,"Alojamiento entero: casa de invitados en Berlín, Alemania",90,Anfitrión: Yannik,"4,99",67,berlin
+Sueño para parejas: habitación en el corazón de Kreuzberg,"Habitación en Berlín, Alemania",120,Anfitrión: Cem,"4,96",193,berlin
+Edificio moderno con jardín vertical y 2 recamaras,"Alojamiento entero: apto. residencial en Berlín, Alemania",225,Anfitrión: Tomasz,"4,98",112,berlin
+Departamento nuevo en Schönefeld,"Alojamiento entero: piso en Schönefeld, Alemania",92,Anfitrión: Frank,,,berlin
+Paraíso en madera,"Alojamiento entero: piso en Berlín, Alemania",68,Anfitrión: Paul,,,berlin
+EXCELENTE apartamento de 102 * en el centro de la ciudad,"Alojamiento entero: piso en Berlín, Alemania",174,Anfitrión: Douglas,,,berlin
+Habitación de huéspedes balneoterapia Limeil-Brévannes,"Habitación privada en: bed and breakfast en Limeil-Brévannes, Francia",186,Anfitrión: Stephane,"5,0",34,paris
+"Casa Nina, Suite de excepción","Alojamiento entero: vivienda en L'Île-Saint-Denis, Francia",379,Anfitrión: Maison,"4,94",196,paris
+Estudio en la calle la Boëtie,"Alojamiento entero: piso en París, Francia",100,Anfitrión: Priscille,,,paris
+Acogedor apartamento * Puertas de París * Pareja ideal,"Alojamiento entero: piso en Gentilly, Francia",89,Anfitrión: Fanny,"5,0",,paris
+2 habitaciones en París - Campos de Marte/Torre Eiffel,"Alojamiento entero: piso en París, Francia",130,Anfitrión: Valentine,,,paris
+Estudio con encanto bien situado,"Alojamiento entero: piso en París, Francia",86,Anfitrión: Marie,"4,83",,paris
+Apartamento luminoso con vistas a los tejados,"Alojamiento entero: piso en París, Francia",86,Anfitrión: Valentin,,,paris
+¡Sol en el corazón de Le Marais!,"Alojamiento entero: piso en París, Francia",300,Anfitrión: Illi,,,paris
+Appart Paris16 Tour Eiffel Troca,"Alojamiento entero: piso en París, Francia",250,Anfitrión: Simon,,,paris
+La mejor vista de la torre Eiffel.,"Alojamiento entero: piso en París, Francia",240,Anfitrión: Jeanne,,,paris
+Elegante art deco a pie de París 16.,"Alojamiento entero: piso en París, Francia",265,Anfitrión: Miles,"5,0",20,paris
+Amplio apartamento de 2 habitaciones con terraza,"Alojamiento entero: piso en París, Francia",130,Anfitrión: Thierry,"4,92",62,paris
+Encantador estudio en un barrio animado,"Alojamiento entero: piso en París, Francia",110,Anfitrión: Rodolphe,"4,97",174,paris
+Encanto de 2 habitaciones Montmartre,"Alojamiento entero: piso en París, Francia",99,Anfitrión: Alban,,,paris
+Precioso apartamento en Le Marais,"Alojamiento entero: piso en París, Francia",,Anfitrión: Steeve,,,paris
+Encanto y comodidad en el corazón de Batignolles,"Alojamiento entero: piso en París, Francia",210,Anfitrión: Clément,"4,94",18,paris
+Balcón | en el corazón del distrito 9,"Alojamiento entero: piso en París, Francia",164,Anfitrión: Julian,,,paris
+Apartamento tranquilo en Montmartre - EasyHostin',"Alojamiento entero: piso en París, Francia",179,Anfitrión: Samuel,"5,0",9,paris
+Apartamento tranquilo en Montmartre - EasyHostin',"Alojamiento entero: piso en París, Francia",179,Anfitrión: Samuel,"5,0",9,paris
+Edgar Suites Bouchardon - Studio superior patio,"Alojamiento entero: piso en París, Francia",308,Anfitrión: Edgar,"4,96",24,paris
+Encantador apartamento - Canal St Martin/République,"Alojamiento entero: piso en París, Francia",140,Anfitrión: Thibault,"4,98",,paris
+Apartamento tranquilo Abbesses Montmartre,"Alojamiento entero: piso en París, Francia",145,Anfitrión: Benoit,"5,0",17,paris
+Increíble apartamento en Montmartre 2/4P,"Alojamiento entero: piso en París, Francia",138,Anfitrión: Anthony,"5,0",,paris
+Le Van Gogh Appart • 3'RER • 11'Paris • 23'Disney,"Alojamiento entero: piso en Bry-sur-Marne, Francia",110,Anfitrión: Ornella,"4,97",29,paris
+Ático Sky cerca de la torre Eiffel,"Habitación privada en: piso en París, Francia",280,Anfitrión: Mickael,"4,90",230,paris
+Joie Paris Poliveau,"Alojamiento entero: piso en París, Francia",,Anfitrión: Joie Paris,,,paris
+Acogedor apartamento para 2 -canal st Martin,"Alojamiento entero: piso en París, Francia",87,Anfitrión: Alexia,"3,67",3,paris
+Gran apartamento acogedor a orillas del canal,"Alojamiento entero: piso en París, Francia",180,Anfitrión: Quentin,"4,94",17,paris
+Un increíble 1-Br/1BA en Montmartre,"Alojamiento entero: piso en París, Francia",168,Anfitrión: Eunice,,,paris
+Lac du Panorama* cerca de París* aparcamiento privado *,"Alojamiento entero: piso en Clamart, Francia",140,Anfitrión: Wahab,"5,0",,paris
+Impresionante apartamento de lujo moderno y reformado,"Alojamiento entero: piso en París, Francia",191,Anfitrión: Jean-Christophe,"5,0",4,paris
+Escapada a la selva bajo el cielo parisino,"Alojamiento entero: piso en París, Francia",152,Anfitrión: Tam,"5,0",3,paris
+Lujoso Apartamento Jacuzzi cerca de París,"Alojamiento entero: piso en La Celle-Saint-Cloud, Francia",128,Anfitrión: Sadia,"5,0",17,paris
+Apartamento T3 cerca de Montmartre,"Alojamiento entero: piso en París, Francia",190,Anfitrión: Doriane,"5,0",3,paris
+Apto. 40M² Torre Eiffel - Puerta Versalles,"Alojamiento entero: piso en París, Francia",130,Anfitrión: Patricia,"4,98",87,paris
+* Apartamento acogedor * Puertas de París*,"Alojamiento entero: piso en Vincennes, Francia",136,Anfitrión: Patrick,,,paris
+Acogedor apartamento cerca de Rivoli y del Museo del Louvre,"Alojamiento entero: piso en París, Francia",261,Anfitrión: Checkmyguest,,,paris
+Hermoso apartamento con vistas a la Torre Eiffel,"Alojamiento entero: piso en París, Francia",120,Anfitrión: Raed,,,paris
+Estudio céntrico +Wifi rápido + Desayuno + Vino,"Alojamiento entero: piso en París, Francia",180,Anfitrión: Floriane,"5,0",24,paris
+Magnífico Apartamento 1BR/4P - Montorgueil 6,"Alojamiento entero: piso en París, Francia",188,Anfitrión: Alex,"4,71",,paris
+Encantador apartamento en el corazón de París,"Alojamiento entero: piso en París, Francia",219,Anfitrión: Checkmyguest,,,paris
+Encanto parisino con vistas,"Alojamiento entero: piso en París, Francia",,Anfitrión: Cendrine,,,paris
+Un increíble 1-Br/1BA en Montmartre,"Alojamiento entero: piso en París, Francia",176,Anfitrión: Eunice,,,paris
+"Luminoso y tranquilo, T2 equipado a 15 minutos de París","Alojamiento entero: piso en Maisons-Alfort, Francia",67,Anfitrión: Boris,"5,0",5,paris
+Encanto urbano: 2 habitaciones Acogedor cerca de Accor Arena,"Alojamiento entero: piso en París, Francia",95,Anfitrión: Manon,"5,0",8,paris
+Luxury & Design Flat 1BR/4P- Bastille,"Alojamiento entero: piso en París, Francia",289,Anfitrión: Arnaud Et Sam,,,paris
+Luxueux 60m² central de Beaubourg,"Alojamiento entero: piso en París, Francia",220,Anfitrión: Merci Alice,,,paris
+"Montmartre Duplex, Sacré-Cœur - Charming Hideaway","Alojamiento entero: piso en París, Francia",219,Anfitrión: Joie Paris,,,paris
+Loft chic vintage Paris center,"Alojamiento entero: piso en París, Francia",182,Anfitrión: Guillemette,"4,78",27,paris
+Magnífico Apartamento 1BR/4P - Montorgueil 7,"Alojamiento entero: piso en París, Francia",196,Anfitrión: Alex,"4,60",,paris
+Acogedor apartamento en Montmartre,"Alojamiento entero: piso en París, Francia",130,Anfitrión: Sebastien,"5,0",5,paris
+Suite de 3 habitaciones en París - Nation,"Alojamiento entero: piso en París, Francia",198,Anfitrión: Walid,"5,0",29,paris
+Ubicación superior - París/Disney/Montmartre,"Alojamiento entero: piso en París, Francia",160,Anfitrión: Yasmina,"4,79",14,paris
+Apartamento con encanto cerca de los Quais de Seine,"Alojamiento entero: piso en París, Francia",280,Anfitrión: Checkmyguest,,,paris
+Acogedor apartamento en un callejón tranquilo,"Alojamiento entero: piso en París, Francia",155,Anfitrión: Lucile,"5,0",6,paris
+Apartamento de diseño con vistas a París,"Alojamiento entero: piso en París, Francia",196,Anfitrión: Damien,"5,0",31,paris
+Superbe studio vue Tour Eiffel,"Alojamiento entero: piso en París, Francia",90,Anfitrión: Lisa,"5,0",17,paris
+Encantador Père Lachaise de dos habitaciones,"Alojamiento entero: piso en París, Francia",120,Anfitrión: Mylene,"5,0",6,paris
+"Cerca de la Torre Eiffel, metro y comercios.","Habitación en París, Francia",130,Quédate con Marine,"4,95",186,paris
+Acogedora casa con terraza cerca del Canal Saint-Martin,"Alojamiento entero: piso en París, Francia",117,Anfitrión: Checkmyguest,,,paris
+"En el muelle, frente al Louvre, muy limpio, buen wifi","Habitación en París, Francia",163,Anfitrión: Julia,"4,97",331,paris
+Apartamento de 2 habitaciones luminoso,"Alojamiento entero: piso en París, Francia",140,Anfitrión: Annabelle,,,paris
+Encantador estudio Montmartre en el último piso tranquilo,"Alojamiento entero: piso en París, Francia",95,Anfitrión: Tiphaine,,,paris
+Un increíble 1-Br/1BA en Montmartre,"Alojamiento entero: piso en París, Francia",176,Anfitrión: Eunice,,,paris
+Magnífico Apartamento 1BR/4P - Montorgueil 7,"Alojamiento entero: piso en París, Francia",196,Anfitrión: Alex,"4,60",,paris
+París: apartamento tranquilo y luminoso,"Alojamiento entero: piso en París, Francia",115,Anfitrión: Lisa,"4,88",16,paris
+Tour moderno estudio bail mobilité con vistas a Eiffel,"Alojamiento entero: piso en París, Francia",140,Anfitrión: Linda,"4,97",91,paris
+Apartamento recién renovado entre la Ópera y el Louvre,"Alojamiento entero: piso en París, Francia",281,Anfitrión: Guillaume Et Penelope,"4,94",150,paris
+"Boisseau, 1Ch/1Sdb, 2 personas","Alojamiento entero: piso en París, Francia",220,Anfitrión: Ludovic,,,paris
+Balcón | en el corazón del distrito 9,"Alojamiento entero: piso en París, Francia",164,Anfitrión: Julian,,,paris
+Diseño de 44m ² | CDG | París | Disney | Astérix,"Alojamiento entero: piso en Gonesse, Francia",71,Anfitrión: Mike,"4,94",,paris
+Apartamento luminoso cerca de la plaza Léon Blum,"Alojamiento entero: piso en París, Francia",180,Anfitrión: Philippe,"4,96",25,paris
+"Boisseau, 1Ch/1Sdb, 2 personas","Alojamiento entero: piso en París, Francia",220,Anfitrión: Ludovic,,,paris
+Diseño de 44m ² | CDG | París | Disney | Astérix,"Alojamiento entero: piso en Gonesse, Francia",71,Anfitrión: Mike,"4,94",,paris
+Apartamento luminoso cerca de la plaza Léon Blum,"Alojamiento entero: piso en París, Francia",180,Anfitrión: Philippe,"4,96",25,paris
+Apartamento elegante en París y terraza,"Alojamiento entero: piso en París, Francia",160,Anfitrión: Patrick,,,paris
+Acogedor T2 con balcón -RER B/París,"Alojamiento entero: piso en Bagneux, Francia",70,Anfitrión: Tanedice,"4,90",10,paris
+Loft 52m²+estacionamiento a 15 min del centro de París,"Alojamiento entero: piso en Les Lilas, Francia",91,Anfitrión: Lorenzo,"4,99",,paris
+Apartamento 1 BR con balcón - Chatelet/ París 2,"Alojamiento entero: piso en Paris 2e, Francia",247,Anfitrión: Xiaoling,"4,81",132,paris
+Luxueux 60m² central de Beaubourg,"Alojamiento entero: piso en París, Francia",220,Anfitrión: Merci Alice,,,paris
+Apartamento de 2 habitaciones luminoso,"Alojamiento entero: piso en París, Francia",140,Anfitrión: Annabelle,,,paris
+LE MARAIS - NUEVO APARTAMENTO DE ALTA GAMA,"Alojamiento entero: piso en París, Francia",179,Anfitrión: Valery,"4,55",121,paris
+Loft chic vintage Paris center,"Alojamiento entero: piso en París, Francia",182,Anfitrión: Guillemette,"4,78",27,paris
+Maison Bůoise 1BR/3P con AC en los Campos Elíseos,"Alojamiento entero: piso en París, Francia",205,Anfitrión: Cozy BnB,"4,92",62,paris
+Magnífico Apartamento 1BR/4P - Montorgueil 4,"Alojamiento entero: piso en París, Francia",214,Anfitrión: Alex,"4,60",,paris
+Precioso apartamento en el corazón del distrito 16,"Alojamiento entero: piso en París, Francia",187,Anfitrión: Checkmyguest,"4,55",,paris
+Hermosa vista estudio París 17,"Alojamiento entero: piso en París, Francia",90,Anfitrión: Céline,,,paris
+El Sorprendente - París,"Alojamiento entero: piso en París, Francia",223,Anfitrión: Laura,,,paris
+Luxury & Design Flat 1BR/4P- Bastille,"Alojamiento entero: piso en París, Francia",299,Anfitrión: Arnaud Et Sam,,,paris
+Un increíble 1-Br/1BA en Montmartre,"Alojamiento entero: piso en París, Francia",176,Anfitrión: Eunice,,,paris
+El Sorprendente - París,"Alojamiento entero: piso en París, Francia",223,Anfitrión: Laura,,,paris
+Apartamento de lujo de un dormitorio cerca del Louvre II,"Alojamiento entero: piso en París, Francia",481,Anfitrión: Ornella,"4,89",27,paris
+1556: Estudio Madeleine en los Juegos Olímpicos de París 2024,"Alojamiento entero: piso en París, Francia",180,Anfitrión: Holidays,"4,89",9,paris
+Apartamento de lujo cerca del Sagrado Corazón,"Alojamiento entero: piso en París, Francia",,Anfitrión: Capucine,,,paris
+Increíble apartamento 1BR/4P - Montorgueil - 3,"Alojamiento entero: piso en París, Francia",251,Anfitrión: Checkmyguest,"4,69",,paris
+INCREÍBLE LOFT HISTÓRICO PARISINO JUNTO A LA ZONA DEL LOUVRE! - 4,"Alojamiento entero: piso en París, Francia",272,Anfitrión: Checkmyguest,"4,56",,paris
+*Encantador apartamento para 2 en Trocadéro - París 16*,"Alojamiento entero: piso en París, Francia",140,Anfitrión: Pierre De WeHost,"4,27",11,paris
+Apartamento de 2 habitaciones «como en casa»,"Alojamiento entero: piso en Montreuil, Francia",70,Anfitrión: Mathilde,,,paris
+"La Maison Kleber, Luxury 1BR Eiffel Champs-Elysées","Alojamiento entero: piso en París, Francia",325,Anfitrión: Jean-Pierre,"5,0",,paris
+Piso de estilo con aire acondicionado en Marais en el último piso,"Alojamiento entero: loft en París, Francia",444,Anfitrión: Vinicius Parisian,,,paris
+CityStay Confort 5 min en metro,"Alojamiento entero: piso en Boulogne-Billancourt, Francia",114,Anfitrión: Charles,"5,0",6,paris
+Amplio loft reformado con aire acondicionado,"Alojamiento entero: piso en París, Francia",319,Anfitrión: Guillaume Et Penelope,"5,0",52,paris
+Piso a 10 minutos del centro de París,"Alojamiento entero: piso en Asnières-sur-Seine, Francia",70,Anfitrión: Barbara,"5,0",3,paris
+Luminoso apartamento de Batignolles con vistas a la Torre Eiffel,"Alojamiento entero: piso en París, Francia",135,Anfitrión: Charlotte,"5,0",3,paris
+Acogedor apartamento en Montmartre,"Alojamiento entero: piso en París, Francia",130,Anfitrión: Sebastien,"5,0",5,paris
+Magnífico Apartamento 1BR/4P - Montorgueil 5,"Alojamiento entero: piso en París, Francia",218,Anfitrión: Alex,"4,63",,paris
+Ultra Central Historical Parisian Flat - Louvre,"Alojamiento entero: piso en París, Francia",184,Anfitrión: Checkmyguest,"4,67",,paris
+"En el muelle, frente al Louvre, muy limpio, buen wifi","Habitación en París, Francia",163,Anfitrión: Julia,"4,97",331,paris
+Apartamento atípico y encantador en el centro de Le Marais,"Alojamiento entero: piso en París, Francia",540,Anfitrión: Julien,"5,0",18,paris
+Apartamento romántico Montmartre & Pigalle,"Alojamiento entero: piso en París, Francia",235,Anfitrión: Manon,"5,0",25,paris
+Ambiente acogedor en el barrio superior a 15 minutos de París,"Alojamiento entero: apto. residencial en Antony, Francia",54,Anfitrión: Marc-Olivier Et Sabéha,"5,0",18,paris
+Acogedor apartamento con balcón cerca de Montmartre,"Alojamiento entero: piso en París, Francia",114,Anfitrión: Nadia,,,paris
+Marais - République,"Alojamiento entero: piso en París, Francia",349,Anfitrión: Clara,,,paris
+Estudio Montmartre con balcón,"Alojamiento entero: piso en París, Francia",120,Anfitrión: Valérie,"5,0",7,paris
+En el corazón de Montmartre,"Alojamiento entero: piso en París, Francia",205,Anfitrión: Benjamin,"5,0",22,paris
+L'Eden - Casa para 12 PERSONAS - París y Disney,"Alojamiento entero: vivienda en Le Perreux-sur-Marne, Francia",279,Anfitrión: Get Host,"5,0",,paris
+"¡Airbnb de verdad, bienvenida a casa !","Alojamiento entero: piso en París, Francia",220,Anfitrión: Sarah,"5,0",3,paris
+Acogedor apartamento en el corazón de París Bonne Nouvelle,"Alojamiento entero: piso en París, Francia",269,Anfitrión: Jean,"5,0",67,paris
+Gran apartamento parisino a dos pasos del pantano,"Alojamiento entero: piso en París, Francia",189,Anfitrión: Julien,"5,0",45,paris
+Apartamento de arquitecto con terraza privada,"Alojamiento entero: piso en Saint-Mandé, Francia",110,Anfitrión: Mélissa,"5,0",12,paris
+Apartamento parisino chic chic con vistas a la azotea,"Alojamiento entero: piso en París, Francia",715,Anfitrión: Elsa&Yann,"5,0",,paris
+Mon Boudoir a 10 min de París - 50m2,"Alojamiento entero: piso en Viroflay, Francia",65,Anfitrión: Mathieu,"5,0",24,paris
+Metro Line 1: Comfortable flat near La Défense,"Alojamiento entero: piso en Courbevoie, Francia",68,Anfitrión: Bruno,"4,92",257,paris
+"Estudio Céntrico, Wifi + Desayuno + Vino","Alojamiento entero: piso en París, Francia",180,Anfitrión: Floriane,"5,0",29,paris
+"Terraza floral, vista, relax asegurado","Alojamiento entero: piso en París, Francia",140,Anfitrión: David,"4,90",10,paris
+Escapada romántica en Montmartre,"Alojamiento entero: piso en París, Francia",165,Anfitrión: Caroline,"5,0",3,paris
+Acogedor encanto y elegancia parisina junto a Canal St. Martin,"Alojamiento entero: piso en París, Francia",315,Anfitrión: Ferdinand,"5,0",,paris
+Fantástico apartamento familiar a 20 minutos del centro,"Alojamiento entero: piso en Le Kremlin-Bicêtre, Francia",286,Anfitrión: Raphael,,,paris
+"Terraza floral, vista, relax asegurado","Alojamiento entero: piso en París, Francia",140,Anfitrión: David,"4,90",10,paris
+"Bohème-chic, zona Opéra-Grands Boulevards","Alojamiento entero: piso en París, Francia",234,Anfitrión: Didier,"5,0",6,paris
+Encantador apartamento en el corazón de París,"Alojamiento entero: piso en París, Francia",290,Anfitrión: Paul,"5,0",,paris
+Apartamento luminoso en el 10º,"Alojamiento entero: piso en París, Francia",350,Anfitrión: Adrien,"5,0",8,paris
+Amplio estudio Montmartre Airco,"Alojamiento entero: piso en París, Francia",150,Anfitrión: Pierre,"4,93",472,paris
+Elegante burbuja parisina enVillage Jourdain/Pyrénées,"Alojamiento entero: piso en París, Francia",124,Anfitrión: Nadir,"4,94",72,paris
+Apartamento del arquitecto,"Alojamiento entero: piso en París, Francia",124,Anfitrión: Pauline,,,paris
+Arco de Triunfo ! Champs-Elysées ! Tranquilo y acogedor,"Alojamiento entero: piso en París, Francia",250,Anfitrión: Octave,"4,94",17,paris
+"República, amplio y lujoso 2 habitaciones","Alojamiento entero: piso en París, Francia",169,Anfitrión: Elsa,"5,0",10,paris
+TRANQUILO PISO EN EL CORAZÓN DE PARIS,"Alojamiento entero: piso en París, Francia",100,Anfitrión: Nathalie,"4,88",416,paris
+"Gran estudio en el centro de París, cerca del Louvre","Alojamiento entero: piso en París, Francia",210,Anfitrión: Pauline,"4,98",42,paris
+"Apartment Studio de 25 m²: Le Marais, París.","Alojamiento entero: piso en París, Francia",178,Anfitrión: Nicolas,"4,98",135,paris
+Apartamento de 2 habitaciones tranquilo en el jardín,"Alojamiento entero: piso en París, Francia",140,Anfitrión: Eric,"4,94",16,paris
+Fabuloso estudio en el corazón de Old Montmartre,"Alojamiento entero: casa de invitados en París, Francia",216,Anfitrión: Charlotte,"4,99",124,paris
+Estudio Petit - París 12,"Alojamiento entero: piso en París, Francia",96,Anfitrión: Claire,"4,87",30,paris
+Amplio y tranquilo apartamento de 2 dormitorios con aire acondicionado y patio,"Alojamiento entero: piso en París, Francia",378,Anfitrión: Will Renting,"5,0",,paris
+Apartamento acogedor - Sentier,"Alojamiento entero: piso en París, Francia",240,Anfitrión: Émeline,"4,96",23,paris
+2 habitaciones y balcón en casa de Pauline,"Alojamiento entero: piso en París, Francia",184,Anfitrión: Pauline,"4,95",21,paris
+Fabuloso estudio en el corazón de Old Montmartre,"Alojamiento entero: casa de invitados en París, Francia",216,Anfitrión: Charlotte,"4,99",124,paris
+Amplio y tranquilo apartamento de 2 dormitorios con aire acondicionado y patio,"Alojamiento entero: piso en París, Francia",378,Anfitrión: Will Renting,"5,0",,paris
+Piso del arquitecto en el canal,"Alojamiento entero: piso en París, Francia",143,Anfitrión: Dimitri,"4,86",29,paris
+"Centro histórico Habitación, cocina, baño del estudiante.","Alojamiento entero: piso en París, Francia",110,Anfitrión: Nathalie Et Gilles,"5,0",10,paris
+Saint-Germain-des-Près rue Échaudé,"Alojamiento entero: piso en París, Francia",220,Anfitrión: Tatiana,"4,86",304,paris
+Increíble apartamento 1BR/4P Le Marais,"Alojamiento entero: piso en París, Francia",350,Anfitrión: Carine,"5,0",3,paris
+Jardín secreto/ 75011 París,"Alojamiento entero: piso en París, Francia",280,Anfitrión: Morgan,"5,0",21,paris
+"Apartamento luminoso, cerca del metro, fácil acceso","Alojamiento entero: piso en Bagneux, Francia",80,Anfitrión: Rani,"5,0",4,paris
+¡Suite de diseño con terraza privada en el centro de París!,"Alojamiento entero: piso en París, Francia",596,Anfitrión: Daniel,"4,90",80,paris
+Encantador T2 a las puertas de París,"Alojamiento entero: piso en Aubervilliers, Francia",82,Anfitrión: Mathilde,"5,0",,paris
+Suite entera Eiffel Premier,"Habitación privada en: piso en París, Francia",150,Anfitrión: Kazumi,"4,90",249,paris
+París: apartamento a estrenar en residencia segura,"Alojamiento entero: apto. residencial en París, Francia",200,Anfitrión: Adrien,"4,96",114,paris
+Apartamento con fantásticas vistas en Pantin - Welkeys,"Alojamiento entero: piso en Pantin, Francia",92,Anfitrión: Welkeys,,,paris
+#Paris 12 Gare de Lyon Bercy Accor Arena Bastille#,"Alojamiento entero: piso en Saint-Mandé, Francia",124,Anfitrión: K.,"4,99",99,paris
+Apartamento acogedor y luminoso,"Alojamiento entero: piso en París, Francia",160,Anfitrión: Sabine,,,paris
+Acogedor apartamento en el corazón de París,"Alojamiento entero: piso en París, Francia",301,Anfitrión: Caroline And Charles,"5,0",56,paris
+París 12: habitación independiente con patio florido,"Habitación en París, Francia",100,Anfitrión: Anne Charlotte,"4,95",354,paris
+Apartamento tranquilo - Barrio Latino Mouftard,"Alojamiento entero: piso en París, Francia",150,Anfitrión: Françoise,,,paris
+Superanfitrión con encanto de 2 dormitorios en el corazón de París,"Alojamiento entero: piso en París, Francia",295,Anfitrión: Jean-Philippe,"4,88",230,paris
+Excelente ubicación Paris Centre,"Alojamiento entero: piso en París, Francia",100,Anfitrión: Charles,"4,85",86,paris
+Dos habitaciones con encanto de Notre Dame,"Alojamiento entero: piso en París, Francia",135,Anfitrión: Emma,"5,0",3,paris
+"Moderno, tranquilo y seguro en la ubicación correcta","Alojamiento entero: piso en París, Francia",162,Anfitrión: Alexandre,"4,96",100,paris
+Magnífico Apartamento 1BR/4P - Montorgueil 2,"Alojamiento entero: piso en París, Francia",212,Anfitrión: Alex,"4,65",,paris
+Estudio de lujo de clase alta rue Saint-Honoré,"Alojamiento entero: piso en París, Francia",150,Anfitrión: Roumen,"4,92",97,paris
+Riviera Maya - Estación TGV 3 min a pie - Cerca de París,"Alojamiento entero: piso en Massy, Francia",83,Anfitrión: Myriam,"4,93",107,paris
+Appartement Place Vendôme Paris,"Alojamiento entero: piso en París, Francia",159,Anfitrión: Marc,,,paris
+Estudio o calma,"Alojamiento entero: piso en La Garenne-Colombes, Francia",75,Anfitrión: Laurent,"4,97",32,paris
+Apartamento 38 m² a Nation - 1 cama queen + 1 sofá cama,"Alojamiento entero: piso en París, Francia",154,Anfitrión: Guillaume,"4,97",32,paris
+"Louvre - Acogedor estudio elegante - ""Emily in Paris""","Alojamiento entero: piso en París, Francia",275,Anfitrión: Alexandre,"4,98",51,paris
+Rue Vavin,"Alojamiento entero: piso en París, Francia",180,Anfitrión: Camille,"4,71",7,paris
+Amplio estudio en la agradable zona de Gambetta,"Habitación en París, Francia",100,Quédate con Marie,"4,98",60,paris
+Loft Dúplex Luminoso con vistas + Estufa + Bañera,"Alojamiento entero: loft en Saint-Germain-en-Laye, Francia",100,Anfitrión: Frédéric,"4,99",83,paris
+Impresionante apartamento acogedor entre Disney y París,"Alojamiento entero: piso en Le Perreux-sur-Marne, Francia",85,Anfitrión: Jp,"4,96",224,paris
+Apartamento de 2 habitaciones en el centro de París,"Alojamiento entero: piso en París, Francia",170,Anfitrión: Jimmy,"4,80",20,paris
+Loft Dúplex Luminoso con vistas + Estufa + Bañera,"Alojamiento entero: loft en Saint-Germain-en-Laye, Francia",100,Anfitrión: Frédéric,"4,99",83,paris
+Appartement Place Vendôme Paris,"Alojamiento entero: piso en París, Francia",159,Anfitrión: Marc,,,paris
+Otro lado,"Alojamiento entero: piso en París, Francia",96,Anfitrión: Fernanda,"4,83",47,paris
+Precioso loft en el corazón de París 501,"Alojamiento entero: piso en París, Francia",229,Anfitrión: Nicola,"4,94",16,paris
+Jacuzzi Versailles - Sauna - C,"Alojamiento entero: piso en Versalles, Francia",134,Anfitrión: Art,"4,89",9,paris
+Encantador Maur Escape Apartment 3 minutos estación,"Alojamiento entero: piso en Saint-Maur-des-Fossés, Francia",72,Anfitrión: Svitlana,"4,91",23,paris
+Amplio estudio en la agradable zona de Gambetta,"Habitación en París, Francia",100,Quédate con Marie,"4,98",60,paris
+Suite de lujo con jardín privado Sauna y Jaccuzi,"Alojamiento entero: piso en París, Francia",396,Anfitrión: Nathanel,"4,95",22,paris
+"Precioso apartamento con balcón, junto al Jardín de plantas.","Alojamiento entero: apto. residencial en París, Francia",260,Anfitrión: Laurent,"5,0",19,paris
+Magnífico Apartamento 1BR/4P - Montorgueil 2,"Alojamiento entero: piso en París, Francia",212,Anfitrión: Alex,"4,65",,paris
+"EL capullo soleado DEL NIDO totalmente equipado, en el centro de la ciudad","Alojamiento entero: piso en París, Francia",145,"Anfitrión: Arnaud, AD HOC HOSTING","5,0",25,paris
+Apartamento a 5 minutos de París Metro 7 Aparcamiento gratuito,"Alojamiento entero: piso en Villejuif, Francia",90,Anfitrión: Khadija,,,paris
+Escapada parisina,"Habitación privada en: bed and breakfast en París, Francia",169,Anfitrión: Lia,"4,92",79,paris
+Vive como un parisino,"Alojamiento entero: piso en París, Francia",250,Anfitrión: Mathieu,"4,98",148,paris
+¡El acogedor del 15!,"Alojamiento entero: piso en París, Francia",137,Anfitrión: Veronique,"5,0",20,paris
+Acogedor apartamento 4P/1BR - Le Marais,"Alojamiento entero: piso en París, Francia",228,Anfitrión: Checkmyguest,"4,90",,paris
+Estudio entre canal st martin y buttes-chaumont,"Alojamiento entero: piso en París, Francia",138,Anfitrión: Thibault,"5,0",10,paris
+Apartamento en Trocadéro,"Alojamiento entero: piso en París, Francia",315,Anfitrión: John,"5,0",12,paris
+Dos habitaciones 42 m² reformado con aparcamiento gratuito,"Alojamiento entero: piso en Vitry-sur-Seine, Francia",69,Anfitrión: Meriem Et Sofiane,"4,88",223,paris
+"Oasis Marais, un jardín en París","Alojamiento entero: piso en París, Francia",150,Anfitrión: Guillaume,"4,86",29,paris
+Elegante apartamento cerca de los Campos Elíseos 403,"Alojamiento entero: piso en Paris-17E-Arrondissement, Francia",258,Anfitrión: Michaella,"4,92",152,paris
+Precioso y acogedor de 2 habitaciones,"Alojamiento entero: piso en Les Lilas, Francia",62,Anfitrión: Homy Stays,,,paris
+Canal de París Saint Martin 55m2,"Alojamiento entero: piso en París, Francia",110,Anfitrión: Sylvain,"4,86",,paris
+Acogedora casa con terraza cerca del Canal Saint-Martin,"Alojamiento entero: piso en París, Francia",117,Anfitrión: Checkmyguest,,,paris
+Lavie Maison : aire acondicionado y espacioso y centro de París,"Alojamiento entero: piso en París, Francia",453,Anfitrión: Lavie Maison,"5,0",8,paris
+Hermoso apartamento - París 11,"Alojamiento entero: piso en París, Francia",144,Anfitrión: Evariste,,,paris
+"Apartamento con aire acondicionado, Barrio Latino, 40m2","Alojamiento entero: piso en París, Francia",250,Anfitrión: Elena,"5,0",37,paris
+"Precioso apartamento en la Bastilla, cerca de Marais","Alojamiento entero: piso en París, Francia",190,Anfitrión: Damien,"5,0",29,paris
+Acogedor y tranquilo departamento entre el 11/Le Marais,"Alojamiento entero: piso en París, Francia",130,Anfitrión: Ryan,"4,76",29,paris
+Torre Eiffel EN TU salón,"Alojamiento entero: piso en París, Francia",288,Anfitrión: Vanessa,"4,92",215,paris
+Elegante apartamento en el Palacio Real de RICHELIEU,"Alojamiento entero: piso en París, Francia",533,Anfitrión: Clarisse,"4,96",,paris
+Encantador 40m2 barrio Saint-Maur,"Alojamiento entero: piso en París, Francia",125,Anfitrión: Céline,"4,88",32,paris
+Loft de lujo con aire acondicionado en París,"Alojamiento entero: loft en París, Francia",129,"Anfitrión: Arnaud, AD HOC HOSTING","4,96",138,paris
+Apartamento de lujo cerca del Sagrado Corazón,"Alojamiento entero: piso en París, Francia",,Anfitrión: Capucine,,,paris
+Excepcional 2 hermanos con una fantástica vista a la Torre Eiffel,"Alojamiento entero: piso en París, Francia",601,Anfitrión: Alexandre,"4,95",138,paris
+Nid Cosy proche Arc de Triomphe,"Alojamiento entero: piso en París, Francia",120,Anfitrión: Theo,"4,92",13,paris
+Marais: un dormitorio luminoso y decorado con gusto,"Alojamiento entero: piso en París, Francia",228,Anfitrión: Vincent,"4,92",132,paris
+Estudio - Eiffel - Invalides - Rue Cler,"Alojamiento entero: piso en París, Francia",143,Anfitrión: Anne,"5,0",,paris
+Apartamento luminoso con vistas a los tejados,"Alojamiento entero: piso en París, Francia",86,Anfitrión: Valentin,,,paris
+Loft parisino moderno cerca de varias líneas de metro,"Alojamiento entero: loft en París, Francia",140,Anfitrión: Xiaoling,"4,86",84,paris
+Luxury & Design Flat 1BR/4P- Bastille,"Alojamiento entero: piso en París, Francia",299,Anfitrión: Arnaud Et Sam,,,paris
+EL acogedor apartamento con aire acondicionado de PALMERAS en el centro de París,"Alojamiento entero: piso en París, Francia",191,"Anfitrión: Arnaud, AD HOC HOSTING","4,94",154,paris
+Encantador apartamento cerca de Marais/Sentier,"Alojamiento entero: piso en París, Francia",276,Anfitrión: Checkmyguest,"4,75",,paris
+75m2 dúplex luminoso&confortable /habitación grande,"Alojamiento entero: piso en París, Francia",150,Anfitrión: Manon,"5,0",3,paris
+Escapada exclusiva: alojamiento Luxe en una ubicación privilegiada A21,"Alojamiento entero: piso en París, Francia",408,Anfitrión: Checkmyguest,"4,92",,paris
+El Sagrado Corazón de París: unas vistas perfectas,"Alojamiento entero: piso en París, Francia",125,Anfitrión: Paula,"5,0",19,paris
+Casa acogedora - Rer C & A15,"Alojamiento entero: piso en Beauchamp, Francia",45,Anfitrión: Eddy,"5,0",4,paris
+Sublim apart «la marquise »paris centterrace 2bh,"Alojamiento entero: piso en París, Francia",240,Anfitrión: Fanny,,,paris
+Apartamento acogedor y encantador au coeur de París,"Alojamiento entero: piso en París, Francia",134,Anfitrión: Rose,"4,87",,paris
+Encantador apartamento a 10 minutos a pie del metro 12 París,"Alojamiento entero: piso en Issy-les-Moulineaux, Francia",71,Anfitrión: Marie,"5,0",34,paris
+Acogedor T2 Barrio de los Campos Elíseos (avenida Hoche),"Alojamiento entero: piso en París, Francia",130,Anfitrión: Stéphane,"5,0",34,paris
+¡Maravilloso apartamento Saint Germain des Prés !,"Alojamiento entero: piso en París, Francia",150,Anfitrión: Alexandra,"4,85",20,paris
+Amplio apartamento renovado cerca del Louvre,"Alojamiento entero: piso en París, Francia",292,Anfitrión: Guillaume Et Penelope,"4,95",366,paris
+* Louvre Saint-Eustache Opéra * París,"Alojamiento entero: piso en París, Francia",426,Anfitrión: Rose,"4,91",99,paris
+¡Maravilloso apartamento Saint Germain des Prés !,"Alojamiento entero: piso en París, Francia",150,Anfitrión: Alexandra,"4,85",20,paris
+Paz - Apartamento luminoso y cómodo,"Alojamiento entero: piso en Vincennes, Francia",110,Anfitrión: Maxime,"4,95",79,paris
+Encantador apartamento recientemente reformado en el día 7,"Alojamiento entero: piso en París, Francia",325,Anfitrión: Ashley,"5,0",,paris
+Luminoso apartamento en el corazón de Batignolles,"Alojamiento entero: piso en París, Francia",320,Anfitrión: Alexandre,"5,0",16,paris
+Obelisco de la Bastilla,"Alojamiento entero: piso en París, Francia",162,Anfitrión: Léa,"4,75",4,paris
+Estudio parisino cerca de la Torre Eiffel,"Alojamiento entero: piso en París, Francia",180,Anfitrión: Yoel,"4,96",26,paris
+Luminoso apartamento para 2 personas justo al lado de París,"Alojamiento entero: piso en Aubervilliers, Francia",59,Anfitrión: Paris Conciergerie,,,paris
+"Vista rara, a dos pasos del Sena.","Alojamiento entero: piso en París, Francia",140,Anfitrión: Rany,,,paris
+Estudio de 16 m² en el 2º arr.,"Alojamiento entero: piso en París, Francia",100,Anfitrión: Léonard,"5,0",,paris
+Apartamento elegante en Montmartre,"Alojamiento entero: piso en París, Francia",145,Anfitrión: Sylvie,"4,90",30,paris
+Precioso Sacré-Cœur,"Alojamiento entero: piso en París, Francia",109,Anfitrión: Chantal,,,paris
+Cálido apartamento Montmartre - EasyHostin',"Alojamiento entero: piso en París, Francia",200,Anfitrión: Samuel,"4,94",18,paris
+Aparentemente muy céntrico en el corazón de París 35 m2,"Alojamiento entero: apto. residencial en París, Francia",111,Anfitrión: Maria,"4,86",,paris
+PRECIOSO APARTAMENTO EN MONTORGUEIL PARIS,"Alojamiento entero: apto. residencial en París, Francia",199,Anfitrión: Rodolphe,"4,88",182,paris
+"2 habitaciones (43 m²), Place d 'Italie - París 13","Alojamiento entero: piso en París, Francia",107,Anfitrión: Pierre,"4,96",,paris
+Apartamento muy tranquilo Ópera - Pigalle,"Alojamiento entero: piso en París, Francia",230,Anfitrión: Théo,"4,94",18,paris
+Apartamento de 2 habitaciones en el Canal Saint Martin,"Alojamiento entero: piso en París, Francia",101,Anfitrión: Céline,"4,82",17,paris
+La Diva - Le Haut Marais - With AirCon!,"Alojamiento entero: piso en Paris 2e Arrondissement, Francia",190,Anfitrión: Eric Et Shioji,"4,80",241,paris
