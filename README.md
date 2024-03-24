@@ -15,5 +15,4 @@ Use `pip install {library}`
 
 ## Contributors
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Luis Carretero Lopez</sub>](https://github.com/luiscarlop) 
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/60545944?v=4" width=115><br><sub>Luis Carretero Lopez</sub>](https://github.com/luiscarlop) 
