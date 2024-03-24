@@ -1,0 +1,4 @@
+Country,City,Main,Temperature (ºC),Minimun temperature (ºC),Maximun temperature (ºC),Pressure (hPa),Humidity (%),Wind speed (meter/sec)
+CH,Bern,Clouds,5.26,2.41,6.42,1016,68,6.71
+DE,Alt-Kölln,Clouds,7.12,5.02,8.37,1002,76,7.6
+FR,Paris,Clouds,7.17,6.34,8.77,1014,82,5.14

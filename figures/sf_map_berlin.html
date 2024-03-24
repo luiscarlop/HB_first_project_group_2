@@ -1,0 +1,2981 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6cf1950cf207233df925312575bd0cf7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6cf1950cf207233df925312575bd0cf7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6cf1950cf207233df925312575bd0cf7 = L.map(
+                "map_6cf1950cf207233df925312575bd0cf7",
+                {
+                    center: [52.5170365, 13.3888599],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_fc59992a94f28bf0f2e21cdfe1905a00 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_fc59992a94f28bf0f2e21cdfe1905a00.addTo(map_6cf1950cf207233df925312575bd0cf7);
+        
+    
+            var marker_cluster_ae7aa0b232113e6b6335659760c4248a = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_fe43596b429350a0174bb19eb47681bf = L.marker(
+                [52.518814, 13.396902],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_29e5a3201e1f838c271574f36fba0f8c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8b562d4d636a4b388878f5bc32506078 = $(`<div id="html_8b562d4d636a4b388878f5bc32506078" style="width: 100.0%; height: 100.0%;">Bernisches Historisches Museum Einstein Museum</div>`)[0];
+                popup_29e5a3201e1f838c271574f36fba0f8c.setContent(html_8b562d4d636a4b388878f5bc32506078);
+            
+        
+
+        marker_fe43596b429350a0174bb19eb47681bf.bindPopup(popup_29e5a3201e1f838c271574f36fba0f8c)
+        ;
+
+        
+    
+    
+            var marker_669a00c0959c2cd12e0b9c14a67626d4 = L.marker(
+                [52.51275, 13.392535],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_426d3b6f6f90e2bcf59d7a1a4994eba2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6a67585a9e8e44d236276ad575131cde = $(`<div id="html_6a67585a9e8e44d236276ad575131cde" style="width: 100.0%; height: 100.0%;">Einsteinmuseum</div>`)[0];
+                popup_426d3b6f6f90e2bcf59d7a1a4994eba2.setContent(html_6a67585a9e8e44d236276ad575131cde);
+            
+        
+
+        marker_669a00c0959c2cd12e0b9c14a67626d4.bindPopup(popup_426d3b6f6f90e2bcf59d7a1a4994eba2)
+        ;
+
+        
+    
+    
+            var marker_f6988ce2b9fb748b7d094cc778159d09 = L.marker(
+                [52.520091, 13.397937],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_d4d3174489e473473994bbb81b43c61d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bf45bb4060892e45a436d3f0aca57ec8 = $(`<div id="html_bf45bb4060892e45a436d3f0aca57ec8" style="width: 100.0%; height: 100.0%;">Museum für Kommunikation</div>`)[0];
+                popup_d4d3174489e473473994bbb81b43c61d.setContent(html_bf45bb4060892e45a436d3f0aca57ec8);
+            
+        
+
+        marker_f6988ce2b9fb748b7d094cc778159d09.bindPopup(popup_d4d3174489e473473994bbb81b43c61d)
+        ;
+
+        
+    
+    
+            var marker_f4a112e30990fb66f44f457b9f206f4a = L.marker(
+                [52.519451, 13.398742],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_a30a8282227bf3b8f1aa580e8bb7eabb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_09a5da39673ab11ea095e6b87d192367 = $(`<div id="html_09a5da39673ab11ea095e6b87d192367" style="width: 100.0%; height: 100.0%;">Naturhistorisches Museum</div>`)[0];
+                popup_a30a8282227bf3b8f1aa580e8bb7eabb.setContent(html_09a5da39673ab11ea095e6b87d192367);
+            
+        
+
+        marker_f4a112e30990fb66f44f457b9f206f4a.bindPopup(popup_a30a8282227bf3b8f1aa580e8bb7eabb)
+        ;
+
+        
+    
+    
+            var marker_dcae5c614efa2ee475c2f2e8bc925816 = L.marker(
+                [52.52095, 13.396433],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_ec8df0b1027fc73f5a9364ac0a9c9ff3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_02605a7eae8063f74a03050a0bd4686f = $(`<div id="html_02605a7eae8063f74a03050a0bd4686f" style="width: 100.0%; height: 100.0%;">Kunstmuseum Bern</div>`)[0];
+                popup_ec8df0b1027fc73f5a9364ac0a9c9ff3.setContent(html_02605a7eae8063f74a03050a0bd4686f);
+            
+        
+
+        marker_dcae5c614efa2ee475c2f2e8bc925816.bindPopup(popup_ec8df0b1027fc73f5a9364ac0a9c9ff3)
+        ;
+
+        
+    
+    
+            var marker_3b5e41e461b704123a7e9db35fb071e4 = L.marker(
+                [52.520878, 13.398214],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_760145840066ec1a8cfcf73b04c8a464 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5863b473e3e733d09404c8c58e39a557 = $(`<div id="html_5863b473e3e733d09404c8c58e39a557" style="width: 100.0%; height: 100.0%;">Einstein-Haus</div>`)[0];
+                popup_760145840066ec1a8cfcf73b04c8a464.setContent(html_5863b473e3e733d09404c8c58e39a557);
+            
+        
+
+        marker_3b5e41e461b704123a7e9db35fb071e4.bindPopup(popup_760145840066ec1a8cfcf73b04c8a464)
+        ;
+
+        
+    
+    
+            var marker_0e5c26152baabb48613362f1352f749d = L.marker(
+                [52.52091, 13.396527],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_fd30b6a12304e0130df43e0d63403373 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a89de505e00df0c695fa22b9482fc140 = $(`<div id="html_a89de505e00df0c695fa22b9482fc140" style="width: 100.0%; height: 100.0%;">Qin-Ausstellung</div>`)[0];
+                popup_fd30b6a12304e0130df43e0d63403373.setContent(html_a89de505e00df0c695fa22b9482fc140);
+            
+        
+
+        marker_0e5c26152baabb48613362f1352f749d.bindPopup(popup_fd30b6a12304e0130df43e0d63403373)
+        ;
+
+        
+    
+    
+            var marker_b11a23b1635be54132c7de75cdf94cbb = L.marker(
+                [52.521754, 13.394927],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_8d4677e4bd320ba8c5a9684da740a8aa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_113c84ead216ee4ecec28417ff5bb9c2 = $(`<div id="html_113c84ead216ee4ecec28417ff5bb9c2" style="width: 100.0%; height: 100.0%;">Zentrum Paul Klee</div>`)[0];
+                popup_8d4677e4bd320ba8c5a9684da740a8aa.setContent(html_113c84ead216ee4ecec28417ff5bb9c2);
+            
+        
+
+        marker_b11a23b1635be54132c7de75cdf94cbb.bindPopup(popup_8d4677e4bd320ba8c5a9684da740a8aa)
+        ;
+
+        
+    
+    
+            var marker_3635d04e813b1183ed6ed1c36e233dac = L.marker(
+                [52.515747, 13.397647],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_c4c89a5147f2eb666e81bd691a16be1e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_304ef021cb796315126d9beb156d5144 = $(`<div id="html_304ef021cb796315126d9beb156d5144" style="width: 100.0%; height: 100.0%;">Schweizerisches Alpines Museum</div>`)[0];
+                popup_c4c89a5147f2eb666e81bd691a16be1e.setContent(html_304ef021cb796315126d9beb156d5144);
+            
+        
+
+        marker_3635d04e813b1183ed6ed1c36e233dac.bindPopup(popup_c4c89a5147f2eb666e81bd691a16be1e)
+        ;
+
+        
+    
+    
+            var marker_01ce1f585c2715825aee54908aa60f9c = L.marker(
+                [52.516887, 13.381704],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_88100024f85abafeb197a217e2c8879d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_be7df031b8b2376ff2557d8f5a7aba63 = $(`<div id="html_be7df031b8b2376ff2557d8f5a7aba63" style="width: 100.0%; height: 100.0%;">Kunsthalle Bern</div>`)[0];
+                popup_88100024f85abafeb197a217e2c8879d.setContent(html_be7df031b8b2376ff2557d8f5a7aba63);
+            
+        
+
+        marker_01ce1f585c2715825aee54908aa60f9c.bindPopup(popup_88100024f85abafeb197a217e2c8879d)
+        ;
+
+        
+    
+    
+            var marker_182a1ba4288b2c95dd680ce19a89ad24 = L.marker(
+                [52.517111, 13.386194],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_9a796610e4b63bb07081a813f0a45236 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_630b945585d15a1174d4aacf579dd6c1 = $(`<div id="html_630b945585d15a1174d4aacf579dd6c1" style="width: 100.0%; height: 100.0%;">Klingende Sammlung</div>`)[0];
+                popup_9a796610e4b63bb07081a813f0a45236.setContent(html_630b945585d15a1174d4aacf579dd6c1);
+            
+        
+
+        marker_182a1ba4288b2c95dd680ce19a89ad24.bindPopup(popup_9a796610e4b63bb07081a813f0a45236)
+        ;
+
+        
+    
+    
+            var marker_eecc568cb24e67853c113369cfe01077 = L.marker(
+                [52.509973, 13.387103],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_bedf9f8bd83d7b6d50589d1b2cbae9d9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d406dc343aefdd0f3df4ec2c32e53f61 = $(`<div id="html_d406dc343aefdd0f3df4ec2c32e53f61" style="width: 100.0%; height: 100.0%;">Claude Haltmeyer ATELIER ZEIT & RAUM</div>`)[0];
+                popup_bedf9f8bd83d7b6d50589d1b2cbae9d9.setContent(html_d406dc343aefdd0f3df4ec2c32e53f61);
+            
+        
+
+        marker_eecc568cb24e67853c113369cfe01077.bindPopup(popup_bedf9f8bd83d7b6d50589d1b2cbae9d9)
+        ;
+
+        
+    
+    
+            var marker_4f4df740be9ce6cf3ced60c7473917a9 = L.marker(
+                [52.51375, 13.379768],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_946d881046a205dff0def34d4a463236 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9739bc7e5bec0c5e616c649b75089b31 = $(`<div id="html_9739bc7e5bec0c5e616c649b75089b31" style="width: 100.0%; height: 100.0%;">Käfigturm (Prison Tower)</div>`)[0];
+                popup_946d881046a205dff0def34d4a463236.setContent(html_9739bc7e5bec0c5e616c649b75089b31);
+            
+        
+
+        marker_4f4df740be9ce6cf3ced60c7473917a9.bindPopup(popup_946d881046a205dff0def34d4a463236)
+        ;
+
+        
+    
+    
+            var marker_2f1df76c8e4ac70bd77c76062625a613 = L.marker(
+                [52.506795, 13.383668],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_62295859195d0d35b947e4e0efbda3f4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6e9754df9f28ab900db777e46c8137f2 = $(`<div id="html_6e9754df9f28ab900db777e46c8137f2" style="width: 100.0%; height: 100.0%;">Schweiz. Schützenmuseum</div>`)[0];
+                popup_62295859195d0d35b947e4e0efbda3f4.setContent(html_6e9754df9f28ab900db777e46c8137f2);
+            
+        
+
+        marker_2f1df76c8e4ac70bd77c76062625a613.bindPopup(popup_62295859195d0d35b947e4e0efbda3f4)
+        ;
+
+        
+    
+    
+            var marker_8c5d8a3d8d041800cdec5d20e8886e8f = L.marker(
+                [52.50671, 13.382007],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_d99f267b8f917448b8aee7eada415315 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4b8d2901dc2ba1e018fa3ba87daec368 = $(`<div id="html_4b8d2901dc2ba1e018fa3ba87daec368" style="width: 100.0%; height: 100.0%;">Schweizerisches Schützenmuseum, Bernastrasse 5, 3005 Bern</div>`)[0];
+                popup_d99f267b8f917448b8aee7eada415315.setContent(html_4b8d2901dc2ba1e018fa3ba87daec368);
+            
+        
+
+        marker_8c5d8a3d8d041800cdec5d20e8886e8f.bindPopup(popup_d99f267b8f917448b8aee7eada415315)
+        ;
+
+        
+    
+    
+            var marker_c540b53038da2c4c7dce8a1e5798d82f = L.marker(
+                [52.516951, 13.405846],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_65d9a9156e74afe855f470b86cb4e3a8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6090e19aeeae37b62ed7322143ff246f = $(`<div id="html_6090e19aeeae37b62ed7322143ff246f" style="width: 100.0%; height: 100.0%;">Adolf Wölfli-Stiftung</div>`)[0];
+                popup_65d9a9156e74afe855f470b86cb4e3a8.setContent(html_6090e19aeeae37b62ed7322143ff246f);
+            
+        
+
+        marker_c540b53038da2c4c7dce8a1e5798d82f.bindPopup(popup_65d9a9156e74afe855f470b86cb4e3a8)
+        ;
+
+        
+    
+    
+            var marker_2c827fd06b2c3c80cc204e68eda71a3b = L.marker(
+                [52.52501, 13.381289],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b9bf08569414b2398885857ace4a69cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bcaf970b4628e64ea08d113fa95b3eba = $(`<div id="html_bcaf970b4628e64ea08d113fa95b3eba" style="width: 100.0%; height: 100.0%;">Naturforschende Gesellschaft in Bern</div>`)[0];
+                popup_b9bf08569414b2398885857ace4a69cd.setContent(html_bcaf970b4628e64ea08d113fa95b3eba);
+            
+        
+
+        marker_2c827fd06b2c3c80cc204e68eda71a3b.bindPopup(popup_b9bf08569414b2398885857ace4a69cd)
+        ;
+
+        
+    
+    
+            var marker_8b82b4f727539db4710cc0adc9926bff = L.marker(
+                [52.523921, 13.374169],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e061e0a878704b371645fc3381979dc1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4b4a039495be466f52609e77d8847bbd = $(`<div id="html_4b4a039495be466f52609e77d8847bbd" style="width: 100.0%; height: 100.0%;">Albert Heim-Stiftung für Kynologie</div>`)[0];
+                popup_e061e0a878704b371645fc3381979dc1.setContent(html_4b4a039495be466f52609e77d8847bbd);
+            
+        
+
+        marker_8b82b4f727539db4710cc0adc9926bff.bindPopup(popup_e061e0a878704b371645fc3381979dc1)
+        ;
+
+        
+    
+    
+            var marker_19d3f3903e8795811c274720a00ca18b = L.marker(
+                [52.519367, 13.402268],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_683cc0238bc9bc321f563332088e1d94 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_53acc277f16cba06f34ddeaf92edb99f = $(`<div id="html_53acc277f16cba06f34ddeaf92edb99f" style="width: 100.0%; height: 100.0%;">Schützenmuseum</div>`)[0];
+                popup_683cc0238bc9bc321f563332088e1d94.setContent(html_53acc277f16cba06f34ddeaf92edb99f);
+            
+        
+
+        marker_19d3f3903e8795811c274720a00ca18b.bindPopup(popup_683cc0238bc9bc321f563332088e1d94)
+        ;
+
+        
+    
+    
+            var marker_f46404d8071bcfbb679d2ac956eafce5 = L.marker(
+                [52.516714, 13.379696],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_3346a0e22e7fbcf9068a0a9ed8e48a71 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_86c9e5c9956473f37c38bb5e0a4fdb0b = $(`<div id="html_86c9e5c9956473f37c38bb5e0a4fdb0b" style="width: 100.0%; height: 100.0%;">Bärn</div>`)[0];
+                popup_3346a0e22e7fbcf9068a0a9ed8e48a71.setContent(html_86c9e5c9956473f37c38bb5e0a4fdb0b);
+            
+        
+
+        marker_f46404d8071bcfbb679d2ac956eafce5.bindPopup(popup_3346a0e22e7fbcf9068a0a9ed8e48a71)
+        ;
+
+        
+    
+    
+            var marker_27c9fd78a542daa8098cfe9f4ad70715 = L.marker(
+                [52.509735, 13.37334],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_ed63fb95eb3d47baed6e0c11d6892b5a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_409a7829fab5c3b0c3b33dbc4c0236d2 = $(`<div id="html_409a7829fab5c3b0c3b33dbc4c0236d2" style="width: 100.0%; height: 100.0%;">Infothek SBB Historic</div>`)[0];
+                popup_ed63fb95eb3d47baed6e0c11d6892b5a.setContent(html_409a7829fab5c3b0c3b33dbc4c0236d2);
+            
+        
+
+        marker_27c9fd78a542daa8098cfe9f4ad70715.bindPopup(popup_ed63fb95eb3d47baed6e0c11d6892b5a)
+        ;
+
+        
+    
+    
+            var marker_43d251626c44932aee85a5d761296cde = L.marker(
+                [52.515931, 13.407271],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b5cf39b0142caa664db1f1a4111959ad = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_261c208783580f04c65eba72456f4bf0 = $(`<div id="html_261c208783580f04c65eba72456f4bf0" style="width: 100.0%; height: 100.0%;">Mord und Totschlag. Eine Ausstellung über das Leben</div>`)[0];
+                popup_b5cf39b0142caa664db1f1a4111959ad.setContent(html_261c208783580f04c65eba72456f4bf0);
+            
+        
+
+        marker_43d251626c44932aee85a5d761296cde.bindPopup(popup_b5cf39b0142caa664db1f1a4111959ad)
+        ;
+
+        
+    
+    
+            var marker_8f808422b04c96e4befac327d74c2ab8 = L.marker(
+                [52.503613, 13.398494],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_cd881dff4609d133bc61236e5cad9914 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7f26f4946a6686bdacdab6b980f35255 = $(`<div id="html_7f26f4946a6686bdacdab6b980f35255" style="width: 100.0%; height: 100.0%;">Heilsarmee Museum und Archiv</div>`)[0];
+                popup_cd881dff4609d133bc61236e5cad9914.setContent(html_7f26f4946a6686bdacdab6b980f35255);
+            
+        
+
+        marker_8f808422b04c96e4befac327d74c2ab8.bindPopup(popup_cd881dff4609d133bc61236e5cad9914)
+        ;
+
+        
+    
+    
+            var marker_9742449a8ec28571ecabfe939c0e120c = L.marker(
+                [52.530115, 13.379239],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_feb1fe8ce6ffd6da62dbe6d259232c72 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fe905b28162750551010e137def7cfa5 = $(`<div id="html_fe905b28162750551010e137def7cfa5" style="width: 100.0%; height: 100.0%;">Verein Palma3</div>`)[0];
+                popup_feb1fe8ce6ffd6da62dbe6d259232c72.setContent(html_fe905b28162750551010e137def7cfa5);
+            
+        
+
+        marker_9742449a8ec28571ecabfe939c0e120c.bindPopup(popup_feb1fe8ce6ffd6da62dbe6d259232c72)
+        ;
+
+        
+    
+    
+            var marker_85cfbff1d946f2ccc59fd28ad98275e6 = L.marker(
+                [52.509601, 13.373609],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_9300f489a926fd1044c51537974ae4f2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4052e6a5fc7c91b1f29a7e446c460088 = $(`<div id="html_4052e6a5fc7c91b1f29a7e446c460088" style="width: 100.0%; height: 100.0%;">Cerny Inuit Collection</div>`)[0];
+                popup_9300f489a926fd1044c51537974ae4f2.setContent(html_4052e6a5fc7c91b1f29a7e446c460088);
+            
+        
+
+        marker_85cfbff1d946f2ccc59fd28ad98275e6.bindPopup(popup_9300f489a926fd1044c51537974ae4f2)
+        ;
+
+        
+    
+    
+            var marker_83790ac1e9bd1b14b08e30f7f3d146f2 = L.marker(
+                [52.51953, 13.394508],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_3ed1fe3b5f0dbdae71d8d16e789c27c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_79a915eeb4d2fd309d20441ffe0b7790 = $(`<div id="html_79a915eeb4d2fd309d20441ffe0b7790" style="width: 100.0%; height: 100.0%;">Antikensammlung Bern</div>`)[0];
+                popup_3ed1fe3b5f0dbdae71d8d16e789c27c2.setContent(html_79a915eeb4d2fd309d20441ffe0b7790);
+            
+        
+
+        marker_83790ac1e9bd1b14b08e30f7f3d146f2.bindPopup(popup_3ed1fe3b5f0dbdae71d8d16e789c27c2)
+        ;
+
+        
+    
+    
+            var marker_d3db08d0e513ed9039fd5ba182546bcb = L.marker(
+                [52.524138, 13.402447],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_4da7d93360ccb63255b82cfc7468aa3d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a8fddcc2d1a55f1f32070b404640379c = $(`<div id="html_a8fddcc2d1a55f1f32070b404640379c" style="width: 100.0%; height: 100.0%;">E-Business Hall of Fame</div>`)[0];
+                popup_4da7d93360ccb63255b82cfc7468aa3d.setContent(html_a8fddcc2d1a55f1f32070b404640379c);
+            
+        
+
+        marker_d3db08d0e513ed9039fd5ba182546bcb.bindPopup(popup_4da7d93360ccb63255b82cfc7468aa3d)
+        ;
+
+        
+    
+    
+            var marker_ca658ec08aa6aef9014a96fd97a28359 = L.marker(
+                [52.509103, 13.365942],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e1b577ff313ffc9c4c0129d25c3b9038 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f0ded8e76e191ab850c793fbbcf9028f = $(`<div id="html_f0ded8e76e191ab850c793fbbcf9028f" style="width: 100.0%; height: 100.0%;">E-Business Museum</div>`)[0];
+                popup_e1b577ff313ffc9c4c0129d25c3b9038.setContent(html_f0ded8e76e191ab850c793fbbcf9028f);
+            
+        
+
+        marker_ca658ec08aa6aef9014a96fd97a28359.bindPopup(popup_e1b577ff313ffc9c4c0129d25c3b9038)
+        ;
+
+        
+    
+    
+            var marker_f7347f2488373e4635316276d5044704 = L.marker(
+                [52.52844, 13.372116],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_ff227cfd2b866d1e29dffb3ae41b3011 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fc4f746ca072d6375968056a2d8f600a = $(`<div id="html_fc4f746ca072d6375968056a2d8f600a" style="width: 100.0%; height: 100.0%;">Chinese Whispers</div>`)[0];
+                popup_ff227cfd2b866d1e29dffb3ae41b3011.setContent(html_fc4f746ca072d6375968056a2d8f600a);
+            
+        
+
+        marker_f7347f2488373e4635316276d5044704.bindPopup(popup_ff227cfd2b866d1e29dffb3ae41b3011)
+        ;
+
+        
+    
+    
+            var marker_2230c4130d00fe7464206fe9f0f4bb91 = L.marker(
+                [52.526208, 13.374564],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_3a8ba4ca0bd7a423271d46153ebc023e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_768ca14f2acf0fb5e2990b2f731ca1da = $(`<div id="html_768ca14f2acf0fb5e2990b2f731ca1da" style="width: 100.0%; height: 100.0%;">Kindermuseum Creaviva</div>`)[0];
+                popup_3a8ba4ca0bd7a423271d46153ebc023e.setContent(html_768ca14f2acf0fb5e2990b2f731ca1da);
+            
+        
+
+        marker_2230c4130d00fe7464206fe9f0f4bb91.bindPopup(popup_3a8ba4ca0bd7a423271d46153ebc023e)
+        ;
+
+        
+    
+    
+            var marker_0229f0b25258125ebf9bafaafdd54f83 = L.marker(
+                [52.520817, 13.409023],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_4b97dc4b157110c10ba0ea9e433cd949 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a893101046123fed700e83cd83e920c2 = $(`<div id="html_a893101046123fed700e83cd83e920c2" style="width: 100.0%; height: 100.0%;">Tram-museum</div>`)[0];
+                popup_4b97dc4b157110c10ba0ea9e433cd949.setContent(html_a893101046123fed700e83cd83e920c2);
+            
+        
+
+        marker_0229f0b25258125ebf9bafaafdd54f83.bindPopup(popup_4b97dc4b157110c10ba0ea9e433cd949)
+        ;
+
+        
+    
+    
+            var marker_fcca0922d0b3effc322118758512363b = L.marker(
+                [52.507802, 13.389445],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_174f48d1ca2ec6cf2790c768e455e73c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_510a467d9bceb5c4fa14675d97434f40 = $(`<div id="html_510a467d9bceb5c4fa14675d97434f40" style="width: 100.0%; height: 100.0%;">Senn-Stiftung</div>`)[0];
+                popup_174f48d1ca2ec6cf2790c768e455e73c.setContent(html_510a467d9bceb5c4fa14675d97434f40);
+            
+        
+
+        marker_fcca0922d0b3effc322118758512363b.bindPopup(popup_174f48d1ca2ec6cf2790c768e455e73c)
+        ;
+
+        
+    
+    
+            var marker_94c94f010502818c3085880fe87250c7 = L.marker(
+                [52.516941, 13.383409],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e05aea254a4a2cc61b53862a7e4b40a9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7ac313da6d15b51f6884f290834d0854 = $(`<div id="html_7ac313da6d15b51f6884f290834d0854" style="width: 100.0%; height: 100.0%;">Museen/Musées BE</div>`)[0];
+                popup_e05aea254a4a2cc61b53862a7e4b40a9.setContent(html_7ac313da6d15b51f6884f290834d0854);
+            
+        
+
+        marker_94c94f010502818c3085880fe87250c7.bindPopup(popup_e05aea254a4a2cc61b53862a7e4b40a9)
+        ;
+
+        
+    
+    
+            var marker_84fc553250ffc4a3f7b7dca142f9bd3d = L.marker(
+                [52.502277, 13.395408],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_1be67a4c3bb9ee86cf6383e7ce9577bc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ecb977421ad87aadd63060f09870140b = $(`<div id="html_ecb977421ad87aadd63060f09870140b" style="width: 100.0%; height: 100.0%;">Planet Motors GmbH</div>`)[0];
+                popup_1be67a4c3bb9ee86cf6383e7ce9577bc.setContent(html_ecb977421ad87aadd63060f09870140b);
+            
+        
+
+        marker_84fc553250ffc4a3f7b7dca142f9bd3d.bindPopup(popup_1be67a4c3bb9ee86cf6383e7ce9577bc)
+        ;
+
+        
+    
+    
+            var marker_7656f1c683a85e92c528ffe2b29cae07 = L.marker(
+                [52.526411, 13.394345],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b4c8015c232e96f2db68b800a645c2c7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_57412ead33a1b5bba0044f84fbbe7e78 = $(`<div id="html_57412ead33a1b5bba0044f84fbbe7e78" style="width: 100.0%; height: 100.0%;">talsee AG</div>`)[0];
+                popup_b4c8015c232e96f2db68b800a645c2c7.setContent(html_57412ead33a1b5bba0044f84fbbe7e78);
+            
+        
+
+        marker_7656f1c683a85e92c528ffe2b29cae07.bindPopup(popup_b4c8015c232e96f2db68b800a645c2c7)
+        ;
+
+        
+    
+    
+            var marker_b97b091b7ac99c068dda97e0166c52a1 = L.marker(
+                [52.535323, 13.389569],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_12ab101712675e335fbb8574b564065f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3f8a194202393cced2daf8e459ce50b9 = $(`<div id="html_3f8a194202393cced2daf8e459ce50b9" style="width: 100.0%; height: 100.0%;">Jupiterstrasse 40</div>`)[0];
+                popup_12ab101712675e335fbb8574b564065f.setContent(html_3f8a194202393cced2daf8e459ce50b9);
+            
+        
+
+        marker_b97b091b7ac99c068dda97e0166c52a1.bindPopup(popup_12ab101712675e335fbb8574b564065f)
+        ;
+
+        
+    
+    
+            var marker_5d225fc196c1a9085b7bbacb70c2e4d8 = L.marker(
+                [52.498585, 13.377577],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_4bf9d9fdad3b5ba765dd724508914737 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_522b4c0b948a559d443b0074a8a1fe71 = $(`<div id="html_522b4c0b948a559d443b0074a8a1fe71" style="width: 100.0%; height: 100.0%;">Stiftung Psychiatrie- Museum Bern</div>`)[0];
+                popup_4bf9d9fdad3b5ba765dd724508914737.setContent(html_522b4c0b948a559d443b0074a8a1fe71);
+            
+        
+
+        marker_5d225fc196c1a9085b7bbacb70c2e4d8.bindPopup(popup_4bf9d9fdad3b5ba765dd724508914737)
+        ;
+
+        
+    
+    
+            var marker_e74338f29b751716e3d76261da983410 = L.marker(
+                [52.513639, 13.415063],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_167aa19093755ce15b12583f84087ea5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2827870b42e91e8ec1dce3b596144c1f = $(`<div id="html_2827870b42e91e8ec1dce3b596144c1f" style="width: 100.0%; height: 100.0%;">Stiftung Bärenpark Bern</div>`)[0];
+                popup_167aa19093755ce15b12583f84087ea5.setContent(html_2827870b42e91e8ec1dce3b596144c1f);
+            
+        
+
+        marker_e74338f29b751716e3d76261da983410.bindPopup(popup_167aa19093755ce15b12583f84087ea5)
+        ;
+
+        
+    
+    
+            var marker_fd93434c1605f588543c0d3192a40ae1 = L.marker(
+                [52.516704, 13.407574],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_a6f017f849326467f4cdc337b6c37166 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d47df75b603bb631694b30956c47ce05 = $(`<div id="html_d47df75b603bb631694b30956c47ce05" style="width: 100.0%; height: 100.0%;">Artbeat Graphic Design</div>`)[0];
+                popup_a6f017f849326467f4cdc337b6c37166.setContent(html_d47df75b603bb631694b30956c47ce05);
+            
+        
+
+        marker_fd93434c1605f588543c0d3192a40ae1.bindPopup(popup_a6f017f849326467f4cdc337b6c37166)
+        ;
+
+        
+    
+    
+            var marker_d66ec1e244cd7c32cdd28f3c5dbdb1ce = L.marker(
+                [52.524638, 13.399092],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_f21e6695e2887c303c1a2ad6932fdfc2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_86e880b0ac0602506d5cd19840683d01 = $(`<div id="html_86e880b0ac0602506d5cd19840683d01" style="width: 100.0%; height: 100.0%;">Schulmuseum Bern</div>`)[0];
+                popup_f21e6695e2887c303c1a2ad6932fdfc2.setContent(html_86e880b0ac0602506d5cd19840683d01);
+            
+        
+
+        marker_d66ec1e244cd7c32cdd28f3c5dbdb1ce.bindPopup(popup_f21e6695e2887c303c1a2ad6932fdfc2)
+        ;
+
+        
+    
+    
+            var marker_e66e975c4f981e05300e64a038303873 = L.marker(
+                [52.498245, 13.379608],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_6e8d23e6e0252f43997fc001aa79ee7c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e8c6fc099a0fe2285caf55e54fc1ecfa = $(`<div id="html_e8c6fc099a0fe2285caf55e54fc1ecfa" style="width: 100.0%; height: 100.0%;">Z-à-Dire</div>`)[0];
+                popup_6e8d23e6e0252f43997fc001aa79ee7c.setContent(html_e8c6fc099a0fe2285caf55e54fc1ecfa);
+            
+        
+
+        marker_e66e975c4f981e05300e64a038303873.bindPopup(popup_6e8d23e6e0252f43997fc001aa79ee7c)
+        ;
+
+        
+    
+    
+            var marker_b8a1f74d7487358e0ce9e3f79b8af103 = L.marker(
+                [52.516469, 13.406193],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_f84dad2e4db19f41859ab534ed8bac19 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0f5d0a3b69dbd253875f61ebe2ff97e9 = $(`<div id="html_0f5d0a3b69dbd253875f61ebe2ff97e9" style="width: 100.0%; height: 100.0%;">Freiburghaus Martin</div>`)[0];
+                popup_f84dad2e4db19f41859ab534ed8bac19.setContent(html_0f5d0a3b69dbd253875f61ebe2ff97e9);
+            
+        
+
+        marker_b8a1f74d7487358e0ce9e3f79b8af103.bindPopup(popup_f84dad2e4db19f41859ab534ed8bac19)
+        ;
+
+        
+    
+    
+            var marker_9dc02e80433731a1beed5e355af97b11 = L.marker(
+                [52.53195, 13.410144],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_2e1370e625538da13913152f1134a0b3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_203d2ae397fbf27491fc9d0acd705fd4 = $(`<div id="html_203d2ae397fbf27491fc9d0acd705fd4" style="width: 100.0%; height: 100.0%;">Zapfenzieher-Museum</div>`)[0];
+                popup_2e1370e625538da13913152f1134a0b3.setContent(html_203d2ae397fbf27491fc9d0acd705fd4);
+            
+        
+
+        marker_9dc02e80433731a1beed5e355af97b11.bindPopup(popup_2e1370e625538da13913152f1134a0b3)
+        ;
+
+        
+    
+    
+            var marker_b986406b4fcdf67de1b3c64d36b614f2 = L.marker(
+                [52.509704, 13.367074],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_ca0589ea7c9b98b3702ad7c697250327 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fe66e8976c58401078cc4d813b008ee7 = $(`<div id="html_fe66e8976c58401078cc4d813b008ee7" style="width: 100.0%; height: 100.0%;">Rohrer-Marti AG</div>`)[0];
+                popup_ca0589ea7c9b98b3702ad7c697250327.setContent(html_fe66e8976c58401078cc4d813b008ee7);
+            
+        
+
+        marker_b986406b4fcdf67de1b3c64d36b614f2.bindPopup(popup_ca0589ea7c9b98b3702ad7c697250327)
+        ;
+
+        
+    
+    
+            var marker_ebd0519a25eab6a7a279b7c8729bad48 = L.marker(
+                [52.508908, 13.37874],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_15b8d2ec9f84dc003b406af802726888 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_769b756030d2b0915236aaaea6ef3eb3 = $(`<div id="html_769b756030d2b0915236aaaea6ef3eb3" style="width: 100.0%; height: 100.0%;">Schloss Worb</div>`)[0];
+                popup_15b8d2ec9f84dc003b406af802726888.setContent(html_769b756030d2b0915236aaaea6ef3eb3);
+            
+        
+
+        marker_ebd0519a25eab6a7a279b7c8729bad48.bindPopup(popup_15b8d2ec9f84dc003b406af802726888)
+        ;
+
+        
+    
+    
+            var marker_2477a86be89794e65e32c1a29479fbd8 = L.marker(
+                [52.516366, 13.406978],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_9d4a35716a6e173ceb333ddd0b6b8e71 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_070e42b8242492b94c2ec9a522ccd4d5 = $(`<div id="html_070e42b8242492b94c2ec9a522ccd4d5" style="width: 100.0%; height: 100.0%;">"Stein auf Stein"</div>`)[0];
+                popup_9d4a35716a6e173ceb333ddd0b6b8e71.setContent(html_070e42b8242492b94c2ec9a522ccd4d5);
+            
+        
+
+        marker_2477a86be89794e65e32c1a29479fbd8.bindPopup(popup_9d4a35716a6e173ceb333ddd0b6b8e71)
+        ;
+
+        
+    
+    
+            var marker_e27bb175c44d08f0dcced9f076a4220d = L.marker(
+                [52.501894, 13.365239],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_34b8785b52f6d064e096981e2e0bced9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_32d17f227cd8c3ab1385d47cefceb3ff = $(`<div id="html_32d17f227cd8c3ab1385d47cefceb3ff" style="width: 100.0%; height: 100.0%;">"Tanzender Bär"</div>`)[0];
+                popup_34b8785b52f6d064e096981e2e0bced9.setContent(html_32d17f227cd8c3ab1385d47cefceb3ff);
+            
+        
+
+        marker_e27bb175c44d08f0dcced9f076a4220d.bindPopup(popup_34b8785b52f6d064e096981e2e0bced9)
+        ;
+
+        
+    
+    
+            var marker_50a565371b537f0fae51df2a6d6e5b3b = L.marker(
+                [52.508786, 13.379215],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_49f68ce6229034b4ed4854447100ba67 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_15e7924b35cc836dc1db88ee92a98a7d = $(`<div id="html_15e7924b35cc836dc1db88ee92a98a7d" style="width: 100.0%; height: 100.0%;">"Chribel"</div>`)[0];
+                popup_49f68ce6229034b4ed4854447100ba67.setContent(html_15e7924b35cc836dc1db88ee92a98a7d);
+            
+        
+
+        marker_50a565371b537f0fae51df2a6d6e5b3b.bindPopup(popup_49f68ce6229034b4ed4854447100ba67)
+        ;
+
+        
+    
+    
+            var marker_58d0a72db6286d8c340b2db2a7fb4440 = L.marker(
+                [52.518302, 13.346517],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_62ab13e7f8390c4620da10e55e146796 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_35c2df7cbdfe9c413f19fac67691c3ee = $(`<div id="html_35c2df7cbdfe9c413f19fac67691c3ee" style="width: 100.0%; height: 100.0%;">Japan Information And Cultural Center (JICC)</div>`)[0];
+                popup_62ab13e7f8390c4620da10e55e146796.setContent(html_35c2df7cbdfe9c413f19fac67691c3ee);
+            
+        
+
+        marker_58d0a72db6286d8c340b2db2a7fb4440.bindPopup(popup_62ab13e7f8390c4620da10e55e146796)
+        ;
+
+        
+    
+    
+            var marker_49379ebfcef938f46db8197c2529a41e = L.marker(
+                [52.517393, 13.390333],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_466b256f525c37988445677a3b0dc043 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_05205b258006136a87877ee34188dd1a = $(`<div id="html_05205b258006136a87877ee34188dd1a" style="width: 100.0%; height: 100.0%;">Konservatorium Bern</div>`)[0];
+                popup_466b256f525c37988445677a3b0dc043.setContent(html_05205b258006136a87877ee34188dd1a);
+            
+        
+
+        marker_49379ebfcef938f46db8197c2529a41e.bindPopup(popup_466b256f525c37988445677a3b0dc043)
+        ;
+
+        
+    
+    
+            var marker_0df29db5c12e14f873a957d20cdc600c = L.marker(
+                [52.506373, 13.365257],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_c3d22c802c12941310b3fd58dc11b49f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6c2e38849b2f168860c1a61f85224320 = $(`<div id="html_6c2e38849b2f168860c1a61f85224320" style="width: 100.0%; height: 100.0%;">Montessori Kinderhaus</div>`)[0];
+                popup_c3d22c802c12941310b3fd58dc11b49f.setContent(html_6c2e38849b2f168860c1a61f85224320);
+            
+        
+
+        marker_0df29db5c12e14f873a957d20cdc600c.bindPopup(popup_c3d22c802c12941310b3fd58dc11b49f)
+        ;
+
+        
+    
+    
+            var marker_e8e2313a5ec871cb69c5c3fac96451f0 = L.marker(
+                [52.530583, 13.411648],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_414b0a58e93b21ef4fe15e8088ae29d9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_43d957c7121c20a7be3df30e726c3b3e = $(`<div id="html_43d957c7121c20a7be3df30e726c3b3e" style="width: 100.0%; height: 100.0%;">Campus Muristalden</div>`)[0];
+                popup_414b0a58e93b21ef4fe15e8088ae29d9.setContent(html_43d957c7121c20a7be3df30e726c3b3e);
+            
+        
+
+        marker_e8e2313a5ec871cb69c5c3fac96451f0.bindPopup(popup_414b0a58e93b21ef4fe15e8088ae29d9)
+        ;
+
+        
+    
+    
+            var marker_c97bb0e00c1508e6d9318597fd3a9548 = L.marker(
+                [52.501342, 13.368545],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_21e5a55559f1cddf6b7fc90c80d9aae9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9192e6f1069858d2493baa385133f792 = $(`<div id="html_9192e6f1069858d2493baa385133f792" style="width: 100.0%; height: 100.0%;">comperio.ch AG</div>`)[0];
+                popup_21e5a55559f1cddf6b7fc90c80d9aae9.setContent(html_9192e6f1069858d2493baa385133f792);
+            
+        
+
+        marker_c97bb0e00c1508e6d9318597fd3a9548.bindPopup(popup_21e5a55559f1cddf6b7fc90c80d9aae9)
+        ;
+
+        
+    
+    
+            var marker_8753d2aa73788f545fcfa71ab5770669 = L.marker(
+                [52.512839, 13.439997],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_1b4df3b594d63bac3750bda0243386ce = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8adf69c886e36d19a6987de90389adf3 = $(`<div id="html_8adf69c886e36d19a6987de90389adf3" style="width: 100.0%; height: 100.0%;">Dodis - Diplomatische Dokumente der Schweiz</div>`)[0];
+                popup_1b4df3b594d63bac3750bda0243386ce.setContent(html_8adf69c886e36d19a6987de90389adf3);
+            
+        
+
+        marker_8753d2aa73788f545fcfa71ab5770669.bindPopup(popup_1b4df3b594d63bac3750bda0243386ce)
+        ;
+
+        
+    
+    
+            var marker_237c0bd49b9f9af8a4a8bb637a95b511 = L.marker(
+                [52.536919, 13.438121],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_fd077742695847c055541e1b833b0cb4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e3a95cd655e12b05c42a2a62544120c8 = $(`<div id="html_e3a95cd655e12b05c42a2a62544120c8" style="width: 100.0%; height: 100.0%;">Hochschule der Künste Bern</div>`)[0];
+                popup_fd077742695847c055541e1b833b0cb4.setContent(html_e3a95cd655e12b05c42a2a62544120c8);
+            
+        
+
+        marker_237c0bd49b9f9af8a4a8bb637a95b511.bindPopup(popup_fd077742695847c055541e1b833b0cb4)
+        ;
+
+        
+    
+    
+            var marker_5d2988a59714bb0d9db2ccbb7bea2e2b = L.marker(
+                [52.499964, 13.445893],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_737edf6160fa92b1fd1626b4daa51cfa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b135b837cbd01f8ef8cb24fe6a5135c0 = $(`<div id="html_b135b837cbd01f8ef8cb24fe6a5135c0" style="width: 100.0%; height: 100.0%;">Schule Laubegg</div>`)[0];
+                popup_737edf6160fa92b1fd1626b4daa51cfa.setContent(html_b135b837cbd01f8ef8cb24fe6a5135c0);
+            
+        
+
+        marker_5d2988a59714bb0d9db2ccbb7bea2e2b.bindPopup(popup_737edf6160fa92b1fd1626b4daa51cfa)
+        ;
+
+        
+    
+    
+            var marker_b5e9f4f9bb9b1b13ce6b0a76f6347b71 = L.marker(
+                [52.509382, 13.452695],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_524fc7ffb83cb096acd5d3036b5020ee = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_14c2d1d56adf55a50f55860a15c8913a = $(`<div id="html_14c2d1d56adf55a50f55860a15c8913a" style="width: 100.0%; height: 100.0%;">IOP - Institut für Organisation und Personal</div>`)[0];
+                popup_524fc7ffb83cb096acd5d3036b5020ee.setContent(html_14c2d1d56adf55a50f55860a15c8913a);
+            
+        
+
+        marker_b5e9f4f9bb9b1b13ce6b0a76f6347b71.bindPopup(popup_524fc7ffb83cb096acd5d3036b5020ee)
+        ;
+
+        
+    
+    
+            var marker_3c9a04ab36b6b74e46441bcb8729da44 = L.marker(
+                [52.521068, 13.454611],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e38b0d1ef695a52eb83029a687c20c9e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5074858b741bda9105e24f9cfbe49224 = $(`<div id="html_5074858b741bda9105e24f9cfbe49224" style="width: 100.0%; height: 100.0%;">IFA Bern</div>`)[0];
+                popup_e38b0d1ef695a52eb83029a687c20c9e.setContent(html_5074858b741bda9105e24f9cfbe49224);
+            
+        
+
+        marker_3c9a04ab36b6b74e46441bcb8729da44.bindPopup(popup_e38b0d1ef695a52eb83029a687c20c9e)
+        ;
+
+        
+    
+    
+            var marker_21c6c31ba1aab3629a82f26727d9884e = L.marker(
+                [52.553343, 13.360298],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e17412395c9c81722a62999a2da16a61 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7a90c45237bfaf9dae60c6cae035d738 = $(`<div id="html_7a90c45237bfaf9dae60c6cae035d738" style="width: 100.0%; height: 100.0%;">Kuppelsaal Uni Bern</div>`)[0];
+                popup_e17412395c9c81722a62999a2da16a61.setContent(html_7a90c45237bfaf9dae60c6cae035d738);
+            
+        
+
+        marker_21c6c31ba1aab3629a82f26727d9884e.bindPopup(popup_e17412395c9c81722a62999a2da16a61)
+        ;
+
+        
+    
+    
+            var marker_6f643bc8f082a196035a85d881439f6e = L.marker(
+                [52.541205, 13.44578],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b93cb1ee7d5004e025fc982393f91730 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b9ad8229f5b01a4490bff7ffe2096e4 = $(`<div id="html_5b9ad8229f5b01a4490bff7ffe2096e4" style="width: 100.0%; height: 100.0%;">Uni Engehalde</div>`)[0];
+                popup_b93cb1ee7d5004e025fc982393f91730.setContent(html_5b9ad8229f5b01a4490bff7ffe2096e4);
+            
+        
+
+        marker_6f643bc8f082a196035a85d881439f6e.bindPopup(popup_b93cb1ee7d5004e025fc982393f91730)
+        ;
+
+        
+    
+    
+            var marker_1c47932dd0f075b905c5043963b478d5 = L.marker(
+                [52.559075, 13.375099],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_eb3d93ceef445bf5539cc5d430c20d32 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8efe907dd1557a60120cfa9949e3f1dd = $(`<div id="html_8efe907dd1557a60120cfa9949e3f1dd" style="width: 100.0%; height: 100.0%;">HSO Schulen</div>`)[0];
+                popup_eb3d93ceef445bf5539cc5d430c20d32.setContent(html_8efe907dd1557a60120cfa9949e3f1dd);
+            
+        
+
+        marker_1c47932dd0f075b905c5043963b478d5.bindPopup(popup_eb3d93ceef445bf5539cc5d430c20d32)
+        ;
+
+        
+    
+    
+            var marker_c2ea21ead5c37dc46176e51eab3777d9 = L.marker(
+                [52.560996, 13.382677],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_f7124b63e62d22f6c5be50f850618495 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a2ddeeae4f7145f412c192da5b0d2db7 = $(`<div id="html_a2ddeeae4f7145f412c192da5b0d2db7" style="width: 100.0%; height: 100.0%;">ETH-Rat</div>`)[0];
+                popup_f7124b63e62d22f6c5be50f850618495.setContent(html_a2ddeeae4f7145f412c192da5b0d2db7);
+            
+        
+
+        marker_c2ea21ead5c37dc46176e51eab3777d9.bindPopup(popup_f7124b63e62d22f6c5be50f850618495)
+        ;
+
+        
+    
+    
+            var marker_18b21261921be9f9809783643c966a31 = L.marker(
+                [52.480465, 13.431414],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e436c9c06190a5c268ff94812f083f4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0abb3b228a143a624384c884a47fbca5 = $(`<div id="html_0abb3b228a143a624384c884a47fbca5" style="width: 100.0%; height: 100.0%;">Entrepreneurs Club Universität Bern (ECUB)</div>`)[0];
+                popup_e436c9c06190a5c268ff94812f083f4e.setContent(html_0abb3b228a143a624384c884a47fbca5);
+            
+        
+
+        marker_18b21261921be9f9809783643c966a31.bindPopup(popup_e436c9c06190a5c268ff94812f083f4e)
+        ;
+
+        
+    
+    
+            var marker_3741dc58d2ff8113c6750d2a9cb70aca = L.marker(
+                [52.498193, 13.321393],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b1bc2a09d84ac34f1110b2e5db571138 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eb57d2e515f1572dca129eda0ee2eea5 = $(`<div id="html_eb57d2e515f1572dca129eda0ee2eea5" style="width: 100.0%; height: 100.0%;">Tagesschule Lorraine</div>`)[0];
+                popup_b1bc2a09d84ac34f1110b2e5db571138.setContent(html_eb57d2e515f1572dca129eda0ee2eea5);
+            
+        
+
+        marker_3741dc58d2ff8113c6750d2a9cb70aca.bindPopup(popup_b1bc2a09d84ac34f1110b2e5db571138)
+        ;
+
+        
+    
+    
+            var marker_61db966552a02a8406dd0ab086977910 = L.marker(
+                [52.544414, 13.453936],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_3405682da9e7f5fdaf13da5e7bd81871 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cdb1d77d870b3b40f5a14f8e221416ee = $(`<div id="html_cdb1d77d870b3b40f5a14f8e221416ee" style="width: 100.0%; height: 100.0%;">Learning Institute Nachhilfe und Sprachkurse</div>`)[0];
+                popup_3405682da9e7f5fdaf13da5e7bd81871.setContent(html_cdb1d77d870b3b40f5a14f8e221416ee);
+            
+        
+
+        marker_61db966552a02a8406dd0ab086977910.bindPopup(popup_3405682da9e7f5fdaf13da5e7bd81871)
+        ;
+
+        
+    
+    
+            var marker_17a827c34c8be41ffe6aef13a754d300 = L.marker(
+                [52.547624, 13.452138],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_944e7f90f8645047212179edac370e5f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_233127f158c79be0c99c4272c4b9c6e5 = $(`<div id="html_233127f158c79be0c99c4272c4b9c6e5" style="width: 100.0%; height: 100.0%;">SOLibri - Studierendenorganisation BFH Soziale Arbeit</div>`)[0];
+                popup_944e7f90f8645047212179edac370e5f.setContent(html_233127f158c79be0c99c4272c4b9c6e5);
+            
+        
+
+        marker_17a827c34c8be41ffe6aef13a754d300.bindPopup(popup_944e7f90f8645047212179edac370e5f)
+        ;
+
+        
+    
+    
+            var marker_7ea811e550e1a6317e3ad40bd1d7e3d7 = L.marker(
+                [52.548017, 13.455323],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b4d8dc1acbd4a6ed64841e32b61168a0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_37bd20b8028c7e378cc14c9915adff40 = $(`<div id="html_37bd20b8028c7e378cc14c9915adff40" style="width: 100.0%; height: 100.0%;">Webedu.Ch</div>`)[0];
+                popup_b4d8dc1acbd4a6ed64841e32b61168a0.setContent(html_37bd20b8028c7e378cc14c9915adff40);
+            
+        
+
+        marker_7ea811e550e1a6317e3ad40bd1d7e3d7.bindPopup(popup_b4d8dc1acbd4a6ed64841e32b61168a0)
+        ;
+
+        
+    
+    
+            var marker_7fe03c77ac7fda88a35514f09ebda36e = L.marker(
+                [52.465557, 13.390756],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_5aff924022fed70b58645147c1cc8efb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d9603397613897dc1ba533b02173e5e2 = $(`<div id="html_d9603397613897dc1ba533b02173e5e2" style="width: 100.0%; height: 100.0%;">GIBB - Gewerblich-Industrielle Berufsschule Bern</div>`)[0];
+                popup_5aff924022fed70b58645147c1cc8efb.setContent(html_d9603397613897dc1ba533b02173e5e2);
+            
+        
+
+        marker_7fe03c77ac7fda88a35514f09ebda36e.bindPopup(popup_5aff924022fed70b58645147c1cc8efb)
+        ;
+
+        
+    
+    
+            var marker_17dfcede3bca908259239f01ed3fa5ee = L.marker(
+                [52.488317, 13.317912],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e8ae6601724366e3abb8f9219b5bf533 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_19395b9bf4e6259280f805c3da52a52d = $(`<div id="html_19395b9bf4e6259280f805c3da52a52d" style="width: 100.0%; height: 100.0%;">Rudolf Steiner Schule</div>`)[0];
+                popup_e8ae6601724366e3abb8f9219b5bf533.setContent(html_19395b9bf4e6259280f805c3da52a52d);
+            
+        
+
+        marker_17dfcede3bca908259239f01ed3fa5ee.bindPopup(popup_e8ae6601724366e3abb8f9219b5bf533)
+        ;
+
+        
+    
+    
+            var marker_3e75850934d9ad6fe4a08e9fc5c13b53 = L.marker(
+                [52.567997, 13.412581],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e4889d349c3d41be63fb75e9a5eed52f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6a9e4341180592ab8e7586873557ed2a = $(`<div id="html_6a9e4341180592ab8e7586873557ed2a" style="width: 100.0%; height: 100.0%;">Universitätssport Bern</div>`)[0];
+                popup_e4889d349c3d41be63fb75e9a5eed52f.setContent(html_6a9e4341180592ab8e7586873557ed2a);
+            
+        
+
+        marker_3e75850934d9ad6fe4a08e9fc5c13b53.bindPopup(popup_e4889d349c3d41be63fb75e9a5eed52f)
+        ;
+
+        
+    
+    
+            var marker_a25ce7f67c2666c1638aaf16f158b10c = L.marker(
+                [52.480573, 13.322084],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_4dac7b80c49e99a96be52a7ac7b8b10f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_15d4283cd780eb9bf9f014c4f9d6ca6e = $(`<div id="html_15d4283cd780eb9bf9f014c4f9d6ca6e" style="width: 100.0%; height: 100.0%;">Trivadis AG</div>`)[0];
+                popup_4dac7b80c49e99a96be52a7ac7b8b10f.setContent(html_15d4283cd780eb9bf9f014c4f9d6ca6e);
+            
+        
+
+        marker_a25ce7f67c2666c1638aaf16f158b10c.bindPopup(popup_4dac7b80c49e99a96be52a7ac7b8b10f)
+        ;
+
+        
+    
+    
+            var marker_927e4526e6b6cf146904bb4b2d357297 = L.marker(
+                [52.464592, 13.44028],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_f855d53a9efa6de5b9ace8b011f06b24 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_290ff3a9a40ebe597bbbbc9948edf4a7 = $(`<div id="html_290ff3a9a40ebe597bbbbc9948edf4a7" style="width: 100.0%; height: 100.0%;">Turnhalle Dennigkofen</div>`)[0];
+                popup_f855d53a9efa6de5b9ace8b011f06b24.setContent(html_290ff3a9a40ebe597bbbbc9948edf4a7);
+            
+        
+
+        marker_927e4526e6b6cf146904bb4b2d357297.bindPopup(popup_f855d53a9efa6de5b9ace8b011f06b24)
+        ;
+
+        
+    
+    
+            var marker_d66c721ce2584df18a469465830ff024 = L.marker(
+                [52.584383, 13.393643],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e8238ec0bca1114e7ebf4522da83f83d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5500861a24d9106583dd14d7f0e06be7 = $(`<div id="html_5500861a24d9106583dd14d7f0e06be7" style="width: 100.0%; height: 100.0%;">Unterstufe Bremgarten b. Bern</div>`)[0];
+                popup_e8238ec0bca1114e7ebf4522da83f83d.setContent(html_5500861a24d9106583dd14d7f0e06be7);
+            
+        
+
+        marker_d66c721ce2584df18a469465830ff024.bindPopup(popup_e8238ec0bca1114e7ebf4522da83f83d)
+        ;
+
+        
+    
+    
+            var marker_1c941c4746f885132e28a92e539b57e4 = L.marker(
+                [52.572164, 13.323847],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_c73ec3af0e7d630a6d69178f0acaa5c9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c46a42c97f8a9406ae87e01157430cb5 = $(`<div id="html_c46a42c97f8a9406ae87e01157430cb5" style="width: 100.0%; height: 100.0%;">Schulhaus Horbern</div>`)[0];
+                popup_c73ec3af0e7d630a6d69178f0acaa5c9.setContent(html_c46a42c97f8a9406ae87e01157430cb5);
+            
+        
+
+        marker_1c941c4746f885132e28a92e539b57e4.bindPopup(popup_c73ec3af0e7d630a6d69178f0acaa5c9)
+        ;
+
+        
+    
+    
+            var marker_a39e48857ce2a0578f938087a829abec = L.marker(
+                [52.582881, 13.41767],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_8ca13b465d648556708ba7525a7a6913 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_badc831ecb5efa205ce5b68a1c9b6244 = $(`<div id="html_badc831ecb5efa205ce5b68a1c9b6244" style="width: 100.0%; height: 100.0%;">Oberstufe</div>`)[0];
+                popup_8ca13b465d648556708ba7525a7a6913.setContent(html_badc831ecb5efa205ce5b68a1c9b6244);
+            
+        
+
+        marker_a39e48857ce2a0578f938087a829abec.bindPopup(popup_8ca13b465d648556708ba7525a7a6913)
+        ;
+
+        
+    
+    
+            var marker_9294d644b4bc2d5d4f8bf5e90e496b43 = L.marker(
+                [52.586438, 13.355776],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b6f520efa3c1f6df43864c4a2aa2edfd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3b8d07c21c922fef71cec2de54fe0583 = $(`<div id="html_3b8d07c21c922fef71cec2de54fe0583" style="width: 100.0%; height: 100.0%;">Schwabgut</div>`)[0];
+                popup_b6f520efa3c1f6df43864c4a2aa2edfd.setContent(html_3b8d07c21c922fef71cec2de54fe0583);
+            
+        
+
+        marker_9294d644b4bc2d5d4f8bf5e90e496b43.bindPopup(popup_b6f520efa3c1f6df43864c4a2aa2edfd)
+        ;
+
+        
+    
+    
+            var marker_5cd709df14bb5438bb790abeb66b62a2 = L.marker(
+                [52.579015, 13.332663],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_2bc3d9433afc4588b5009d860c6791fe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2934c3c0d9a1092ec3d1cb247a478e37 = $(`<div id="html_2934c3c0d9a1092ec3d1cb247a478e37" style="width: 100.0%; height: 100.0%;">Oberstufenzentrum Köniz</div>`)[0];
+                popup_2bc3d9433afc4588b5009d860c6791fe.setContent(html_2934c3c0d9a1092ec3d1cb247a478e37);
+            
+        
+
+        marker_5cd709df14bb5438bb790abeb66b62a2.bindPopup(popup_2bc3d9433afc4588b5009d860c6791fe)
+        ;
+
+        
+    
+    
+            var marker_3cbd6b2c4899f2c20c9ae5ffe4fa19e8 = L.marker(
+                [52.455619, 13.314957],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_af9990319663c1c2d044ae811dec1356 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0d270ab93a5342fe63eb12a8f5d8ed30 = $(`<div id="html_0d270ab93a5342fe63eb12a8f5d8ed30" style="width: 100.0%; height: 100.0%;">HKB International</div>`)[0];
+                popup_af9990319663c1c2d044ae811dec1356.setContent(html_0d270ab93a5342fe63eb12a8f5d8ed30);
+            
+        
+
+        marker_3cbd6b2c4899f2c20c9ae5ffe4fa19e8.bindPopup(popup_af9990319663c1c2d044ae811dec1356)
+        ;
+
+        
+    
+    
+            var marker_25c42d879b7832c9fa129b775f0b4ca8 = L.marker(
+                [52.437317, 13.352234],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_441e8b82cf23569089ac2e2c89934a70 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e36322942ca610247ef51c6940d10a59 = $(`<div id="html_e36322942ca610247ef51c6940d10a59" style="width: 100.0%; height: 100.0%;">HKB / BA Visuelle Kommunikation</div>`)[0];
+                popup_441e8b82cf23569089ac2e2c89934a70.setContent(html_e36322942ca610247ef51c6940d10a59);
+            
+        
+
+        marker_25c42d879b7832c9fa129b775f0b4ca8.bindPopup(popup_441e8b82cf23569089ac2e2c89934a70)
+        ;
+
+        
+    
+    
+            var marker_1691601c1e764d3a84b1b4b2e7ea0959 = L.marker(
+                [52.508554, 13.526712],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_a91f0f5d4c1a5c32cdf5124d49e0a60c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_96bd2584cbc11329f4f4ef13f164b09a = $(`<div id="html_96bd2584cbc11329f4f4ef13f164b09a" style="width: 100.0%; height: 100.0%;">HKB / MA Communication Design</div>`)[0];
+                popup_a91f0f5d4c1a5c32cdf5124d49e0a60c.setContent(html_96bd2584cbc11329f4f4ef13f164b09a);
+            
+        
+
+        marker_1691601c1e764d3a84b1b4b2e7ea0959.bindPopup(popup_a91f0f5d4c1a5c32cdf5124d49e0a60c)
+        ;
+
+        
+    
+    
+            var marker_280ce2a83c0a5c195c363d790c4ae460 = L.marker(
+                [52.580263, 13.293869],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_d88dc6085e7a4e18e0b44bd2ec67e3f1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7bc85c91c0c93e7f7ba47b10c3e06f5e = $(`<div id="html_7bc85c91c0c93e7f7ba47b10c3e06f5e" style="width: 100.0%; height: 100.0%;">Tagesschule Tscharnergut</div>`)[0];
+                popup_d88dc6085e7a4e18e0b44bd2ec67e3f1.setContent(html_7bc85c91c0c93e7f7ba47b10c3e06f5e);
+            
+        
+
+        marker_280ce2a83c0a5c195c363d790c4ae460.bindPopup(popup_d88dc6085e7a4e18e0b44bd2ec67e3f1)
+        ;
+
+        
+    
+    
+            var marker_92108adf05bee718fb6afb74ab42cc01 = L.marker(
+                [52.438774, 13.328421],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_571b396a72d09f5086068a170c71ed4a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f127974bc9bab0c5e47a2f7d8c1ef99c = $(`<div id="html_f127974bc9bab0c5e47a2f7d8c1ef99c" style="width: 100.0%; height: 100.0%;">Schulhaus Bethlehemacker</div>`)[0];
+                popup_571b396a72d09f5086068a170c71ed4a.setContent(html_f127974bc9bab0c5e47a2f7d8c1ef99c);
+            
+        
+
+        marker_92108adf05bee718fb6afb74ab42cc01.bindPopup(popup_571b396a72d09f5086068a170c71ed4a)
+        ;
+
+        
+    
+    
+            var marker_97f17c05b41050a85348c295a4c90cfe = L.marker(
+                [52.567919, 13.506933],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b939d88d780190ec17c597a64007e1c3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_155bb3b7762595a379e57e8390e48f43 = $(`<div id="html_155bb3b7762595a379e57e8390e48f43" style="width: 100.0%; height: 100.0%;">Schweizerisches Rotes Kreuz Bernstrasse</div>`)[0];
+                popup_b939d88d780190ec17c597a64007e1c3.setContent(html_155bb3b7762595a379e57e8390e48f43);
+            
+        
+
+        marker_97f17c05b41050a85348c295a4c90cfe.bindPopup(popup_b939d88d780190ec17c597a64007e1c3)
+        ;
+
+        
+    
+    
+            var marker_27ae270b683013583e0a1925210a2e73 = L.marker(
+                [52.598142, 13.330389],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_3f2c47bed78cb131667b0dde0605f5eb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1b3a4384a12dd6fe29679ff9091fd378 = $(`<div id="html_1b3a4384a12dd6fe29679ff9091fd378" style="width: 100.0%; height: 100.0%;">QCM Belp</div>`)[0];
+                popup_3f2c47bed78cb131667b0dde0605f5eb.setContent(html_1b3a4384a12dd6fe29679ff9091fd378);
+            
+        
+
+        marker_27ae270b683013583e0a1925210a2e73.bindPopup(popup_3f2c47bed78cb131667b0dde0605f5eb)
+        ;
+
+        
+    
+    
+            var marker_3276bf68b5fcbc49a80e6a326b90209a = L.marker(
+                [52.518303, 13.386777],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_46564814f17913fb8d2cc928893e1e94 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f3e8d34dd264b57daeba1f9a5add7337 = $(`<div id="html_f3e8d34dd264b57daeba1f9a5add7337" style="width: 100.0%; height: 100.0%;">Schulanlage Staffel</div>`)[0];
+                popup_46564814f17913fb8d2cc928893e1e94.setContent(html_f3e8d34dd264b57daeba1f9a5add7337);
+            
+        
+
+        marker_3276bf68b5fcbc49a80e6a326b90209a.bindPopup(popup_46564814f17913fb8d2cc928893e1e94)
+        ;
+
+        
+    
+    
+            var marker_626559788d41c1d5f9b3ebab4ee05684 = L.marker(
+                [52.546291, 13.435129],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_de6dd8242dcb505e2cf9532435e4953b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3be4966c8249f88d0e31d07c40dafef5 = $(`<div id="html_3be4966c8249f88d0e31d07c40dafef5" style="width: 100.0%; height: 100.0%;">Schweizerische Schule für Aromatherapie, Sfa</div>`)[0];
+                popup_de6dd8242dcb505e2cf9532435e4953b.setContent(html_3be4966c8249f88d0e31d07c40dafef5);
+            
+        
+
+        marker_626559788d41c1d5f9b3ebab4ee05684.bindPopup(popup_de6dd8242dcb505e2cf9532435e4953b)
+        ;
+
+        
+    
+    
+            var marker_f99121369e45b60702a2e033360e6751 = L.marker(
+                [52.51836, 13.393607],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_087a48f0098d001e05abe052e1bf27c9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_50b49913cf41e86583145a9768368df2 = $(`<div id="html_50b49913cf41e86583145a9768368df2" style="width: 100.0%; height: 100.0%;">Oberstufenzentrum Belp</div>`)[0];
+                popup_087a48f0098d001e05abe052e1bf27c9.setContent(html_50b49913cf41e86583145a9768368df2);
+            
+        
+
+        marker_f99121369e45b60702a2e033360e6751.bindPopup(popup_087a48f0098d001e05abe052e1bf27c9)
+        ;
+
+        
+    
+    
+            var marker_a9bb6aadd440075e8f6ade4a1e21f718 = L.marker(
+                [52.516967, 13.394548],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_6420d092a1068904136ec108bcc972eb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cb1849ef909df904260ddba7454a8d8a = $(`<div id="html_cb1849ef909df904260ddba7454a8d8a" style="width: 100.0%; height: 100.0%;">Mühlematt</div>`)[0];
+                popup_6420d092a1068904136ec108bcc972eb.setContent(html_cb1849ef909df904260ddba7454a8d8a);
+            
+        
+
+        marker_a9bb6aadd440075e8f6ade4a1e21f718.bindPopup(popup_6420d092a1068904136ec108bcc972eb)
+        ;
+
+        
+    
+    
+            var marker_8ab59d747645ce6291286ab77c7b249c = L.marker(
+                [52.519945, 13.392248],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_5368b83cb8b2ae9bfbac99de56c079ce = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d3b076cbd7bef9169fcc8e69226ec82a = $(`<div id="html_d3b076cbd7bef9169fcc8e69226ec82a" style="width: 100.0%; height: 100.0%;">Schulhaus Lee</div>`)[0];
+                popup_5368b83cb8b2ae9bfbac99de56c079ce.setContent(html_d3b076cbd7bef9169fcc8e69226ec82a);
+            
+        
+
+        marker_8ab59d747645ce6291286ab77c7b249c.bindPopup(popup_5368b83cb8b2ae9bfbac99de56c079ce)
+        ;
+
+        
+    
+    
+            var marker_0c9f218c8b6ad8ad821782921377c978 = L.marker(
+                [52.515414, 13.401247],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_d62a29d28a3e203b3c98367a56d7dbc2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_12817bf7be34004e32833e96ae76d0ac = $(`<div id="html_12817bf7be34004e32833e96ae76d0ac" style="width: 100.0%; height: 100.0%;">Hochschule Für Musik</div>`)[0];
+                popup_d62a29d28a3e203b3c98367a56d7dbc2.setContent(html_12817bf7be34004e32833e96ae76d0ac);
+            
+        
+
+        marker_0c9f218c8b6ad8ad821782921377c978.bindPopup(popup_d62a29d28a3e203b3c98367a56d7dbc2)
+        ;
+
+        
+    
+    
+            var marker_35dd09d348d99c0e387176ebcabb24c1 = L.marker(
+                [52.521053, 13.402994],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_34b6a59557b573dbc52b4882f9fecd63 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ba268c874203f6dc142bb14b4386acab = $(`<div id="html_ba268c874203f6dc142bb14b4386acab" style="width: 100.0%; height: 100.0%;">Erasmus Schweiz</div>`)[0];
+                popup_34b6a59557b573dbc52b4882f9fecd63.setContent(html_ba268c874203f6dc142bb14b4386acab);
+            
+        
+
+        marker_35dd09d348d99c0e387176ebcabb24c1.bindPopup(popup_34b6a59557b573dbc52b4882f9fecd63)
+        ;
+
+        
+    
+    
+            var marker_fc24d2826689c02153684b2ff48c28a6 = L.marker(
+                [52.525213, 13.425065],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e2e09dfa0812487d6a13fd8688ffbfca = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4e064042982ffe30524e117897698acc = $(`<div id="html_4e064042982ffe30524e117897698acc" style="width: 100.0%; height: 100.0%;">Hochschule für Wirtschaft und Verwaltung</div>`)[0];
+                popup_e2e09dfa0812487d6a13fd8688ffbfca.setContent(html_4e064042982ffe30524e117897698acc);
+            
+        
+
+        marker_fc24d2826689c02153684b2ff48c28a6.bindPopup(popup_e2e09dfa0812487d6a13fd8688ffbfca)
+        ;
+
+        
+    
+    
+            var marker_4afead676a801d64ab764340c5eb2a8b = L.marker(
+                [52.532722, 13.422836],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e730d1960466087baa749010d63d5315 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d2da1913b77fa0ded949c3219bdfa99c = $(`<div id="html_d2da1913b77fa0ded949c3219bdfa99c" style="width: 100.0%; height: 100.0%;">Eduswiss</div>`)[0];
+                popup_e730d1960466087baa749010d63d5315.setContent(html_d2da1913b77fa0ded949c3219bdfa99c);
+            
+        
+
+        marker_4afead676a801d64ab764340c5eb2a8b.bindPopup(popup_e730d1960466087baa749010d63d5315)
+        ;
+
+        
+    
+    
+            var marker_0974e47660f23763f92dc03718c66fa8 = L.marker(
+                [52.51248, 13.326903],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_8042cac727efeb01f12489ef229fd71f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b0180b9da9f9876384ccf0435f1128ab = $(`<div id="html_b0180b9da9f9876384ccf0435f1128ab" style="width: 100.0%; height: 100.0%;">Air Hygiene Schweiz AG</div>`)[0];
+                popup_8042cac727efeb01f12489ef229fd71f.setContent(html_b0180b9da9f9876384ccf0435f1128ab);
+            
+        
+
+        marker_0974e47660f23763f92dc03718c66fa8.bindPopup(popup_8042cac727efeb01f12489ef229fd71f)
+        ;
+
+        
+    
+    
+            var marker_f6021154fd6f4c4f2e1640b8eebfe057 = L.marker(
+                [52.49924, 13.44973],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_00f5679ec7b9064689429de67ade6cb0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ca5132d026a15c4f18f29c4eb3ddf31d = $(`<div id="html_ca5132d026a15c4f18f29c4eb3ddf31d" style="width: 100.0%; height: 100.0%;">Ethologische Station der Universität Bern</div>`)[0];
+                popup_00f5679ec7b9064689429de67ade6cb0.setContent(html_ca5132d026a15c4f18f29c4eb3ddf31d);
+            
+        
+
+        marker_f6021154fd6f4c4f2e1640b8eebfe057.bindPopup(popup_00f5679ec7b9064689429de67ade6cb0)
+        ;
+
+        
+    
+    
+            var marker_406861d654cb8e34eb6b6b0b2e78d46b = L.marker(
+                [52.54154, 13.414856],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_5b15ca6e85535dc8c12fb471d61a10f6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8935d4e0fd68ba57c5d9b9e777478ed6 = $(`<div id="html_8935d4e0fd68ba57c5d9b9e777478ed6" style="width: 100.0%; height: 100.0%;">Audimax Hauptgebäude</div>`)[0];
+                popup_5b15ca6e85535dc8c12fb471d61a10f6.setContent(html_8935d4e0fd68ba57c5d9b9e777478ed6);
+            
+        
+
+        marker_406861d654cb8e34eb6b6b0b2e78d46b.bindPopup(popup_5b15ca6e85535dc8c12fb471d61a10f6)
+        ;
+
+        
+    
+    
+            var marker_47aaac6e05aa02b0ffe3635f1be1d7de = L.marker(
+                [52.558033, 13.373676],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_d8e0c4965808ac342c7222aeb9106c87 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5a09b0b7b34c97f3c6d4b8a5d6c68178 = $(`<div id="html_5a09b0b7b34c97f3c6d4b8a5d6c68178" style="width: 100.0%; height: 100.0%;">Universität Bern</div>`)[0];
+                popup_d8e0c4965808ac342c7222aeb9106c87.setContent(html_5a09b0b7b34c97f3c6d4b8a5d6c68178);
+            
+        
+
+        marker_47aaac6e05aa02b0ffe3635f1be1d7de.bindPopup(popup_d8e0c4965808ac342c7222aeb9106c87)
+        ;
+
+        
+    
+    
+            var marker_924eb519d9298f7bffb439f43b952497 = L.marker(
+                [52.50383, 13.41757],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_8fcda6858072c63cc3e8d31d24971473 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_610ab68a76839e82e1c4ab17eab07d00 = $(`<div id="html_610ab68a76839e82e1c4ab17eab07d00" style="width: 100.0%; height: 100.0%;">Universität Bern - Uni Engehalde</div>`)[0];
+                popup_8fcda6858072c63cc3e8d31d24971473.setContent(html_610ab68a76839e82e1c4ab17eab07d00);
+            
+        
+
+        marker_924eb519d9298f7bffb439f43b952497.bindPopup(popup_8fcda6858072c63cc3e8d31d24971473)
+        ;
+
+        
+    
+    
+            var marker_b890a069a1aae67d0c53c2502bc855d1 = L.marker(
+                [52.539699, 13.382184],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e0a54a9f1a7a88ca094e57b13581e77c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_14899655c11afc765f04024bf68a61da = $(`<div id="html_14899655c11afc765f04024bf68a61da" style="width: 100.0%; height: 100.0%;">International Space Science Institute (ISSI)</div>`)[0];
+                popup_e0a54a9f1a7a88ca094e57b13581e77c.setContent(html_14899655c11afc765f04024bf68a61da);
+            
+        
+
+        marker_b890a069a1aae67d0c53c2502bc855d1.bindPopup(popup_e0a54a9f1a7a88ca094e57b13581e77c)
+        ;
+
+        
+    
+    
+            var marker_3188749476f489bcf56523fffce13df2 = L.marker(
+                [52.530003, 13.425272],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_354105a759dabf052b84b42cec21a61f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_825e000a349e7740793eb5211b5c4810 = $(`<div id="html_825e000a349e7740793eb5211b5c4810" style="width: 100.0%; height: 100.0%;">Evang.-Lutherische Kirchgemeinde</div>`)[0];
+                popup_354105a759dabf052b84b42cec21a61f.setContent(html_825e000a349e7740793eb5211b5c4810);
+            
+        
+
+        marker_3188749476f489bcf56523fffce13df2.bindPopup(popup_354105a759dabf052b84b42cec21a61f)
+        ;
+
+        
+    
+    
+            var marker_0ac27fb9ec9046f6e009b424a083bf01 = L.marker(
+                [52.492666, 13.412721],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_519c88d1d180bb3361396017d26b289f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fdcbf2c405cf03b44348db2389d38e23 = $(`<div id="html_fdcbf2c405cf03b44348db2389d38e23" style="width: 100.0%; height: 100.0%;">Zentrum für Buddhismus</div>`)[0];
+                popup_519c88d1d180bb3361396017d26b289f.setContent(html_fdcbf2c405cf03b44348db2389d38e23);
+            
+        
+
+        marker_0ac27fb9ec9046f6e009b424a083bf01.bindPopup(popup_519c88d1d180bb3361396017d26b289f)
+        ;
+
+        
+    
+    
+            var marker_ed008be3df967e502ea44b5e97943433 = L.marker(
+                [52.545505, 13.398224],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_1c957862b1b67f1857bdef44036d8e58 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ffeeadbc336f2b8b73a6a4dcdf45ba75 = $(`<div id="html_ffeeadbc336f2b8b73a6a4dcdf45ba75" style="width: 100.0%; height: 100.0%;">Jüdische Gemeinde Bern</div>`)[0];
+                popup_1c957862b1b67f1857bdef44036d8e58.setContent(html_ffeeadbc336f2b8b73a6a4dcdf45ba75);
+            
+        
+
+        marker_ed008be3df967e502ea44b5e97943433.bindPopup(popup_1c957862b1b67f1857bdef44036d8e58)
+        ;
+
+        
+    
+    
+            var marker_71f26d5b6eddbce254d27e3378c7faca = L.marker(
+                [52.527702, 13.339056],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e8f92614f2c82c8015f14227e12df001 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_41f983a75e354266958d366954882ed5 = $(`<div id="html_41f983a75e354266958d366954882ed5" style="width: 100.0%; height: 100.0%;">Missione Cattolica Italiana</div>`)[0];
+                popup_e8f92614f2c82c8015f14227e12df001.setContent(html_41f983a75e354266958d366954882ed5);
+            
+        
+
+        marker_71f26d5b6eddbce254d27e3378c7faca.bindPopup(popup_e8f92614f2c82c8015f14227e12df001)
+        ;
+
+        
+    
+    
+            var marker_59d44b11138cef3f6d158ed13b807dd4 = L.marker(
+                [52.489959, 13.425307],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_0e8fe096bf22d33df46b563410b71223 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_31bcd3ce8da2a5c58faf218bf8bcf16b = $(`<div id="html_31bcd3ce8da2a5c58faf218bf8bcf16b" style="width: 100.0%; height: 100.0%;">Turkish Mosque Ostermundigen</div>`)[0];
+                popup_0e8fe096bf22d33df46b563410b71223.setContent(html_31bcd3ce8da2a5c58faf218bf8bcf16b);
+            
+        
+
+        marker_59d44b11138cef3f6d158ed13b807dd4.bindPopup(popup_0e8fe096bf22d33df46b563410b71223)
+        ;
+
+        
+    
+    
+            var marker_9e930c3cd0235ba4c80a2ae441ab26c4 = L.marker(
+                [52.483413, 13.351898],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_03d37b5b0a780ea71c6ec07131d48b2f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_98a185915ff0ae95e00fe2ce974be549 = $(`<div id="html_98a185915ff0ae95e00fe2ce974be549" style="width: 100.0%; height: 100.0%;">Pfarrei Guthirt</div>`)[0];
+                popup_03d37b5b0a780ea71c6ec07131d48b2f.setContent(html_98a185915ff0ae95e00fe2ce974be549);
+            
+        
+
+        marker_9e930c3cd0235ba4c80a2ae441ab26c4.bindPopup(popup_03d37b5b0a780ea71c6ec07131d48b2f)
+        ;
+
+        
+    
+    
+            var marker_44c43364e01cead52a3bb1a0b191b507 = L.marker(
+                [52.484379, 13.436193],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_d1de41fd13afef16c7283297be2b235c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cd43e95c7f0484ce60b137228f29a824 = $(`<div id="html_cd43e95c7f0484ce60b137228f29a824" style="width: 100.0%; height: 100.0%;">Zentrum Europaplatz - Haus der Religionen</div>`)[0];
+                popup_d1de41fd13afef16c7283297be2b235c.setContent(html_cd43e95c7f0484ce60b137228f29a824);
+            
+        
+
+        marker_44c43364e01cead52a3bb1a0b191b507.bindPopup(popup_d1de41fd13afef16c7283297be2b235c)
+        ;
+
+        
+    
+    
+            var marker_ed22129928d0e356ff1c8eea1b36ccfb = L.marker(
+                [52.512471, 13.465521],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_a5d914870390b2a14a74a21cb2783a5a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_00e1c19ce7bdff887b77433d4122fbaf = $(`<div id="html_00e1c19ce7bdff887b77433d4122fbaf" style="width: 100.0%; height: 100.0%;">Evang.-ref. Kirchgemeinde</div>`)[0];
+                popup_a5d914870390b2a14a74a21cb2783a5a.setContent(html_00e1c19ce7bdff887b77433d4122fbaf);
+            
+        
+
+        marker_ed22129928d0e356ff1c8eea1b36ccfb.bindPopup(popup_a5d914870390b2a14a74a21cb2783a5a)
+        ;
+
+        
+    
+    
+            var marker_df9534cb556ba80f68625fedb6177c11 = L.marker(
+                [52.51707, 13.279265],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_5c8cd03c69df65b39f0bb1da3ae99dea = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f28862daaab8c5159fec33acc3fba994 = $(`<div id="html_f28862daaab8c5159fec33acc3fba994" style="width: 100.0%; height: 100.0%;">Ref. Pfarramt</div>`)[0];
+                popup_5c8cd03c69df65b39f0bb1da3ae99dea.setContent(html_f28862daaab8c5159fec33acc3fba994);
+            
+        
+
+        marker_df9534cb556ba80f68625fedb6177c11.bindPopup(popup_5c8cd03c69df65b39f0bb1da3ae99dea)
+        ;
+
+        
+    
+    
+            var marker_082cd8b1af86b003f9ae78371724bd95 = L.marker(
+                [52.592826, 13.401919],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_760e22813db9d0a56cd30b45f209e80f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f89631068ac96c0252a166cdf9099635 = $(`<div id="html_f89631068ac96c0252a166cdf9099635" style="width: 100.0%; height: 100.0%;">Christliche Ostmission</div>`)[0];
+                popup_760e22813db9d0a56cd30b45f209e80f.setContent(html_f89631068ac96c0252a166cdf9099635);
+            
+        
+
+        marker_082cd8b1af86b003f9ae78371724bd95.bindPopup(popup_760e22813db9d0a56cd30b45f209e80f)
+        ;
+
+        
+    
+    
+            var marker_5f776e8c318db283f8714fa18cc3f683 = L.marker(
+                [52.463373, 13.295411],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_32a0d44a124e8cf647ff4167fb8ce1f9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6b7e376bd045693c4da24b0966593d72 = $(`<div id="html_6b7e376bd045693c4da24b0966593d72" style="width: 100.0%; height: 100.0%;">Berner Münster</div>`)[0];
+                popup_32a0d44a124e8cf647ff4167fb8ce1f9.setContent(html_6b7e376bd045693c4da24b0966593d72);
+            
+        
+
+        marker_5f776e8c318db283f8714fa18cc3f683.bindPopup(popup_32a0d44a124e8cf647ff4167fb8ce1f9)
+        ;
+
+        
+    
+    
+            var marker_bfb72168ef32c485ff998daeab33eeae = L.marker(
+                [52.441616, 13.455837],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_016d32a78f12fb5b7a7aa9a6a49e07bb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_789ee83276e3b844bdd7ba3c57fc52cf = $(`<div id="html_789ee83276e3b844bdd7ba3c57fc52cf" style="width: 100.0%; height: 100.0%;">Münsterplatz</div>`)[0];
+                popup_016d32a78f12fb5b7a7aa9a6a49e07bb.setContent(html_789ee83276e3b844bdd7ba3c57fc52cf);
+            
+        
+
+        marker_bfb72168ef32c485ff998daeab33eeae.bindPopup(popup_016d32a78f12fb5b7a7aa9a6a49e07bb)
+        ;
+
+        
+    
+    
+            var marker_8f4ce60cb4c49d3d15ae2d8b7060da48 = L.marker(
+                [52.602815, 13.348861],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e3df5ab875dcca0302592e0948594d54 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d5b780037c3f036a68af5dee025c519a = $(`<div id="html_d5b780037c3f036a68af5dee025c519a" style="width: 100.0%; height: 100.0%;">Christen</div>`)[0];
+                popup_e3df5ab875dcca0302592e0948594d54.setContent(html_d5b780037c3f036a68af5dee025c519a);
+            
+        
+
+        marker_8f4ce60cb4c49d3d15ae2d8b7060da48.bindPopup(popup_e3df5ab875dcca0302592e0948594d54)
+        ;
+
+        
+    
+    
+            var marker_b8cae2e81806f5d2876803adc0b6bc58 = L.marker(
+                [52.515831, 13.394894],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_8593adad7058c50a74ff5fc3b2e6d2c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a020b68d1c97cfb7b719f6adfe12d22d = $(`<div id="html_a020b68d1c97cfb7b719f6adfe12d22d" style="width: 100.0%; height: 100.0%;">Evang.-Lutherische Kirchgemeinde</div>`)[0];
+                popup_8593adad7058c50a74ff5fc3b2e6d2c2.setContent(html_a020b68d1c97cfb7b719f6adfe12d22d);
+            
+        
+
+        marker_b8cae2e81806f5d2876803adc0b6bc58.bindPopup(popup_8593adad7058c50a74ff5fc3b2e6d2c2)
+        ;
+
+        
+    
+    
+            var marker_40db226b46cd450e9a6544864bbac897 = L.marker(
+                [52.51438, 13.392191],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_8e542a5dfe356743656f2db067b3ca12 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2e62064bcf73a59ebce4b979939fd383 = $(`<div id="html_2e62064bcf73a59ebce4b979939fd383" style="width: 100.0%; height: 100.0%;">Ref. Pfarramt</div>`)[0];
+                popup_8e542a5dfe356743656f2db067b3ca12.setContent(html_2e62064bcf73a59ebce4b979939fd383);
+            
+        
+
+        marker_40db226b46cd450e9a6544864bbac897.bindPopup(popup_8e542a5dfe356743656f2db067b3ca12)
+        ;
+
+        
+    
+    
+            var marker_edf863afec7572c38a80e0edfaa1375f = L.marker(
+                [52.520604, 13.407174],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_3d156aa82512c86b5f62d16e6aac578d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a23059fbd3ee2cde2cb4f016b8b2bbc3 = $(`<div id="html_a23059fbd3ee2cde2cb4f016b8b2bbc3" style="width: 100.0%; height: 100.0%;">Colori d"arte, Bischoff + Zahler</div>`)[0];
+                popup_3d156aa82512c86b5f62d16e6aac578d.setContent(html_a23059fbd3ee2cde2cb4f016b8b2bbc3);
+            
+        
+
+        marker_edf863afec7572c38a80e0edfaa1375f.bindPopup(popup_3d156aa82512c86b5f62d16e6aac578d)
+        ;
+
+        
+    
+    
+            var marker_5a5006ff1a869f439b45b0ac82223335 = L.marker(
+                [52.534589, 13.40393],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_2493e8533be8733d7cc169a86a30502c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6e24a40bd68d44e0abfbe9353a472288 = $(`<div id="html_6e24a40bd68d44e0abfbe9353a472288" style="width: 100.0%; height: 100.0%;">Christen Heinz</div>`)[0];
+                popup_2493e8533be8733d7cc169a86a30502c.setContent(html_6e24a40bd68d44e0abfbe9353a472288);
+            
+        
+
+        marker_5a5006ff1a869f439b45b0ac82223335.bindPopup(popup_2493e8533be8733d7cc169a86a30502c)
+        ;
+
+        
+    
+    
+            var marker_3ac5882fd6f7f7181ea7805545c7c9ca = L.marker(
+                [52.547681, 13.415788],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_e86892c043f973766f08b3f09de7f3f1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dc383d5ae9965ff729d21ef56f8ecc42 = $(`<div id="html_dc383d5ae9965ff729d21ef56f8ecc42" style="width: 100.0%; height: 100.0%;">Christkatholische Kirche St. Peter und Paul</div>`)[0];
+                popup_e86892c043f973766f08b3f09de7f3f1.setContent(html_dc383d5ae9965ff729d21ef56f8ecc42);
+            
+        
+
+        marker_3ac5882fd6f7f7181ea7805545c7c9ca.bindPopup(popup_e86892c043f973766f08b3f09de7f3f1)
+        ;
+
+        
+    
+    
+            var marker_83634fec8518fb09b07543d2900bcdc4 = L.marker(
+                [52.49641, 13.395703],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_f0e6b16337e7530a954506fb4f9e9276 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b279841f65b25c26656f63558baec741 = $(`<div id="html_b279841f65b25c26656f63558baec741" style="width: 100.0%; height: 100.0%;">Christkatholische Kirchgemeinde Bern</div>`)[0];
+                popup_f0e6b16337e7530a954506fb4f9e9276.setContent(html_b279841f65b25c26656f63558baec741);
+            
+        
+
+        marker_83634fec8518fb09b07543d2900bcdc4.bindPopup(popup_f0e6b16337e7530a954506fb4f9e9276)
+        ;
+
+        
+    
+    
+            var marker_2a9b78e6d133b5c0c0ade403cf459e27 = L.marker(
+                [52.490049, 13.378889],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_b2331716c54363e7d21cb41ef271923c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_04c5f9f828f4ca3e4d719fb3eb51a3da = $(`<div id="html_04c5f9f828f4ca3e4d719fb3eb51a3da" style="width: 100.0%; height: 100.0%;">Antonierkirche</div>`)[0];
+                popup_b2331716c54363e7d21cb41ef271923c.setContent(html_04c5f9f828f4ca3e4d719fb3eb51a3da);
+            
+        
+
+        marker_2a9b78e6d133b5c0c0ade403cf459e27.bindPopup(popup_b2331716c54363e7d21cb41ef271923c)
+        ;
+
+        
+    
+    
+            var marker_d0090edc9f78f94b95ee3cec24c531e0 = L.marker(
+                [52.515747, 13.397647],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_16518a57be73960979e11a42846d8be2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_069f574c8623774ad910adabfb38c6d3 = $(`<div id="html_069f574c8623774ad910adabfb38c6d3" style="width: 100.0%; height: 100.0%;">Gesamtkirchliche Dienste</div>`)[0];
+                popup_16518a57be73960979e11a42846d8be2.setContent(html_069f574c8623774ad910adabfb38c6d3);
+            
+        
+
+        marker_d0090edc9f78f94b95ee3cec24c531e0.bindPopup(popup_16518a57be73960979e11a42846d8be2)
+        ;
+
+        
+    
+    
+            var marker_e62ddb787dfd971ba680af70d33fc2fd = L.marker(
+                [52.474323, 13.440528],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_00147d95dce7bc0b4b7e5830ca1b3102 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_07c714b3bfa7c4a6f962470e06cbbb55 = $(`<div id="html_07c714b3bfa7c4a6f962470e06cbbb55" style="width: 100.0%; height: 100.0%;">Nydeggkirche</div>`)[0];
+                popup_00147d95dce7bc0b4b7e5830ca1b3102.setContent(html_07c714b3bfa7c4a6f962470e06cbbb55);
+            
+        
+
+        marker_e62ddb787dfd971ba680af70d33fc2fd.bindPopup(popup_00147d95dce7bc0b4b7e5830ca1b3102)
+        ;
+
+        
+    
+    
+            var marker_43d890ec9ba3f5b52d597bd97d286064 = L.marker(
+                [52.503649, 13.454447],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_25fa8ac84d345b01a47783c352b3a822 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_da502457f9c87602b721c3e51d77d62c = $(`<div id="html_da502457f9c87602b721c3e51d77d62c" style="width: 100.0%; height: 100.0%;">Französische Kirche</div>`)[0];
+                popup_25fa8ac84d345b01a47783c352b3a822.setContent(html_da502457f9c87602b721c3e51d77d62c);
+            
+        
+
+        marker_43d890ec9ba3f5b52d597bd97d286064.bindPopup(popup_25fa8ac84d345b01a47783c352b3a822)
+        ;
+
+        
+    
+    
+            var marker_d92c897909a3a2c6d09ee00f4436dc98 = L.marker(
+                [52.486041, 13.320159],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_38ca0c2c20810fb8c898da1e6283566f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_739221dffa1a6885a0def866072eb61e = $(`<div id="html_739221dffa1a6885a0def866072eb61e" style="width: 100.0%; height: 100.0%;">Freie Evangelische Gemeinde Bern</div>`)[0];
+                popup_38ca0c2c20810fb8c898da1e6283566f.setContent(html_739221dffa1a6885a0def866072eb61e);
+            
+        
+
+        marker_d92c897909a3a2c6d09ee00f4436dc98.bindPopup(popup_38ca0c2c20810fb8c898da1e6283566f)
+        ;
+
+        
+    
+    
+            var marker_1b5dbc16d05cf4f753e2c472e38c4270 = L.marker(
+                [52.516704, 13.407574],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_70013728052aa57a3f8dcfc2b4b4dfd6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8dac45a6fe2521018df4f9bfd4e5808d = $(`<div id="html_8dac45a6fe2521018df4f9bfd4e5808d" style="width: 100.0%; height: 100.0%;">Vineyard Bern</div>`)[0];
+                popup_70013728052aa57a3f8dcfc2b4b4dfd6.setContent(html_8dac45a6fe2521018df4f9bfd4e5808d);
+            
+        
+
+        marker_1b5dbc16d05cf4f753e2c472e38c4270.bindPopup(popup_70013728052aa57a3f8dcfc2b4b4dfd6)
+        ;
+
+        
+    
+    
+            var marker_bc65dc9f196692654020d938709e2e79 = L.marker(
+                [52.518903, 13.401551],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_48176d98254175bf88b7c858a3721b03 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ec659c0ffc1601aea7491723fe0b8141 = $(`<div id="html_ec659c0ffc1601aea7491723fe0b8141" style="width: 100.0%; height: 100.0%;">RiverLife (Bern International Evangelical Church)</div>`)[0];
+                popup_48176d98254175bf88b7c858a3721b03.setContent(html_ec659c0ffc1601aea7491723fe0b8141);
+            
+        
+
+        marker_bc65dc9f196692654020d938709e2e79.bindPopup(popup_48176d98254175bf88b7c858a3721b03)
+        ;
+
+        
+    
+    
+            var marker_d3431832afabd70a33c2dfb994578e6c = L.marker(
+                [52.524947, 13.395078],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_73ab4820fc1c913a29282a377b2c8c7e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f6699666c189c05c0b2d77f1e19c63f = $(`<div id="html_4f6699666c189c05c0b2d77f1e19c63f" style="width: 100.0%; height: 100.0%;">TRiiO Beratungsstelle</div>`)[0];
+                popup_73ab4820fc1c913a29282a377b2c8c7e.setContent(html_4f6699666c189c05c0b2d77f1e19c63f);
+            
+        
+
+        marker_d3431832afabd70a33c2dfb994578e6c.bindPopup(popup_73ab4820fc1c913a29282a377b2c8c7e)
+        ;
+
+        
+    
+    
+            var marker_011c1b20ef47372f614ad90af1439541 = L.marker(
+                [52.525443, 13.399912],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_6fbe1af50b0727a669c9dcaabf3b2664 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_95d1eb39dfbfac8b06962253692bee17 = $(`<div id="html_95d1eb39dfbfac8b06962253692bee17" style="width: 100.0%; height: 100.0%;">Kirche des Fliegenden Spaghettimonsters Schweiz</div>`)[0];
+                popup_6fbe1af50b0727a669c9dcaabf3b2664.setContent(html_95d1eb39dfbfac8b06962253692bee17);
+            
+        
+
+        marker_011c1b20ef47372f614ad90af1439541.bindPopup(popup_6fbe1af50b0727a669c9dcaabf3b2664)
+        ;
+
+        
+    
+    
+            var marker_74f991db68a200cccbef6c9585d26533 = L.marker(
+                [52.527414, 13.384421],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_4ab5a11f8934b285df8156983b232a61 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_931c0c53b609ae3d0ce0a4cb8b66057c = $(`<div id="html_931c0c53b609ae3d0ce0a4cb8b66057c" style="width: 100.0%; height: 100.0%;">Heiliggeistkirche</div>`)[0];
+                popup_4ab5a11f8934b285df8156983b232a61.setContent(html_931c0c53b609ae3d0ce0a4cb8b66057c);
+            
+        
+
+        marker_74f991db68a200cccbef6c9585d26533.bindPopup(popup_4ab5a11f8934b285df8156983b232a61)
+        ;
+
+        
+    
+    
+            var marker_d09186bbec4ce1077a1a3c740868e6f2 = L.marker(
+                [52.50302, 13.384475],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_91997390ef7da13e218b7462ccc17ba1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_095dc1b06ec84b3d5417bb76fd436543 = $(`<div id="html_095dc1b06ec84b3d5417bb76fd436543" style="width: 100.0%; height: 100.0%;">St. Ursula's Church</div>`)[0];
+                popup_91997390ef7da13e218b7462ccc17ba1.setContent(html_095dc1b06ec84b3d5417bb76fd436543);
+            
+        
+
+        marker_d09186bbec4ce1077a1a3c740868e6f2.bindPopup(popup_91997390ef7da13e218b7462ccc17ba1)
+        ;
+
+        
+    
+    
+            var marker_9ff13c5834f7d49886ec4b8617231f67 = L.marker(
+                [52.508014, 13.367411],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_84f136d50d41bf5ccb78f52664efbb14 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3723d99cd6b54fec55e87b52d910f9d5 = $(`<div id="html_3723d99cd6b54fec55e87b52d910f9d5" style="width: 100.0%; height: 100.0%;">Röm.-kath. Pfarramt Dreifaltigkeit</div>`)[0];
+                popup_84f136d50d41bf5ccb78f52664efbb14.setContent(html_3723d99cd6b54fec55e87b52d910f9d5);
+            
+        
+
+        marker_9ff13c5834f7d49886ec4b8617231f67.bindPopup(popup_84f136d50d41bf5ccb78f52664efbb14)
+        ;
+
+        
+    
+    
+            var marker_4cb92dcbd5e8fbc2cb7a16cb8343e0fd = L.marker(
+                [52.504608, 13.406372],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_f4fd6fca2507bb2dfbbdc69df767b3ec = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_da9ee23906f318c508339c3acea8e901 = $(`<div id="html_da9ee23906f318c508339c3acea8e901" style="width: 100.0%; height: 100.0%;">Dreifaltigkeitskirche</div>`)[0];
+                popup_f4fd6fca2507bb2dfbbdc69df767b3ec.setContent(html_da9ee23906f318c508339c3acea8e901);
+            
+        
+
+        marker_4cb92dcbd5e8fbc2cb7a16cb8343e0fd.bindPopup(popup_f4fd6fca2507bb2dfbbdc69df767b3ec)
+        ;
+
+        
+    
+    
+            var marker_0ef36d36fcdc8bb6b084c9f8bdefc6d2 = L.marker(
+                [52.535868, 13.391911],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_44e46f69b5547215f2dc44199769e410 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa390e15125d6b34d7eda54c5870416e = $(`<div id="html_fa390e15125d6b34d7eda54c5870416e" style="width: 100.0%; height: 100.0%;">Dreifaltigkeit Kirche / Church</div>`)[0];
+                popup_44e46f69b5547215f2dc44199769e410.setContent(html_fa390e15125d6b34d7eda54c5870416e);
+            
+        
+
+        marker_0ef36d36fcdc8bb6b084c9f8bdefc6d2.bindPopup(popup_44e46f69b5547215f2dc44199769e410)
+        ;
+
+        
+    
+    
+            var marker_09c1e43e3e207cbdbd0d933e4c18e0d0 = L.marker(
+                [52.539372, 13.38589],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_2f5bfed9f2673a6acc22b743a37f80fe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4481e056d5091b34f4c06320c069f787 = $(`<div id="html_4481e056d5091b34f4c06320c069f787" style="width: 100.0%; height: 100.0%;">Basilique Trinité</div>`)[0];
+                popup_2f5bfed9f2673a6acc22b743a37f80fe.setContent(html_4481e056d5091b34f4c06320c069f787);
+            
+        
+
+        marker_09c1e43e3e207cbdbd0d933e4c18e0d0.bindPopup(popup_2f5bfed9f2673a6acc22b743a37f80fe)
+        ;
+
+        
+    
+    
+            var marker_a7d49c68a8c00bf07170333d9459a860 = L.marker(
+                [52.536187, 13.411998],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_18c301960050a6cca19f041839188454 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cb3adb0388e78d96994d577112327caa = $(`<div id="html_cb3adb0388e78d96994d577112327caa" style="width: 100.0%; height: 100.0%;">ICF Bern, Office</div>`)[0];
+                popup_18c301960050a6cca19f041839188454.setContent(html_cb3adb0388e78d96994d577112327caa);
+            
+        
+
+        marker_a7d49c68a8c00bf07170333d9459a860.bindPopup(popup_18c301960050a6cca19f041839188454)
+        ;
+
+        
+    
+    
+            var marker_36dc76b900ce776b981dcb1061c5cfb2 = L.marker(
+                [52.496736, 13.366463],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_bf56b97543e028b6cee011b3c902492f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_df0b3d57d9125f323948640b292205c2 = $(`<div id="html_df0b3d57d9125f323948640b292205c2" style="width: 100.0%; height: 100.0%;">Philadelphia Church</div>`)[0];
+                popup_bf56b97543e028b6cee011b3c902492f.setContent(html_df0b3d57d9125f323948640b292205c2);
+            
+        
+
+        marker_36dc76b900ce776b981dcb1061c5cfb2.bindPopup(popup_bf56b97543e028b6cee011b3c902492f)
+        ;
+
+        
+    
+    
+            var marker_8868f5ea5cc2970cb979fa3eb83b6889 = L.marker(
+                [52.500597, 13.358034],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_a840a19c6721bc8f70eb3ced867cc0f1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7970887b34150806b115058c23270a17 = $(`<div id="html_7970887b34150806b115058c23270a17" style="width: 100.0%; height: 100.0%;">Bruder Klaus Kirche</div>`)[0];
+                popup_a840a19c6721bc8f70eb3ced867cc0f1.setContent(html_7970887b34150806b115058c23270a17);
+            
+        
+
+        marker_8868f5ea5cc2970cb979fa3eb83b6889.bindPopup(popup_a840a19c6721bc8f70eb3ced867cc0f1)
+        ;
+
+        
+    
+    
+            var marker_36a2133ebc54c8448cda796fb36f0a7f = L.marker(
+                [52.533288, 13.421394],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_61ac7bea5a5d3f508ae6f37debdb8469 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dac857f03586c42c1a19afdc9798f6e3 = $(`<div id="html_dac857f03586c42c1a19afdc9798f6e3" style="width: 100.0%; height: 100.0%;">Reformierte Kirchen Bern-Jura-Solothurn</div>`)[0];
+                popup_61ac7bea5a5d3f508ae6f37debdb8469.setContent(html_dac857f03586c42c1a19afdc9798f6e3);
+            
+        
+
+        marker_36a2133ebc54c8448cda796fb36f0a7f.bindPopup(popup_61ac7bea5a5d3f508ae6f37debdb8469)
+        ;
+
+        
+    
+    
+            var marker_a66ac6fddfc6710786d0523b95bcbffd = L.marker(
+                [52.493186, 13.412992],
+                {}
+            ).addTo(marker_cluster_ae7aa0b232113e6b6335659760c4248a);
+        
+    
+        var popup_8e5324bf2b3adcb6c428aa26747c446c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4d1e958c0c7e5b5f077ac79005f0c1e5 = $(`<div id="html_4d1e958c0c7e5b5f077ac79005f0c1e5" style="width: 100.0%; height: 100.0%;">Markuskirche</div>`)[0];
+                popup_8e5324bf2b3adcb6c428aa26747c446c.setContent(html_4d1e958c0c7e5b5f077ac79005f0c1e5);
+            
+        
+
+        marker_a66ac6fddfc6710786d0523b95bcbffd.bindPopup(popup_8e5324bf2b3adcb6c428aa26747c446c)
+        ;
+
+        
+    
+    
+            marker_cluster_ae7aa0b232113e6b6335659760c4248a.addTo(map_6cf1950cf207233df925312575bd0cf7);
+        
+</script>
+</html>
