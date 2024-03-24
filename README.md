@@ -12,7 +12,3 @@ There will be necessary installing some libraries like:
  - `geopy`
 
 Use `pip install {library}`
-
-## Contributors
-
-| [<img src="https://avatars.githubusercontent.com/u/60545944?v=4" width=115><br><sub>Luis Carretero Lopez</sub>](https://github.com/luiscarlop) 
